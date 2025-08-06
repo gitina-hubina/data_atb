@@ -23,4 +23,4 @@ jobs:
 
       - name: Запускаем скрипт
         run: |
-          python main.py
+          python atb-pars-cmdline.py
