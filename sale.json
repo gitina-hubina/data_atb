@@ -8530,16 +8530,6 @@
     "quantity": 0
   },
   {
-    "id": "32311",
-    "name": "Піца 0,5 кг Гавайська к/уп (ФТ) ГП",
-    "category": "Піца",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/60517/catalog_list_60517.png",
-    "oldPrice": "150.00",
-    "newPrice": "120.90",
-    "cardPrice": "114.86",
-    "quantity": 0
-  },
-  {
     "id": "41499",
     "name": "Пиво 4х0,5л Hike Преміум НАБІР з/б",
     "category": "Пиво",
@@ -8830,21 +8820,21 @@
     "quantity": 0
   },
   {
-    "id": "31105",
-    "name": "Горілка 0,5 л ЧЕРВОНА КАЛИНА класична 40% скл/бут",
-    "category": "Горілка",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/70137/catalog_list_70137.jpg",
-    "oldPrice": "188.90",
-    "newPrice": "136.90",
-    "cardPrice": "130.06",
-    "quantity": 0
-  },
-  {
     "id": "42261",
     "name": "Антиперспірант 200 мл Nivea Pearl&Beauty аерозоль",
     "category": "Дезодоранти",
     "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/94031/catalog_list_94031.jpg",
     "oldPrice": "166.30",
+    "newPrice": "136.90",
+    "cardPrice": "130.06",
+    "quantity": 0
+  },
+  {
+    "id": "31105",
+    "name": "Горілка 0,5 л ЧЕРВОНА КАЛИНА класична 40% скл/бут",
+    "category": "Горілка",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/70137/catalog_list_70137.jpg",
+    "oldPrice": "188.90",
     "newPrice": "136.90",
     "cardPrice": "130.06",
     "quantity": 0
@@ -9066,6 +9056,16 @@
     "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/68731/catalog_list_68731.jpg",
     "oldPrice": "--.--",
     "newPrice": "149.50",
+    "cardPrice": "--.--",
+    "quantity": 0
+  },
+  {
+    "id": "32311",
+    "name": "Піца 0,5 кг Гавайська к/уп (ФТ) ГП",
+    "category": "Піца",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/60517/catalog_list_60517.png",
+    "oldPrice": "--.--",
+    "newPrice": "150.00",
     "cardPrice": "--.--",
     "quantity": 0
   },
@@ -9370,21 +9370,21 @@
     "quantity": 0
   },
   {
-    "id": "3788",
-    "name": "Напій винний 0,75л Perlino Fragolino ігристий білий ароматизований 7,5%, Італія",
-    "category": "Ігристе вино",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/32887/catalog_list_32887.jpg",
-    "oldPrice": "196.80",
-    "newPrice": "169.40",
-    "cardPrice": "--.--",
-    "quantity": 0
-  },
-  {
     "id": "42755",
     "name": "Напій винний 0,75 л Lieblingsmuss газований білий ароматизований 8,5% об ск/пл Німеччина",
     "category": "Ігристе вино",
     "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/95357/catalog_list_95357.jpg",
     "oldPrice": "248.60",
+    "newPrice": "169.40",
+    "cardPrice": "--.--",
+    "quantity": 0
+  },
+  {
+    "id": "3788",
+    "name": "Напій винний 0,75л Perlino Fragolino ігристий білий ароматизований 7,5%, Італія",
+    "category": "Ігристе вино",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/32887/catalog_list_32887.jpg",
+    "oldPrice": "196.80",
     "newPrice": "169.40",
     "cardPrice": "--.--",
     "quantity": 0
@@ -9456,7 +9456,7 @@
     "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/91399/catalog_list_91399.jpg",
     "oldPrice": "--.--",
     "newPrice": "178.90",
-    "cardPrice": "169.96",
+    "cardPrice": "168.90",
     "quantity": 0
   },
   {
@@ -10406,7 +10406,7 @@
     "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/86669/catalog_list_86669.jpg",
     "oldPrice": "--.--",
     "newPrice": "459.40",
-    "cardPrice": "436.38",
+    "cardPrice": "436.43",
     "quantity": 0
   },
   {
@@ -10416,7 +10416,7 @@
     "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/86719/catalog_list_86719.jpg",
     "oldPrice": "--.--",
     "newPrice": "459.40",
-    "cardPrice": "436.38",
+    "cardPrice": "436.43",
     "quantity": 0
   },
   {
