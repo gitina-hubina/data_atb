@@ -270,16 +270,6 @@
     "quantity": 0
   },
   {
-    "id": "41529",
-    "name": "Пиво 0,5 л Hike Berry нефільтроване ж/б",
-    "category": "Пиво",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/91501/catalog_list_91501.jpg",
-    "oldPrice": "37.60",
-    "newPrice": "22.50",
-    "cardPrice": "21.38",
-    "quantity": 0
-  },
-  {
     "id": "5479",
     "name": "Чай (25 ф/п х 2г) Своя Лінія чорний байховий дрібний",
     "category": "Чай",
@@ -300,13 +290,13 @@
     "quantity": 0
   },
   {
-    "id": "21269",
-    "name": "Соус 200 г Щедро Тартар",
-    "category": "Соуси, кетчупи",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/37329/catalog_list_37329.jpg",
-    "oldPrice": "34.50",
-    "newPrice": "22.90",
-    "cardPrice": "--.--",
+    "id": "41529",
+    "name": "Пиво 0,5 л Hike Berry нефільтроване ж/б",
+    "category": "Пиво",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/91501/catalog_list_91501.jpg",
+    "oldPrice": "37.60",
+    "newPrice": "22.50",
+    "cardPrice": "21.38",
     "quantity": 0
   },
   {
@@ -317,6 +307,16 @@
     "oldPrice": "43.60",
     "newPrice": "22.90",
     "cardPrice": "21.76",
+    "quantity": 0
+  },
+  {
+    "id": "21269",
+    "name": "Соус 200 г Щедро Тартар",
+    "category": "Соуси, кетчупи",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/37329/catalog_list_37329.jpg",
+    "oldPrice": "34.50",
+    "newPrice": "22.90",
+    "cardPrice": "--.--",
     "quantity": 0
   },
   {
@@ -340,6 +340,16 @@
     "quantity": 0
   },
   {
+    "id": "32641",
+    "name": "Морозиво 80г Київський пломбір без цукру ваф/стак п/ет",
+    "category": "Морозиво",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/95107/catalog_list_95107.jpg",
+    "oldPrice": "45.90",
+    "newPrice": "24.50",
+    "cardPrice": "--.--",
+    "quantity": 0
+  },
+  {
     "id": "28611",
     "name": "Паштет 131 г Profi курячий ламістер",
     "category": "М'ясні та рибні консерви",
@@ -350,41 +360,21 @@
     "quantity": 0
   },
   {
-    "id": "28613",
-    "name": "Паштет 131 г Profi індичий ламістер",
-    "category": "М'ясні та рибні консерви",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/86699/catalog_list_86699.png",
-    "oldPrice": "32.90",
+    "id": "32641",
+    "name": "Морозиво 80г Київський пломбір без цукру ваф/стак п/ет",
+    "category": "Морозиво",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/95107/catalog_list_95107.jpg",
+    "oldPrice": "45.90",
     "newPrice": "24.50",
     "cardPrice": "--.--",
     "quantity": 0
   },
   {
-    "id": "28613",
-    "name": "Паштет 131 г Profi індичий ламістер",
+    "id": "28611",
+    "name": "Паштет 131 г Profi курячий ламістер",
     "category": "М'ясні та рибні консерви",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/86699/catalog_list_86699.png",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/86697/catalog_list_86697.png",
     "oldPrice": "32.90",
-    "newPrice": "24.50",
-    "cardPrice": "--.--",
-    "quantity": 0
-  },
-  {
-    "id": "31677",
-    "name": "Паштет 130 г Profi з м'ясом гусячим ламістер",
-    "category": "М'ясні та рибні консерви",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/86733/catalog_list_86733.png",
-    "oldPrice": "32.90",
-    "newPrice": "24.50",
-    "cardPrice": "--.--",
-    "quantity": 0
-  },
-  {
-    "id": "31937",
-    "name": "Печивo 120 г Своя лінія Lucciani з начинкою зі смаком апельсину м/уп",
-    "category": "Печиво, пряники",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/88199/catalog_list_88199.jpg",
-    "oldPrice": "31.90",
     "newPrice": "24.50",
     "cardPrice": "--.--",
     "quantity": 0
@@ -394,6 +384,16 @@
     "name": "Печиво 120 г Своя Лінія Lucciani з какао та начинкою зі смаком вишні м/уп",
     "category": "Печиво, пряники",
     "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/88203/catalog_list_88203.jpg",
+    "oldPrice": "31.90",
+    "newPrice": "24.50",
+    "cardPrice": "--.--",
+    "quantity": 0
+  },
+  {
+    "id": "31937",
+    "name": "Печивo 120 г Своя лінія Lucciani з начинкою зі смаком апельсину м/уп",
+    "category": "Печиво, пряники",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/88199/catalog_list_88199.jpg",
     "oldPrice": "31.90",
     "newPrice": "24.50",
     "cardPrice": "--.--",
@@ -410,10 +410,10 @@
     "quantity": 0
   },
   {
-    "id": "38669",
-    "name": "Напій винний 330мл Fratelli Secco Dry слабоалкогольний газований сухий 6-6,9% об ж/б",
+    "id": "38673",
+    "name": "Напій винний 330 мл FRATELLI FRAGOLINO BIANCO слабоалкогольний газований 6-6,9% об ж/б",
     "category": "Слабоалкогольні напої",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/83393/catalog_list_83393.jpg",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/82829/catalog_list_82829.jpg",
     "oldPrice": "48.70",
     "newPrice": "25.20",
     "cardPrice": "--.--",
@@ -430,10 +430,10 @@
     "quantity": 0
   },
   {
-    "id": "38673",
-    "name": "Напій винний 330 мл FRATELLI FRAGOLINO BIANCO слабоалкогольний газований 6-6,9% об ж/б",
+    "id": "38669",
+    "name": "Напій винний 330мл Fratelli Secco Dry слабоалкогольний газований сухий 6-6,9% об ж/б",
     "category": "Слабоалкогольні напої",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/82829/catalog_list_82829.jpg",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/83393/catalog_list_83393.jpg",
     "oldPrice": "48.70",
     "newPrice": "25.20",
     "cardPrice": "--.--",
@@ -460,6 +460,46 @@
     "quantity": 0
   },
   {
+    "id": "41753",
+    "name": "Пиво 0,5 л Tanker Tume Lager темне фільтроване пастеризоване 5% об ж/б Литва",
+    "category": "Пиво",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/92081/catalog_list_92081.png",
+    "oldPrice": "41.90",
+    "newPrice": "25.90",
+    "cardPrice": "24.61",
+    "quantity": 0
+  },
+  {
+    "id": "41751",
+    "name": "Пиво 0,5 л Tanker Sauna Lager світле фільтроване пастеризоване 5% об ж/б Литва",
+    "category": "Пиво",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/92083/catalog_list_92083.png",
+    "oldPrice": "41.90",
+    "newPrice": "25.90",
+    "cardPrice": "24.61",
+    "quantity": 0
+  },
+  {
+    "id": "27347",
+    "name": "Нaпій 0,75 л Schweppes Classic Mojito бeзaлкoгoльний сoкoвмісний сильнoгaзoвaний ПЕТ",
+    "category": "Напої",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/94469/catalog_list_94469.jpg",
+    "oldPrice": "36.40",
+    "newPrice": "25.90",
+    "cardPrice": "--.--",
+    "quantity": 0
+  },
+  {
+    "id": "42429",
+    "name": "Нaпій 0,75 л Schweppes Spritz Aperitivo бeзaлкoгoльний сoкoвмісний сильнoгaзoвaний ПЕТ",
+    "category": "Напої",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/94519/catalog_list_94519.jpg",
+    "oldPrice": "36.40",
+    "newPrice": "25.90",
+    "cardPrice": "--.--",
+    "quantity": 0
+  },
+  {
     "id": "36885",
     "name": "Чай (40 ф/п х 1,5 г) День у День суміш чорного та зеленого з добавками фруктів та квітів, к/уп",
     "category": "Чай",
@@ -480,51 +520,11 @@
     "quantity": 0
   },
   {
-    "id": "41751",
-    "name": "Пиво 0,5 л Tanker Sauna Lager світле фільтроване пастеризоване 5% об ж/б Литва",
-    "category": "Пиво",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/92083/catalog_list_92083.png",
-    "oldPrice": "41.90",
-    "newPrice": "25.90",
-    "cardPrice": "24.61",
-    "quantity": 0
-  },
-  {
-    "id": "41753",
-    "name": "Пиво 0,5 л Tanker Tume Lager темне фільтроване пастеризоване 5% об ж/б Литва",
-    "category": "Пиво",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/92081/catalog_list_92081.png",
-    "oldPrice": "41.90",
-    "newPrice": "25.90",
-    "cardPrice": "24.61",
-    "quantity": 0
-  },
-  {
     "id": "36889",
     "name": "Чай (40 ф/п х 2 г) День у День чорний байховий цейлонський, к/уп",
     "category": "Чай",
     "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/77185/catalog_list_77185.jpg",
     "oldPrice": "39.90",
-    "newPrice": "25.90",
-    "cardPrice": "--.--",
-    "quantity": 0
-  },
-  {
-    "id": "27347",
-    "name": "Нaпій 0,75 л Schweppes Classic Mojito бeзaлкoгoльний сoкoвмісний сильнoгaзoвaний ПЕТ",
-    "category": "Напої",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/94469/catalog_list_94469.jpg",
-    "oldPrice": "36.40",
-    "newPrice": "25.90",
-    "cardPrice": "--.--",
-    "quantity": 0
-  },
-  {
-    "id": "42429",
-    "name": "Нaпій 0,75 л Schweppes Spritz Aperitivo бeзaлкoгoльний сoкoвмісний сильнoгaзoвaний ПЕТ",
-    "category": "Напої",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/94519/catalog_list_94519.jpg",
-    "oldPrice": "36.40",
     "newPrice": "25.90",
     "cardPrice": "--.--",
     "quantity": 0
@@ -570,16 +570,6 @@
     "quantity": 0
   },
   {
-    "id": "41745",
-    "name": "Пиво 0,5 л Faxe Premium світле фільтроване пастеризоване 5% об ж/б Литва",
-    "category": "Пиво",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/92085/catalog_list_92085.png",
-    "oldPrice": "41.90",
-    "newPrice": "26.90",
-    "cardPrice": "25.56",
-    "quantity": 0
-  },
-  {
     "id": "10956",
     "name": "Пиво 0,5 л Faxe світле фільтроване 4,6%, Литва",
     "category": "Пиво",
@@ -590,10 +580,20 @@
     "quantity": 0
   },
   {
-    "id": "11977",
-    "name": "Нaпій 0,5 л BRONX Темна Вишня слaбoaлкoгoльний eнepгeтичний 8%",
-    "category": "Слабоалкогольні напої",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/64973/catalog_list_64973.jpg",
+    "id": "41745",
+    "name": "Пиво 0,5 л Faxe Premium світле фільтроване пастеризоване 5% об ж/б Литва",
+    "category": "Пиво",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/92085/catalog_list_92085.png",
+    "oldPrice": "41.90",
+    "newPrice": "26.90",
+    "cardPrice": "25.56",
+    "quantity": 0
+  },
+  {
+    "id": "26125",
+    "name": "Крем 75 мл BeautyDerm дитячий універсальний з екстрактом череди/prebiotic and vitamins A,E тюбик",
+    "category": "Догляд за тілом",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/88235/catalog_list_88235.jpg",
     "oldPrice": "45.90",
     "newPrice": "26.90",
     "cardPrice": "--.--",
@@ -610,10 +610,10 @@
     "quantity": 0
   },
   {
-    "id": "26125",
-    "name": "Крем 75 мл BeautyDerm дитячий універсальний з екстрактом череди/prebiotic and vitamins A,E тюбик",
-    "category": "Догляд за тілом",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/88235/catalog_list_88235.jpg",
+    "id": "11977",
+    "name": "Нaпій 0,5 л BRONX Темна Вишня слaбoaлкoгoльний eнepгeтичний 8%",
+    "category": "Слабоалкогольні напої",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/64973/catalog_list_64973.jpg",
     "oldPrice": "45.90",
     "newPrice": "26.90",
     "cardPrice": "--.--",
@@ -660,20 +660,20 @@
     "quantity": 0
   },
   {
-    "id": "34755",
-    "name": "Пиво 0,568 л світле Meistrite Gildi Eripruul світле фільтроване 5% об ж/б Литва",
+    "id": "34753",
+    "name": "Пиво 0,568 л світле Meistrite Gildi Pils світле фільтроване 4,4% об ж/б Литва",
     "category": "Пиво",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/69637/catalog_list_69637.jpg",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/69635/catalog_list_69635.jpg",
     "oldPrice": "41.50",
     "newPrice": "28.90",
     "cardPrice": "27.46",
     "quantity": 0
   },
   {
-    "id": "34753",
-    "name": "Пиво 0,568 л світле Meistrite Gildi Pils світле фільтроване 4,4% об ж/б Литва",
+    "id": "34755",
+    "name": "Пиво 0,568 л світле Meistrite Gildi Eripruul світле фільтроване 5% об ж/б Литва",
     "category": "Пиво",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/69635/catalog_list_69635.jpg",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/69637/catalog_list_69637.jpg",
     "oldPrice": "41.50",
     "newPrice": "28.90",
     "cardPrice": "27.46",
@@ -700,20 +700,20 @@
     "quantity": 0
   },
   {
-    "id": "41741",
-    "name": "Пиво 0,5 л Patronus Hefeweissbier світле пшеничне фільтроване пастеризоване 5,2% об ж/б Німеччина",
+    "id": "41743",
+    "name": "Пиво 0,5 л Patronus Helles Lager світле фільтроване пастеризоване 5% об ж/б Німеччина",
     "category": "Пиво",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/92093/catalog_list_92093.png",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/92091/catalog_list_92091.png",
     "oldPrice": "46.50",
     "newPrice": "29.90",
     "cardPrice": "28.41",
     "quantity": 0
   },
   {
-    "id": "41743",
-    "name": "Пиво 0,5 л Patronus Helles Lager світле фільтроване пастеризоване 5% об ж/б Німеччина",
+    "id": "41741",
+    "name": "Пиво 0,5 л Patronus Hefeweissbier світле пшеничне фільтроване пастеризоване 5,2% об ж/б Німеччина",
     "category": "Пиво",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/92091/catalog_list_92091.png",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/92093/catalog_list_92093.png",
     "oldPrice": "46.50",
     "newPrice": "29.90",
     "cardPrice": "28.41",
@@ -750,20 +750,20 @@
     "quantity": 0
   },
   {
-    "id": "10963",
-    "name": "Пиво 0,568 л SCOTTY WEST Dark Lager темне фільтроване 5%, Латвія",
+    "id": "23727",
+    "name": "Пиво 0,568 л SCOTTY WEST Lager світле фільтроване 5 % об.ж/б Латвія",
     "category": "Пиво",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/11086/catalog_list_11086.jpg",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/29609/catalog_list_29609.jpg",
     "oldPrice": "46.90",
     "newPrice": "31.50",
     "cardPrice": "29.93",
     "quantity": 0
   },
   {
-    "id": "23727",
-    "name": "Пиво 0,568 л SCOTTY WEST Lager світле фільтроване 5 % об.ж/б Латвія",
+    "id": "10963",
+    "name": "Пиво 0,568 л SCOTTY WEST Dark Lager темне фільтроване 5%, Латвія",
     "category": "Пиво",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/29609/catalog_list_29609.jpg",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/11086/catalog_list_11086.jpg",
     "oldPrice": "46.90",
     "newPrice": "31.50",
     "cardPrice": "29.93",
@@ -870,20 +870,20 @@
     "quantity": 0
   },
   {
-    "id": "15029",
-    "name": "Напій 2 л Живчик газований",
+    "id": "32345",
+    "name": "Напій 2 л Живчик Вишня безалкогольний сильногазований ПЕТ",
     "category": "Напої",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/69449/catalog_list_69449.jpg",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/60633/catalog_list_60633.png",
     "oldPrice": "53.80",
     "newPrice": "34.90",
     "cardPrice": "--.--",
     "quantity": 0
   },
   {
-    "id": "32345",
-    "name": "Напій 2 л Живчик Вишня безалкогольний сильногазований ПЕТ",
+    "id": "15029",
+    "name": "Напій 2 л Живчик газований",
     "category": "Напої",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/60633/catalog_list_60633.png",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/69449/catalog_list_69449.jpg",
     "oldPrice": "53.80",
     "newPrice": "34.90",
     "cardPrice": "--.--",
@@ -950,21 +950,21 @@
     "quantity": 0
   },
   {
-    "id": "39765",
-    "name": "Чай 100 г День у День чорний байховий листовий, к/уп",
-    "category": "Чай",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/87263/catalog_list_87263.jpg",
-    "oldPrice": "55.90",
-    "newPrice": "35.90",
-    "cardPrice": "--.--",
-    "quantity": 0
-  },
-  {
     "id": "15065",
     "name": "Квас 2л Своя лінія хлібний",
     "category": "Квас",
     "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/51171/catalog_list_51171.jpg",
     "oldPrice": "49.90",
+    "newPrice": "35.90",
+    "cardPrice": "--.--",
+    "quantity": 0
+  },
+  {
+    "id": "39765",
+    "name": "Чай 100 г День у День чорний байховий листовий, к/уп",
+    "category": "Чай",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/87263/catalog_list_87263.jpg",
+    "oldPrice": "55.90",
     "newPrice": "35.90",
     "cardPrice": "--.--",
     "quantity": 0
@@ -1010,20 +1010,20 @@
     "quantity": 0
   },
   {
-    "id": "17",
-    "name": "Напій Sprite 2 л",
+    "id": "16",
+    "name": "Напій 2 л Fanta Апельсин безалкoгoльний сильнoгазoваний",
     "category": "Напої",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/94449/catalog_list_94449.jpg",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/94445/catalog_list_94445.jpg",
     "oldPrice": "54.60",
     "newPrice": "40.70",
     "cardPrice": "--.--",
     "quantity": 0
   },
   {
-    "id": "16",
-    "name": "Напій 2 л Fanta Апельсин безалкoгoльний сильнoгазoваний",
+    "id": "17",
+    "name": "Напій Sprite 2 л",
     "category": "Напої",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/94445/catalog_list_94445.jpg",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/94449/catalog_list_94449.jpg",
     "oldPrice": "54.60",
     "newPrice": "40.70",
     "cardPrice": "--.--",
@@ -1280,16 +1280,6 @@
     "quantity": 0
   },
   {
-    "id": "31089",
-    "name": "Пиво 2,25 л Чернігівське Світле ПЕТ",
-    "category": "Пиво",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/83301/catalog_list_83301.jpg",
-    "oldPrice": "98.50",
-    "newPrice": "55.90",
-    "cardPrice": "53.11",
-    "quantity": 0
-  },
-  {
     "id": "20337",
     "name": "Нектар 0,95 л Jaffa Fitness Апельсиново-Грейпфрутовий з екстрактом листя стевії",
     "category": "Соки, нектари",
@@ -1297,6 +1287,16 @@
     "oldPrice": "83.50",
     "newPrice": "55.90",
     "cardPrice": "--.--",
+    "quantity": 0
+  },
+  {
+    "id": "31089",
+    "name": "Пиво 2,25 л Чернігівське Світле ПЕТ",
+    "category": "Пиво",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/83301/catalog_list_83301.jpg",
+    "oldPrice": "98.50",
+    "newPrice": "55.90",
+    "cardPrice": "53.11",
     "quantity": 0
   },
   {
@@ -1600,16 +1600,6 @@
     "quantity": 0
   },
   {
-    "id": "2032",
-    "name": "Ковбаса 0,5 кг М'ясна лавка/Своя лінія Баликова н/к",
-    "category": "Ковбаса",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/85675/catalog_list_85675.jpg",
-    "oldPrice": "152.80",
-    "newPrice": "83.90",
-    "cardPrice": "--.--",
-    "quantity": 0
-  },
-  {
     "id": "39179",
     "name": "Консерви 530 г Lorado Гриби опеньки мариновані cк/б",
     "category": "Овочева та фруктова консервація",
@@ -1780,16 +1770,6 @@
     "quantity": 0
   },
   {
-    "id": "33939",
-    "name": "Шоколад 275 г Roshen Lacmi Strawberry cake зі смаком полуниця-крем та печивом м/уп",
-    "category": "Шоколад",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/67555/catalog_list_67555.jpg",
-    "oldPrice": "196.70",
-    "newPrice": "108.90",
-    "cardPrice": "--.--",
-    "quantity": 0
-  },
-  {
     "id": "7747",
     "name": "Шоколад 295г Lacmi молочний з арахісом та карамельно-арахісовою начинкою",
     "category": "Шоколад",
@@ -1804,6 +1784,16 @@
     "name": "Шоколад 280 г Roshen Lacmi молочний з мигдалем, кокосовим кремом та рисовими кульками м/уп",
     "category": "Шоколад",
     "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/34225/catalog_list_34225.jpg",
+    "oldPrice": "196.70",
+    "newPrice": "108.90",
+    "cardPrice": "--.--",
+    "quantity": 0
+  },
+  {
+    "id": "33939",
+    "name": "Шоколад 275 г Roshen Lacmi Strawberry cake зі смаком полуниця-крем та печивом м/уп",
+    "category": "Шоколад",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/67555/catalog_list_67555.jpg",
     "oldPrice": "196.70",
     "newPrice": "108.90",
     "cardPrice": "--.--",
