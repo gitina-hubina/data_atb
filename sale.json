@@ -3324,7 +3324,7 @@
     "name": "Прокладки 8 шт Kotex Ultra Normal",
     "category": "Гігієнічні прокладки/тампони",
     "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/15267/catalog_list_15267.jpg",
-    "oldPrice": "46.90",
+    "oldPrice": "--.--",
     "newPrice": "42.50",
     "cardPrice": "40.38",
     "quantity": 0
@@ -3334,7 +3334,7 @@
     "name": "Прокладки 8 шт Kotex Ultra Soft Normal",
     "category": "Гігієнічні прокладки/тампони",
     "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/33037/catalog_list_33037.jpg",
-    "oldPrice": "46.90",
+    "oldPrice": "--.--",
     "newPrice": "42.50",
     "cardPrice": "40.38",
     "quantity": 0
@@ -3564,7 +3564,7 @@
     "name": "Прокладки 6 шт Kotex Ultra Soft Night",
     "category": "Гігієнічні прокладки/тампони",
     "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/33035/catalog_list_33035.jpg",
-    "oldPrice": "48.20",
+    "oldPrice": "--.--",
     "newPrice": "45.60",
     "cardPrice": "43.32",
     "quantity": 0
@@ -3574,7 +3574,7 @@
     "name": "Прокладки 7 шт Kotex Ultra Super",
     "category": "Гігієнічні прокладки/тампони",
     "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/15276/catalog_list_15276.jpg",
-    "oldPrice": "48.20",
+    "oldPrice": "--.--",
     "newPrice": "45.60",
     "cardPrice": "43.32",
     "quantity": 0
@@ -3584,7 +3584,7 @@
     "name": "Прокладки 6 шт Kotex Ultra Night",
     "category": "Гігієнічні прокладки/тампони",
     "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/15283/catalog_list_15283.jpg",
-    "oldPrice": "48.20",
+    "oldPrice": "--.--",
     "newPrice": "45.60",
     "cardPrice": "43.32",
     "quantity": 0
@@ -5950,16 +5950,6 @@
     "quantity": 0
   },
   {
-    "id": "10067",
-    "name": "Сир м'який 120 г President Камамбер 60%",
-    "category": "Сири м'які",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/37659/catalog_list_37659.jpg",
-    "oldPrice": "112.90",
-    "newPrice": "93.40",
-    "cardPrice": "88.73",
-    "quantity": 0
-  },
-  {
     "id": "10869",
     "name": "Напій 300г Gellwe Paw Patrol швидкорозчинний з какао, збагачений вітамінами та кальцієм Польща",
     "category": "Кава, какао",
@@ -6050,21 +6040,21 @@
     "quantity": 0
   },
   {
-    "id": "43335",
-    "name": "Кава 50 г Nescafe Gold розчинна сублімована м/уп",
-    "category": "Кава, какао",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/98081/catalog_list_98081.jpg",
-    "oldPrice": "112.90",
-    "newPrice": "98.90",
-    "cardPrice": "93.96",
-    "quantity": 0
-  },
-  {
     "id": "1342",
     "name": "Винo 0,75 л Бoлград Good Year Granato rosso червoне напівсoлoдке 9-13%, Україна",
     "category": "Вино",
     "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/79529/catalog_list_79529.jpg",
     "oldPrice": "119.90",
+    "newPrice": "98.90",
+    "cardPrice": "93.96",
+    "quantity": 0
+  },
+  {
+    "id": "43335",
+    "name": "Кава 50 г Nescafe Gold розчинна сублімована м/уп",
+    "category": "Кава, какао",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/98081/catalog_list_98081.jpg",
+    "oldPrice": "112.90",
     "newPrice": "98.90",
     "cardPrice": "93.96",
     "quantity": 0
@@ -6180,11 +6170,21 @@
     "quantity": 0
   },
   {
+    "id": "32227",
+    "name": "Мийний засіб. Гель для прання 1,5л Fresini універсальний/для кольорових тканин п/флакон",
+    "category": "Пральні порошки та засоби для прання",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/71251/catalog_list_71251.jpg",
+    "oldPrice": "139.90",
+    "newPrice": "103.60",
+    "cardPrice": "98.42",
+    "quantity": 0
+  },
+  {
     "id": "2826",
     "name": "Тампони 16 шт Kotex Normal Ultra Sorb",
     "category": "Гігієнічні прокладки/тампони",
     "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/99361/catalog_list_99361.jpg",
-    "oldPrice": "108.80",
+    "oldPrice": "--.--",
     "newPrice": "103.60",
     "cardPrice": "98.42",
     "quantity": 0
@@ -6194,17 +6194,7 @@
     "name": "Тампони 16 шт Kotex Super Ultra Sorb",
     "category": "Гігієнічні прокладки/тампони",
     "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/99365/catalog_list_99365.jpg",
-    "oldPrice": "108.80",
-    "newPrice": "103.60",
-    "cardPrice": "98.42",
-    "quantity": 0
-  },
-  {
-    "id": "32227",
-    "name": "Мийний засіб. Гель для прання 1,5л Fresini універсальний/для кольорових тканин п/флакон",
-    "category": "Пральні порошки та засоби для прання",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/71251/catalog_list_71251.jpg",
-    "oldPrice": "139.90",
+    "oldPrice": "--.--",
     "newPrice": "103.60",
     "cardPrice": "98.42",
     "quantity": 0
