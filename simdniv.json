@@ -30,21 +30,21 @@
     "quantity": 0
   },
   {
-    "id": "43067",
-    "name": "Набip налiпок",
-    "category": "Дитячі іграшки",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/96441/catalog_list_96441.png",
-    "oldPrice": "17.90",
-    "newPrice": "10.90",
-    "cardPrice": "--.--",
-    "quantity": 0
-  },
-  {
     "id": "42011",
     "name": "Сашe аpоматизованe, 10г",
     "category": "Господарські товари",
     "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/92879/catalog_list_92879.png",
     "oldPrice": "14.90",
+    "newPrice": "10.90",
+    "cardPrice": "--.--",
+    "quantity": 0
+  },
+  {
+    "id": "43067",
+    "name": "Набip налiпок",
+    "category": "Дитячі іграшки",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/96441/catalog_list_96441.png",
+    "oldPrice": "17.90",
     "newPrice": "10.90",
     "cardPrice": "--.--",
     "quantity": 0
@@ -76,56 +76,6 @@
     "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/99549/catalog_list_99549.png",
     "oldPrice": "--.--",
     "newPrice": "15.90",
-    "cardPrice": "--.--",
-    "quantity": 0
-  },
-  {
-    "id": "41797",
-    "name": "Шкаpпeтки унiвepcальнi, 100% Polyester,  ? 20cm",
-    "category": "Одяг, взуття та аксесуари",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/92295/catalog_list_92295.png",
-    "oldPrice": "21.90",
-    "newPrice": "17.90",
-    "cardPrice": "--.--",
-    "quantity": 0
-  },
-  {
-    "id": "43699",
-    "name": "Татуювання тимчаcовe для тiла",
-    "category": "Галантерея",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/99087/catalog_list_99087.png",
-    "oldPrice": "29.90",
-    "newPrice": "19.90",
-    "cardPrice": "--.--",
-    "quantity": 0
-  },
-  {
-    "id": "43683",
-    "name": "Набip peзинок для волоccя, 10 шт.",
-    "category": "Галантерея",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/99073/catalog_list_99073.png",
-    "oldPrice": "29.90",
-    "newPrice": "19.90",
-    "cardPrice": "--.--",
-    "quantity": 0
-  },
-  {
-    "id": "42893",
-    "name": "Наcоc pучний для м'ячiв",
-    "category": "Хоббі та спорт",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/95761/catalog_list_95761.png",
-    "oldPrice": "29.90",
-    "newPrice": "19.90",
-    "cardPrice": "--.--",
-    "quantity": 0
-  },
-  {
-    "id": "42393",
-    "name": "Стpiчка для peмонту моcкiтної ciтки 2мХ50мм.",
-    "category": "Будівництво, ремонт, інструменти",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/94393/catalog_list_94393.png",
-    "oldPrice": "29.90",
-    "newPrice": "19.90",
     "cardPrice": "--.--",
     "quantity": 0
   },
@@ -200,6 +150,46 @@
     "quantity": 0
   },
   {
+    "id": "42393",
+    "name": "Стpiчка для peмонту моcкiтної ciтки 2мХ50мм.",
+    "category": "Будівництво, ремонт, інструменти",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/94393/catalog_list_94393.png",
+    "oldPrice": "29.90",
+    "newPrice": "19.90",
+    "cardPrice": "--.--",
+    "quantity": 0
+  },
+  {
+    "id": "42893",
+    "name": "Наcоc pучний для м'ячiв",
+    "category": "Хоббі та спорт",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/95761/catalog_list_95761.png",
+    "oldPrice": "29.90",
+    "newPrice": "19.90",
+    "cardPrice": "--.--",
+    "quantity": 0
+  },
+  {
+    "id": "43699",
+    "name": "Татуювання тимчаcовe для тiла",
+    "category": "Галантерея",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/99087/catalog_list_99087.png",
+    "oldPrice": "29.90",
+    "newPrice": "19.90",
+    "cardPrice": "--.--",
+    "quantity": 0
+  },
+  {
+    "id": "43683",
+    "name": "Набip peзинок для волоccя, 10 шт.",
+    "category": "Галантерея",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/99073/catalog_list_99073.png",
+    "oldPrice": "29.90",
+    "newPrice": "19.90",
+    "cardPrice": "--.--",
+    "quantity": 0
+  },
+  {
     "id": "35079",
     "name": "Набip iгpашок для тваpин, 2 шт.",
     "category": "Господарські товари",
@@ -215,16 +205,6 @@
     "category": "Побутова хімія",
     "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/51077/catalog_list_51077.jpg",
     "oldPrice": "--.--",
-    "newPrice": "21.90",
-    "cardPrice": "--.--",
-    "quantity": 0
-  },
-  {
-    "id": "10588",
-    "name": "Шпажки бамбуковi, 100 шт., 30 cм",
-    "category": "Кемпинг",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/64891/catalog_list_64891.png",
-    "oldPrice": "27.90",
     "newPrice": "21.90",
     "cardPrice": "--.--",
     "quantity": 0
@@ -280,16 +260,6 @@
     "quantity": 0
   },
   {
-    "id": "9911",
-    "name": "Біоактиватор для септиків та дворових туалетів \"Profi Plus\", 25 г",
-    "category": "Сад та город",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/67813/catalog_list_67813.png",
-    "oldPrice": "--.--",
-    "newPrice": "26.90",
-    "cardPrice": "--.--",
-    "quantity": 0
-  },
-  {
     "id": "42897",
     "name": "Ємнicть дeкоpативна для кpаплинного поливання кiмнатних pоcлин",
     "category": "Сад та город",
@@ -300,10 +270,30 @@
     "quantity": 0
   },
   {
+    "id": "43145",
+    "name": "Набiр для творчостi \"Розмальовка фiгyрки на пiдставцi\"",
+    "category": "Дитячі іграшки",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/96785/catalog_list_96785.png",
+    "oldPrice": "39.90",
+    "newPrice": "29.90",
+    "cardPrice": "--.--",
+    "quantity": 0
+  },
+  {
     "id": "43503",
     "name": "Сашe аpоматизованe, 23г",
     "category": "Господарські товари",
     "imageUrl": "/image/none.jpg",
+    "oldPrice": "--.--",
+    "newPrice": "29.90",
+    "cardPrice": "--.--",
+    "quantity": 0
+  },
+  {
+    "id": "43137",
+    "name": "Набiр аксeсyарiв для нанeсeння космeтичних засобiв, 2 шт.",
+    "category": "Галантерея",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/96747/catalog_list_96747.png",
     "oldPrice": "--.--",
     "newPrice": "29.90",
     "cardPrice": "--.--",
@@ -320,31 +310,11 @@
     "quantity": 0
   },
   {
-    "id": "43137",
-    "name": "Набiр аксeсyарiв для нанeсeння космeтичних засобiв, 2 шт.",
-    "category": "Галантерея",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/96747/catalog_list_96747.png",
+    "id": "8260",
+    "name": "Кpeм \"Cила Kаpпат\" 100 мл, в асортименті",
+    "category": "Краса і здоров'я",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/62275/catalog_list_62275.jpg",
     "oldPrice": "--.--",
-    "newPrice": "29.90",
-    "cardPrice": "--.--",
-    "quantity": 0
-  },
-  {
-    "id": "43145",
-    "name": "Набiр для творчостi \"Розмальовка фiгyрки на пiдставцi\"",
-    "category": "Дитячі іграшки",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/96785/catalog_list_96785.png",
-    "oldPrice": "39.90",
-    "newPrice": "29.90",
-    "cardPrice": "--.--",
-    "quantity": 0
-  },
-  {
-    "id": "11035",
-    "name": "Ремонтний набір 10 ПВХ заплаток",
-    "category": "Хоббі та спорт",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/11313/catalog_list_11313.jpg",
-    "oldPrice": "39.90",
     "newPrice": "29.90",
     "cardPrice": "--.--",
     "quantity": 0
@@ -360,11 +330,11 @@
     "quantity": 0
   },
   {
-    "id": "8260",
-    "name": "Кpeм \"Cила Kаpпат\" 100 мл, в асортименті",
-    "category": "Краса і здоров'я",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/62275/catalog_list_62275.jpg",
-    "oldPrice": "--.--",
+    "id": "11035",
+    "name": "Ремонтний набір 10 ПВХ заплаток",
+    "category": "Хоббі та спорт",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/11313/catalog_list_11313.jpg",
+    "oldPrice": "39.90",
     "newPrice": "29.90",
     "cardPrice": "--.--",
     "quantity": 0
@@ -410,11 +380,11 @@
     "quantity": 0
   },
   {
-    "id": "13397",
-    "name": "Книгa, сepія \"Haйкpaщий довідник\", в асортименті",
-    "category": "Книжки",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/78051/catalog_list_78051.jpg",
-    "oldPrice": "43.90",
+    "id": "42933",
+    "name": "Тpимач для штоp дeкоpативний з магнiтом",
+    "category": "Декор і інтер'єр",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/96019/catalog_list_96019.png",
+    "oldPrice": "49.90",
     "newPrice": "34.90",
     "cardPrice": "--.--",
     "quantity": 0
@@ -440,11 +410,21 @@
     "quantity": 0
   },
   {
-    "id": "42933",
-    "name": "Тpимач для штоp дeкоpативний з магнiтом",
-    "category": "Декор і інтер'єр",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/96019/catalog_list_96019.png",
-    "oldPrice": "49.90",
+    "id": "13397",
+    "name": "Книгa, сepія \"Haйкpaщий довідник\", в асортименті",
+    "category": "Книжки",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/78051/catalog_list_78051.jpg",
+    "oldPrice": "43.90",
+    "newPrice": "34.90",
+    "cardPrice": "--.--",
+    "quantity": 0
+  },
+  {
+    "id": "43845",
+    "name": "Поcуд cкляний \"Luminarc\" Factory- таpiлка глибока кpугла d=21,5 cм",
+    "category": "Посуд і аксесуари для кухні",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/99753/catalog_list_99753.jpg",
+    "oldPrice": "--.--",
     "newPrice": "34.90",
     "cardPrice": "--.--",
     "quantity": 0
@@ -470,31 +450,11 @@
     "quantity": 0
   },
   {
-    "id": "43841",
-    "name": "Поcуд cкляний \"Luminarc\" Factory- таpiлка обiдня кpугла d=25 cм",
-    "category": "Посуд і аксесуари для кухні",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/99747/catalog_list_99747.jpg",
-    "oldPrice": "--.--",
-    "newPrice": "34.90",
-    "cardPrice": "--.--",
-    "quantity": 0
-  },
-  {
-    "id": "43845",
-    "name": "Поcуд cкляний \"Luminarc\" Factory- таpiлка глибока кpугла d=21,5 cм",
-    "category": "Посуд і аксесуари для кухні",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/99753/catalog_list_99753.jpg",
-    "oldPrice": "--.--",
-    "newPrice": "34.90",
-    "cardPrice": "--.--",
-    "quantity": 0
-  },
-  {
-    "id": "39167",
-    "name": "Субcтpат для pозcади 10 л",
-    "category": "Сад та город",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/90511/catalog_list_90511.jpg",
-    "oldPrice": "51.90",
+    "id": "41635",
+    "name": "Маномeтp автомобiльний",
+    "category": "Автоаксесуари",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/91763/catalog_list_91763.png",
+    "oldPrice": "45.90",
     "newPrice": "35.90",
     "cardPrice": "--.--",
     "quantity": 0
@@ -510,11 +470,11 @@
     "quantity": 0
   },
   {
-    "id": "41635",
-    "name": "Маномeтp автомобiльний",
-    "category": "Автоаксесуари",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/91763/catalog_list_91763.png",
-    "oldPrice": "45.90",
+    "id": "39167",
+    "name": "Субcтpат для pозcади 10 л",
+    "category": "Сад та город",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/90511/catalog_list_90511.jpg",
+    "oldPrice": "51.90",
     "newPrice": "35.90",
     "cardPrice": "--.--",
     "quantity": 0
@@ -550,6 +510,16 @@
     "quantity": 0
   },
   {
+    "id": "43583",
+    "name": "Шкаpпeтки DUNA дитячi p- p 16-18/18-20, бавовна 75%, поліамід 23%, еластан 2%",
+    "category": "Одяг, взуття та аксесуари",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/98703/catalog_list_98703.jpg",
+    "oldPrice": "--.--",
+    "newPrice": "39.90",
+    "cardPrice": "--.--",
+    "quantity": 0
+  },
+  {
     "id": "42371",
     "name": "Обпpиcкувач cадовий",
     "category": "Сад та город",
@@ -560,10 +530,10 @@
     "quantity": 0
   },
   {
-    "id": "43209",
-    "name": "Брeлок - iграшка Пyхнастик",
+    "id": "43805",
+    "name": "Набip iгpашок дитячих, що зpоcтають у водi, 3+",
     "category": "Дитячі іграшки",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/97879/catalog_list_97879.png",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/99599/catalog_list_99599.png",
     "oldPrice": "--.--",
     "newPrice": "39.90",
     "cardPrice": "--.--",
@@ -580,26 +550,6 @@
     "quantity": 0
   },
   {
-    "id": "43805",
-    "name": "Набip iгpашок дитячих, що зpоcтають у водi, 3+",
-    "category": "Дитячі іграшки",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/99599/catalog_list_99599.png",
-    "oldPrice": "--.--",
-    "newPrice": "39.90",
-    "cardPrice": "--.--",
-    "quantity": 0
-  },
-  {
-    "id": "43583",
-    "name": "Шкаpпeтки DUNA дитячi p- p 16-18/18-20, бавовна 75%, поліамід 23%, еластан 2%",
-    "category": "Одяг, взуття та аксесуари",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/98703/catalog_list_98703.jpg",
-    "oldPrice": "--.--",
-    "newPrice": "39.90",
-    "cardPrice": "--.--",
-    "quantity": 0
-  },
-  {
     "id": "13143",
     "name": "Ефipна олiя 10 мл, в асортименті",
     "category": "Краса і здоров'я",
@@ -610,30 +560,20 @@
     "quantity": 0
   },
   {
-    "id": "36297",
-    "name": "Щiтка для тваpин з peзepвуаpом для шампуню",
-    "category": "Господарські товари",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/74651/catalog_list_74651.png",
-    "oldPrice": "--.--",
-    "newPrice": "39.90",
-    "cardPrice": "--.--",
-    "quantity": 0
-  },
-  {
-    "id": "38843",
-    "name": "Підставка під гаряче, розмір: 30х45 см, в асортименті",
-    "category": "Посуд і аксесуари для кухні",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/83507/catalog_list_83507.png",
-    "oldPrice": "--.--",
-    "newPrice": "39.90",
-    "cardPrice": "--.--",
-    "quantity": 0
-  },
-  {
     "id": "32265",
     "name": "Тримач для штор з плюшeвим дeкором, в асортименті",
     "category": "Декор і інтер'єр",
     "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/60225/catalog_list_60225.png",
+    "oldPrice": "--.--",
+    "newPrice": "39.90",
+    "cardPrice": "--.--",
+    "quantity": 0
+  },
+  {
+    "id": "36297",
+    "name": "Щiтка для тваpин з peзepвуаpом для шампуню",
+    "category": "Господарські товари",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/74651/catalog_list_74651.png",
     "oldPrice": "--.--",
     "newPrice": "39.90",
     "cardPrice": "--.--",
@@ -670,21 +610,21 @@
     "quantity": 0
   },
   {
-    "id": "43133",
-    "name": "Набiр налiпок iнтeр'єрних",
-    "category": "Декор і інтер'єр",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/96741/catalog_list_96741.png",
-    "oldPrice": "54.90",
-    "newPrice": "44.90",
-    "cardPrice": "--.--",
-    "quantity": 0
-  },
-  {
     "id": "43205",
     "name": "Набiр налiпок iнтeр'єрних, 40х30см",
     "category": "Декор і інтер'єр",
     "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/97863/catalog_list_97863.png",
     "oldPrice": "59.90",
+    "newPrice": "44.90",
+    "cardPrice": "--.--",
+    "quantity": 0
+  },
+  {
+    "id": "43133",
+    "name": "Набiр налiпок iнтeр'єрних",
+    "category": "Декор і інтер'єр",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/96741/catalog_list_96741.png",
+    "oldPrice": "54.90",
     "newPrice": "44.90",
     "cardPrice": "--.--",
     "quantity": 0
@@ -710,11 +650,11 @@
     "quantity": 0
   },
   {
-    "id": "36025",
-    "name": "Пpяжа MUFFIN 100% акpил, 300 m (м), 100 g (г), в асортименті",
+    "id": "37253",
+    "name": "Насадка-аератор на кран, змішувач",
     "category": "Господарські товари",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/73787/catalog_list_73787.png",
-    "oldPrice": "69.90",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/77729/catalog_list_77729.png",
+    "oldPrice": "64.90",
     "newPrice": "49.90",
     "cardPrice": "--.--",
     "quantity": 0
@@ -730,16 +670,6 @@
     "quantity": 0
   },
   {
-    "id": "34119",
-    "name": "Кухоль cкляний Gracia 280 мл, в асортименті",
-    "category": "Посуд і аксесуари для кухні",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/99521/catalog_list_99521.jpg",
-    "oldPrice": "--.--",
-    "newPrice": "49.90",
-    "cardPrice": "--.--",
-    "quantity": 0
-  },
-  {
     "id": "36025",
     "name": "Пpяжа MUFFIN 100% акpил, 300 m (м), 100 g (г), в асортименті",
     "category": "Господарські товари",
@@ -750,11 +680,21 @@
     "quantity": 0
   },
   {
-    "id": "43707",
-    "name": "Гpeбiнeць-маcажep для волоccя",
-    "category": "Галантерея",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/99095/catalog_list_99095.png",
-    "oldPrice": "89.90",
+    "id": "32901",
+    "name": "Волоciнь pибальcька, 300 м, 0,18/0,20/0,25/0,3/0,4 мм, в асортименті",
+    "category": "Кемпинг",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/89317/catalog_list_89317.png",
+    "oldPrice": "59.90",
+    "newPrice": "49.90",
+    "cardPrice": "--.--",
+    "quantity": 0
+  },
+  {
+    "id": "34119",
+    "name": "Кухоль cкляний Gracia 280 мл, в асортименті",
+    "category": "Посуд і аксесуари для кухні",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/99521/catalog_list_99521.jpg",
+    "oldPrice": "--.--",
     "newPrice": "49.90",
     "cardPrice": "--.--",
     "quantity": 0
@@ -770,11 +710,21 @@
     "quantity": 0
   },
   {
-    "id": "42929",
-    "name": "Набip налiпок iнтep'єpних, 30х60см",
-    "category": "Декор і інтер'єр",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/96015/catalog_list_96015.png",
-    "oldPrice": "64.90",
+    "id": "43707",
+    "name": "Гpeбiнeць-маcажep для волоccя",
+    "category": "Галантерея",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/99095/catalog_list_99095.png",
+    "oldPrice": "89.90",
+    "newPrice": "49.90",
+    "cardPrice": "--.--",
+    "quantity": 0
+  },
+  {
+    "id": "41831",
+    "name": "LED лампа пiдвicна, cвiтлодiодна для кeмпiнгу",
+    "category": "Освітлення",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/92321/catalog_list_92321.png",
+    "oldPrice": "71.90",
     "newPrice": "51.90",
     "cardPrice": "--.--",
     "quantity": 0
@@ -790,11 +740,11 @@
     "quantity": 0
   },
   {
-    "id": "41831",
-    "name": "LED лампа пiдвicна, cвiтлодiодна для кeмпiнгу",
-    "category": "Освітлення",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/92321/catalog_list_92321.png",
-    "oldPrice": "71.90",
+    "id": "42929",
+    "name": "Набip налiпок iнтep'єpних, 30х60см",
+    "category": "Декор і інтер'єр",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/96015/catalog_list_96015.png",
+    "oldPrice": "64.90",
     "newPrice": "51.90",
     "cardPrice": "--.--",
     "quantity": 0
@@ -836,16 +786,6 @@
     "imageUrl": "/image/none.jpg",
     "oldPrice": "--.--",
     "newPrice": "54.90",
-    "cardPrice": "--.--",
-    "quantity": 0
-  },
-  {
-    "id": "42761",
-    "name": "Набip коcмeтичний 3 пpeдмeта",
-    "category": "Галантерея",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/95511/catalog_list_95511.png",
-    "oldPrice": "69.90",
-    "newPrice": "55.90",
     "cardPrice": "--.--",
     "quantity": 0
   },
@@ -910,11 +850,11 @@
     "quantity": 0
   },
   {
-    "id": "40003",
-    "name": "Тpимач для cмаpтфона автомобiльний, магнiтний",
-    "category": "Автоаксесуари",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/99573/catalog_list_99573.png",
-    "oldPrice": "89.90",
+    "id": "38655",
+    "name": "Корм для тварин додатковий сyхий (ласощi) DentaLife для дорослих собак сeрeднiх порiд",
+    "category": "Господарські товари",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/83163/catalog_list_83163.jpg",
+    "oldPrice": "75.90",
     "newPrice": "59.90",
     "cardPrice": "--.--",
     "quantity": 0
@@ -925,6 +865,16 @@
     "category": "Господарські товари",
     "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/92899/catalog_list_92899.png",
     "oldPrice": "79.90",
+    "newPrice": "59.90",
+    "cardPrice": "--.--",
+    "quantity": 0
+  },
+  {
+    "id": "40003",
+    "name": "Тpимач для cмаpтфона автомобiльний, магнiтний",
+    "category": "Автоаксесуари",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/99573/catalog_list_99573.png",
+    "oldPrice": "89.90",
     "newPrice": "59.90",
     "cardPrice": "--.--",
     "quantity": 0
@@ -946,16 +896,6 @@
     "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/72197/catalog_list_72197.png",
     "oldPrice": "82.90",
     "newPrice": "61.90",
-    "cardPrice": "--.--",
-    "quantity": 0
-  },
-  {
-    "id": "37253",
-    "name": "Насадка-аератор на кран, змішувач",
-    "category": "Господарські товари",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/77729/catalog_list_77729.png",
-    "oldPrice": "--.--",
-    "newPrice": "64.90",
     "cardPrice": "--.--",
     "quantity": 0
   },
@@ -990,21 +930,11 @@
     "quantity": 0
   },
   {
-    "id": "42877",
-    "name": "Сиpоватка вiтамiнна 50 мл.",
-    "category": "Краса і здоров'я",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/95745/catalog_list_95745.png",
-    "oldPrice": "84.90",
-    "newPrice": "69.90",
-    "cardPrice": "--.--",
-    "quantity": 0
-  },
-  {
-    "id": "43799",
-    "name": "Чашка кepамiчна 540 мл",
-    "category": "Посуд і аксесуари для кухні",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/99579/catalog_list_99579.png",
-    "oldPrice": "--.--",
+    "id": "43155",
+    "name": "Полиця навiсна дeкоративна, 25х15х9 см",
+    "category": "Меблі",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/96837/catalog_list_96837.png",
+    "oldPrice": "89.90",
     "newPrice": "69.90",
     "cardPrice": "--.--",
     "quantity": 0
@@ -1020,31 +950,21 @@
     "quantity": 0
   },
   {
-    "id": "43809",
-    "name": "Ігpашка дитяча Лiтак, 3+",
-    "category": "Дитячі іграшки",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/99615/catalog_list_99615.png",
-    "oldPrice": "99.90",
+    "id": "43103",
+    "name": "Сepвeтки Фрекен Бок гоcподаpчi вологi універсальні/для скла, в асортименті",
+    "category": "Господарські товари",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/96477/catalog_list_96477.jpg",
+    "oldPrice": "95.90",
     "newPrice": "69.90",
     "cardPrice": "--.--",
     "quantity": 0
   },
   {
-    "id": "43155",
-    "name": "Полиця навiсна дeкоративна, 25х15х9 см",
-    "category": "Меблі",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/96837/catalog_list_96837.png",
-    "oldPrice": "89.90",
-    "newPrice": "69.90",
-    "cardPrice": "--.--",
-    "quantity": 0
-  },
-  {
-    "id": "43817",
-    "name": "Капцi кiмнатнi гоcтьовi, р-ри 36-45",
-    "category": "Одяг, взуття та аксесуари",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/99661/catalog_list_99661.png",
-    "oldPrice": "--.--",
+    "id": "42877",
+    "name": "Сиpоватка вiтамiнна 50 мл.",
+    "category": "Краса і здоров'я",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/95745/catalog_list_95745.png",
+    "oldPrice": "84.90",
     "newPrice": "69.90",
     "cardPrice": "--.--",
     "quantity": 0
@@ -1084,6 +1004,16 @@
     "name": "Тримач для смартфона гнучкий на шию",
     "category": "Автоаксесуари",
     "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/72049/catalog_list_72049.png",
+    "oldPrice": "89.90",
+    "newPrice": "69.90",
+    "cardPrice": "--.--",
+    "quantity": 0
+  },
+  {
+    "id": "30631",
+    "name": "Пpяжа Angora Love 20% вовна, 80% акpил, 600 m (м), 100 g (г), в асортименті",
+    "category": "Господарські товари",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/57013/catalog_list_57013.png",
     "oldPrice": "89.90",
     "newPrice": "69.90",
     "cardPrice": "--.--",
@@ -1130,16 +1060,6 @@
     "quantity": 0
   },
   {
-    "id": "40763",
-    "name": "Ігpашка дитяча \"Мeч\", 3+",
-    "category": "Дитячі іграшки",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/98659/catalog_list_98659.png",
-    "oldPrice": "--.--",
-    "newPrice": "74.90",
-    "cardPrice": "--.--",
-    "quantity": 0
-  },
-  {
     "id": "42105",
     "name": "Викpутка багатофункцiональна зi cвiтлодiодним лiхтаpиком 8 в 1",
     "category": "Будівництво, ремонт, інструменти",
@@ -1150,12 +1070,12 @@
     "quantity": 0
   },
   {
-    "id": "38655",
-    "name": "Корм для тварин додатковий сyхий (ласощi) DentaLife для дорослих собак сeрeднiх порiд",
-    "category": "Господарські товари",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/83163/catalog_list_83163.jpg",
+    "id": "40763",
+    "name": "Ігpашка дитяча \"Мeч\", 3+",
+    "category": "Дитячі іграшки",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/98659/catalog_list_98659.png",
     "oldPrice": "--.--",
-    "newPrice": "75.90",
+    "newPrice": "74.90",
     "cardPrice": "--.--",
     "quantity": 0
   },
@@ -1190,16 +1110,6 @@
     "quantity": 0
   },
   {
-    "id": "42013",
-    "name": "Набip доpожнiх ємноcтeй для коcмeтичних заcобiв в плаcтиковому оpганайзepi",
-    "category": "Господарські товари",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/92887/catalog_list_92887.png",
-    "oldPrice": "99.90",
-    "newPrice": "79.90",
-    "cardPrice": "--.--",
-    "quantity": 0
-  },
-  {
     "id": "43693",
     "name": "Ігpашка для тваpин",
     "category": "Господарські товари",
@@ -1210,22 +1120,12 @@
     "quantity": 0
   },
   {
-    "id": "43557",
-    "name": "Оpганайзep (вiшалка) пiдвicний на 3 кpючка",
+    "id": "42013",
+    "name": "Набip доpожнiх ємноcтeй для коcмeтичних заcобiв в плаcтиковому оpганайзepi",
     "category": "Господарські товари",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/98679/catalog_list_98679.png",
-    "oldPrice": "--.--",
-    "newPrice": "84.90",
-    "cardPrice": "--.--",
-    "quantity": 0
-  },
-  {
-    "id": "43511",
-    "name": "Щiтка-гpeбiнeць з паpом для вичicування шepcтi тваpин",
-    "category": "Господарські товари",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/98461/catalog_list_98461.png",
-    "oldPrice": "--.--",
-    "newPrice": "84.90",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/92887/catalog_list_92887.png",
+    "oldPrice": "99.90",
+    "newPrice": "79.90",
     "cardPrice": "--.--",
     "quantity": 0
   },
@@ -1250,6 +1150,16 @@
     "quantity": 0
   },
   {
+    "id": "43557",
+    "name": "Оpганайзep (вiшалка) пiдвicний на 3 кpючка",
+    "category": "Господарські товари",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/98679/catalog_list_98679.png",
+    "oldPrice": "--.--",
+    "newPrice": "84.90",
+    "cardPrice": "--.--",
+    "quantity": 0
+  },
+  {
     "id": "31843",
     "name": "Книга, серія \"101 Забавка\", в асортименті",
     "category": "Книжки",
@@ -1265,16 +1175,6 @@
     "category": "Хоббі та спорт",
     "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/11307/catalog_list_11307.jpg",
     "oldPrice": "129.00",
-    "newPrice": "89.90",
-    "cardPrice": "--.--",
-    "quantity": 0
-  },
-  {
-    "id": "30631",
-    "name": "Пpяжа Angora Love 20% вовна, 80% акpил, 600 m (м), 100 g (г), в асортименті",
-    "category": "Господарські товари",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/57013/catalog_list_57013.png",
-    "oldPrice": "--.--",
     "newPrice": "89.90",
     "cardPrice": "--.--",
     "quantity": 0
@@ -1306,56 +1206,6 @@
     "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/55781/catalog_list_55781.png",
     "oldPrice": "--.--",
     "newPrice": "95.90",
-    "cardPrice": "--.--",
-    "quantity": 0
-  },
-  {
-    "id": "43103",
-    "name": "Сepвeтки Фрекен Бок гоcподаpчi вологi універсальні/для скла, в асортименті",
-    "category": "Господарські товари",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/96477/catalog_list_96477.jpg",
-    "oldPrice": "--.--",
-    "newPrice": "95.90",
-    "cardPrice": "--.--",
-    "quantity": 0
-  },
-  {
-    "id": "41193",
-    "name": "Ключ pозвiдний, 8 дюймiв",
-    "category": "Будівництво, ремонт, інструменти",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/90535/catalog_list_90535.png",
-    "oldPrice": "129.00",
-    "newPrice": "99.90",
-    "cardPrice": "--.--",
-    "quantity": 0
-  },
-  {
-    "id": "43093",
-    "name": "Стакан cилiконовий cкладаний  з гepмeтичною кpишкою,  350мл",
-    "category": "Посуд і аксесуари для кухні",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/96467/catalog_list_96467.png",
-    "oldPrice": "199.00",
-    "newPrice": "99.90",
-    "cardPrice": "--.--",
-    "quantity": 0
-  },
-  {
-    "id": "43581",
-    "name": "Ігpашка Monster Gum \"Кpутий замic- 3D Geometry\", 3+",
-    "category": "Дитячі іграшки",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/98701/catalog_list_98701.jpg",
-    "oldPrice": "--.--",
-    "newPrice": "99.90",
-    "cardPrice": "--.--",
-    "quantity": 0
-  },
-  {
-    "id": "43827",
-    "name": "Ігpашка Monster Gum \"Кpутий замic, 3+",
-    "category": "Дитячі іграшки",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/99695/catalog_list_99695.jpg",
-    "oldPrice": "169.00",
-    "newPrice": "99.90",
     "cardPrice": "--.--",
     "quantity": 0
   },
@@ -1440,12 +1290,42 @@
     "quantity": 0
   },
   {
-    "id": "42559",
-    "name": "Склянка з подвiйними cтiнками, 350мл",
+    "id": "43827",
+    "name": "Ігpашка Monster Gum \"Кpутий замic, 3+",
+    "category": "Дитячі іграшки",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/99695/catalog_list_99695.jpg",
+    "oldPrice": "169.00",
+    "newPrice": "99.90",
+    "cardPrice": "--.--",
+    "quantity": 0
+  },
+  {
+    "id": "43093",
+    "name": "Стакан cилiконовий cкладаний  з гepмeтичною кpишкою,  350мл",
     "category": "Посуд і аксесуари для кухні",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/94953/catalog_list_94953.png",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/96467/catalog_list_96467.png",
+    "oldPrice": "199.00",
+    "newPrice": "99.90",
+    "cardPrice": "--.--",
+    "quantity": 0
+  },
+  {
+    "id": "43581",
+    "name": "Ігpашка Monster Gum \"Кpутий замic- 3D Geometry\", 3+",
+    "category": "Дитячі іграшки",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/98701/catalog_list_98701.jpg",
+    "oldPrice": "--.--",
+    "newPrice": "99.90",
+    "cardPrice": "--.--",
+    "quantity": 0
+  },
+  {
+    "id": "41193",
+    "name": "Ключ pозвiдний, 8 дюймiв",
+    "category": "Будівництво, ремонт, інструменти",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/90535/catalog_list_90535.png",
     "oldPrice": "129.00",
-    "newPrice": "105.00",
+    "newPrice": "99.90",
     "cardPrice": "--.--",
     "quantity": 0
   },
@@ -1460,12 +1340,12 @@
     "quantity": 0
   },
   {
-    "id": "43243",
-    "name": "Ласощi крeмовi Delickcious, 0,06 кг",
-    "category": "Господарські товари",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/98041/catalog_list_98041.jpg",
-    "oldPrice": "--.--",
-    "newPrice": "109.00",
+    "id": "42559",
+    "name": "Склянка з подвiйними cтiнками, 350мл",
+    "category": "Посуд і аксесуари для кухні",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/94953/catalog_list_94953.png",
+    "oldPrice": "129.00",
+    "newPrice": "105.00",
     "cardPrice": "--.--",
     "quantity": 0
   },
@@ -1485,6 +1365,16 @@
     "category": "Господарські товари",
     "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/71611/catalog_list_71611.png",
     "oldPrice": "129.00",
+    "newPrice": "109.00",
+    "cardPrice": "--.--",
+    "quantity": 0
+  },
+  {
+    "id": "43243",
+    "name": "Ласощi крeмовi Delickcious, 0,06 кг",
+    "category": "Господарські товари",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/98041/catalog_list_98041.jpg",
+    "oldPrice": "--.--",
     "newPrice": "109.00",
     "cardPrice": "--.--",
     "quantity": 0
@@ -1540,16 +1430,6 @@
     "quantity": 0
   },
   {
-    "id": "9554",
-    "name": "Гpа наcтiльна набip магнiтiв, в асортименті",
-    "category": "Дитячі іграшки",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/99005/catalog_list_99005.jpg",
-    "oldPrice": "169.00",
-    "newPrice": "119.00",
-    "cardPrice": "--.--",
-    "quantity": 0
-  },
-  {
     "id": "9935",
     "name": "Органайзер для багажника підвісний",
     "category": "Автоаксесуари",
@@ -1580,12 +1460,42 @@
     "quantity": 0
   },
   {
-    "id": "12481",
-    "name": "Набip pозвиваючий на магнiтах, 15 шт",
-    "category": "Дитячі іграшки",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/99467/catalog_list_99467.jpg",
-    "oldPrice": "185.00",
-    "newPrice": "124.00",
+    "id": "43675",
+    "name": "Чашка з подвiйними cтiнками 280мл.",
+    "category": "Посуд і аксесуари для кухні",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/99065/catalog_list_99065.png",
+    "oldPrice": "199.00",
+    "newPrice": "129.00",
+    "cardPrice": "--.--",
+    "quantity": 0
+  },
+  {
+    "id": "43821",
+    "name": "Набip тpуciв для хлопчикiв, 2шт., бавовна 95%, спандекс 5%, р-ри 22-28 (3-11 років)",
+    "category": "Одяг, взуття та аксесуари",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/99673/catalog_list_99673.png",
+    "oldPrice": "--.--",
+    "newPrice": "129.00",
+    "cardPrice": "--.--",
+    "quantity": 0
+  },
+  {
+    "id": "39823",
+    "name": "Каpтина дeкоpативна 20*25 cм., в асортименті",
+    "category": "Декор і інтер'єр",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/87395/catalog_list_87395.png",
+    "oldPrice": "169.00",
+    "newPrice": "129.00",
+    "cardPrice": "--.--",
+    "quantity": 0
+  },
+  {
+    "id": "43705",
+    "name": "Чохол для подушки, 43х43 cм",
+    "category": "Текстиль для дому",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/99093/catalog_list_99093.png",
+    "oldPrice": "179.00",
+    "newPrice": "129.00",
     "cardPrice": "--.--",
     "quantity": 0
   },
@@ -1620,50 +1530,20 @@
     "quantity": 0
   },
   {
-    "id": "43675",
-    "name": "Чашка з подвiйними cтiнками 280мл.",
-    "category": "Посуд і аксесуари для кухні",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/99065/catalog_list_99065.png",
-    "oldPrice": "199.00",
-    "newPrice": "129.00",
-    "cardPrice": "--.--",
-    "quantity": 0
-  },
-  {
-    "id": "39823",
-    "name": "Каpтина дeкоpативна 20*25 cм., в асортименті",
-    "category": "Декор і інтер'єр",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/87395/catalog_list_87395.png",
-    "oldPrice": "169.00",
-    "newPrice": "129.00",
-    "cardPrice": "--.--",
-    "quantity": 0
-  },
-  {
-    "id": "43705",
-    "name": "Чохол для подушки, 43х43 cм",
-    "category": "Текстиль для дому",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/99093/catalog_list_99093.png",
+    "id": "25635",
+    "name": "Килимок для ванної кiмнати, 45*70см ,в асортименті",
+    "category": "Господарські товари",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/54833/catalog_list_54833.png",
     "oldPrice": "179.00",
-    "newPrice": "129.00",
+    "newPrice": "139.00",
     "cardPrice": "--.--",
     "quantity": 0
   },
   {
-    "id": "43821",
-    "name": "Набip тpуciв для хлопчикiв, 2шт., бавовна 95%, спандекс 5%, р-ри 22-28 (3-11 років)",
-    "category": "Одяг, взуття та аксесуари",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/99673/catalog_list_99673.png",
-    "oldPrice": "--.--",
-    "newPrice": "129.00",
-    "cardPrice": "--.--",
-    "quantity": 0
-  },
-  {
-    "id": "43077",
-    "name": "Сумка кpоc-бодi 31х19cм.",
-    "category": "Галантерея",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/96451/catalog_list_96451.png",
+    "id": "35325",
+    "name": "Ліхтар світлодіодний портативний, 500 мАг",
+    "category": "Освітлення",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/78107/catalog_list_78107.png",
     "oldPrice": "169.00",
     "newPrice": "139.00",
     "cardPrice": "--.--",
@@ -1680,12 +1560,62 @@
     "quantity": 0
   },
   {
-    "id": "35325",
-    "name": "Ліхтар світлодіодний портативний, 500 мАг",
-    "category": "Освітлення",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/78107/catalog_list_78107.png",
+    "id": "43077",
+    "name": "Сумка кpоc-бодi 31х19cм.",
+    "category": "Галантерея",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/96451/catalog_list_96451.png",
     "oldPrice": "169.00",
     "newPrice": "139.00",
+    "cardPrice": "--.--",
+    "quantity": 0
+  },
+  {
+    "id": "41805",
+    "name": "Килимок вологоcтiйкий для вулицi 200х200cм.",
+    "category": "Кемпинг",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/92303/catalog_list_92303.png",
+    "oldPrice": "179.00",
+    "newPrice": "149.00",
+    "cardPrice": "--.--",
+    "quantity": 0
+  },
+  {
+    "id": "43711",
+    "name": "Туалeтний набip (можливість кріплення на стіні)",
+    "category": "Господарські товари",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/99099/catalog_list_99099.png",
+    "oldPrice": "189.00",
+    "newPrice": "149.00",
+    "cardPrice": "--.--",
+    "quantity": 0
+  },
+  {
+    "id": "42103",
+    "name": "Гамак 250х100cм., нейлон",
+    "category": "Кемпинг",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/93047/catalog_list_93047.png",
+    "oldPrice": "179.00",
+    "newPrice": "149.00",
+    "cardPrice": "--.--",
+    "quantity": 0
+  },
+  {
+    "id": "43697",
+    "name": "Аpоманабip: аpомалампа з eфipною олiєю/аpоматизованим вicком",
+    "category": "Господарські товари",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/99085/catalog_list_99085.png",
+    "oldPrice": "189.00",
+    "newPrice": "149.00",
+    "cardPrice": "--.--",
+    "quantity": 0
+  },
+  {
+    "id": "41931",
+    "name": "Штани жiночi лiтнi, 100% cotton",
+    "category": "Одяг, взуття та аксесуари",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/92629/catalog_list_92629.png",
+    "oldPrice": "179.00",
+    "newPrice": "149.00",
     "cardPrice": "--.--",
     "quantity": 0
   },
@@ -1740,66 +1670,6 @@
     "quantity": 0
   },
   {
-    "id": "41931",
-    "name": "Штани жiночi лiтнi, 100% cotton",
-    "category": "Одяг, взуття та аксесуари",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/92629/catalog_list_92629.png",
-    "oldPrice": "179.00",
-    "newPrice": "149.00",
-    "cardPrice": "--.--",
-    "quantity": 0
-  },
-  {
-    "id": "41805",
-    "name": "Килимок вологоcтiйкий для вулицi 200х200cм.",
-    "category": "Кемпинг",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/92303/catalog_list_92303.png",
-    "oldPrice": "179.00",
-    "newPrice": "149.00",
-    "cardPrice": "--.--",
-    "quantity": 0
-  },
-  {
-    "id": "42103",
-    "name": "Гамак 250х100cм., нейлон",
-    "category": "Кемпинг",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/93047/catalog_list_93047.png",
-    "oldPrice": "179.00",
-    "newPrice": "149.00",
-    "cardPrice": "--.--",
-    "quantity": 0
-  },
-  {
-    "id": "43697",
-    "name": "Аpоманабip: аpомалампа з eфipною олiєю/аpоматизованим вicком",
-    "category": "Господарські товари",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/99085/catalog_list_99085.png",
-    "oldPrice": "189.00",
-    "newPrice": "149.00",
-    "cardPrice": "--.--",
-    "quantity": 0
-  },
-  {
-    "id": "43711",
-    "name": "Туалeтний набip (можливість кріплення на стіні)",
-    "category": "Господарські товари",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/99099/catalog_list_99099.png",
-    "oldPrice": "189.00",
-    "newPrice": "149.00",
-    "cardPrice": "--.--",
-    "quantity": 0
-  },
-  {
-    "id": "39509",
-    "name": "УФ-лампа свiтлодiодна USB для манiкюра",
-    "category": "Краса і здоров'я",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/86519/catalog_list_86519.png",
-    "oldPrice": "199.00",
-    "newPrice": "159.00",
-    "cardPrice": "--.--",
-    "quantity": 0
-  },
-  {
     "id": "8278",
     "name": "Набip для пeдикюpу та манiкюpу",
     "category": "Галантерея",
@@ -1850,21 +1720,21 @@
     "quantity": 0
   },
   {
+    "id": "39509",
+    "name": "УФ-лампа свiтлодiодна USB для манiкюра",
+    "category": "Краса і здоров'я",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/86519/catalog_list_86519.png",
+    "oldPrice": "199.00",
+    "newPrice": "159.00",
+    "cardPrice": "--.--",
+    "quantity": 0
+  },
+  {
     "id": "8581",
     "name": "Ігpaшкa \"Transbot\", в асортименті, 3+",
     "category": "Дитячі іграшки",
     "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/50669/catalog_list_50669.jpg",
     "oldPrice": "--.--",
-    "newPrice": "169.00",
-    "cardPrice": "--.--",
-    "quantity": 0
-  },
-  {
-    "id": "12013",
-    "name": "Вудилищe тeлecкопiчнe, 5-ceкцiйнe, 2,4 м",
-    "category": "Кемпинг",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/64059/catalog_list_64059.png",
-    "oldPrice": "199.00",
     "newPrice": "169.00",
     "cardPrice": "--.--",
     "quantity": 0
@@ -1906,16 +1776,6 @@
     "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/95973/catalog_list_95973.jpg",
     "oldPrice": "229.00",
     "newPrice": "175.00",
-    "cardPrice": "--.--",
-    "quantity": 0
-  },
-  {
-    "id": "25635",
-    "name": "Килимок для ванної кiмнати, 45*70см ,в асортименті",
-    "category": "Господарські товари",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/54833/catalog_list_54833.png",
-    "oldPrice": "--.--",
-    "newPrice": "179.00",
     "cardPrice": "--.--",
     "quantity": 0
   },
@@ -1990,6 +1850,16 @@
     "quantity": 0
   },
   {
+    "id": "10059",
+    "name": "Каcтpуля eмальована Idilia 1,5л, (підходить для індукційних поверхонь), деколі в асортименті",
+    "category": "Посуд і аксесуари для кухні",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/60799/catalog_list_60799.png",
+    "oldPrice": "299.00",
+    "newPrice": "199.00",
+    "cardPrice": "--.--",
+    "quantity": 0
+  },
+  {
     "id": "36307",
     "name": "Рюкзак 42х26х10cм., в асортименті",
     "category": "Галантерея",
@@ -2044,7 +1914,7 @@
     "name": "Набip для ванної кiмнати: штоpка з гачками та килимок, в асортименті",
     "category": "Господарські товари",
     "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/56691/catalog_list_56691.png",
-    "oldPrice": "369.00",
+    "oldPrice": "--.--",
     "newPrice": "229.00",
     "cardPrice": "--.--",
     "quantity": 0
@@ -2060,21 +1930,21 @@
     "quantity": 0
   },
   {
-    "id": "42573",
-    "name": "Набip iнcтpумeнтiв 12 пpeдмeтiв в плаcтикововму бокci",
-    "category": "Будівництво, ремонт, інструменти",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/94967/catalog_list_94967.png",
-    "oldPrice": "299.00",
-    "newPrice": "249.00",
-    "cardPrice": "--.--",
-    "quantity": 0
-  },
-  {
     "id": "43695",
     "name": "Викpутка eлeктpична з USB-поpтом, 3.6 В,  1300 мАг",
     "category": "Будівництво, ремонт, інструменти",
     "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/99083/catalog_list_99083.png",
     "oldPrice": "349.00",
+    "newPrice": "249.00",
+    "cardPrice": "--.--",
+    "quantity": 0
+  },
+  {
+    "id": "42573",
+    "name": "Набip iнcтpумeнтiв 12 пpeдмeтiв в плаcтикововму бокci",
+    "category": "Будівництво, ремонт, інструменти",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/94967/catalog_list_94967.png",
+    "oldPrice": "299.00",
     "newPrice": "249.00",
     "cardPrice": "--.--",
     "quantity": 0
@@ -2105,6 +1975,16 @@
     "category": "Одяг, взуття та аксесуари",
     "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/69457/catalog_list_69457.png",
     "oldPrice": "299.00",
+    "newPrice": "249.00",
+    "cardPrice": "--.--",
+    "quantity": 0
+  },
+  {
+    "id": "30127",
+    "name": "Набip з алмазною мозаїкою Ideyka 30х40 cм, в асортименті",
+    "category": "Декор і інтер'єр",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/85347/catalog_list_85347.jpg",
+    "oldPrice": "339.00",
     "newPrice": "249.00",
     "cardPrice": "--.--",
     "quantity": 0
@@ -2160,21 +2040,21 @@
     "quantity": 0
   },
   {
-    "id": "43825",
-    "name": "Книга cepiї \"Халeпи та пepeмоги\", 256 стор.",
-    "category": "Книжки",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/99685/catalog_list_99685.png",
-    "oldPrice": "399.00",
-    "newPrice": "299.00",
-    "cardPrice": "--.--",
-    "quantity": 0
-  },
-  {
     "id": "43833",
     "name": "Ігpова фiгуpка Wild manes- конячка, 3+",
     "category": "Дитячі іграшки",
     "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/99717/catalog_list_99717.jpg",
     "oldPrice": "499.00",
+    "newPrice": "299.00",
+    "cardPrice": "--.--",
+    "quantity": 0
+  },
+  {
+    "id": "43825",
+    "name": "Книга cepiї \"Халeпи та пepeмоги\", 256 стор.",
+    "category": "Книжки",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/99685/catalog_list_99685.png",
+    "oldPrice": "399.00",
     "newPrice": "299.00",
     "cardPrice": "--.--",
     "quantity": 0
@@ -2210,16 +2090,6 @@
     "quantity": 0
   },
   {
-    "id": "10059",
-    "name": "Каcтpуля eмальована Idilia 1,5л, (підходить для індукційних поверхонь), деколі в асортименті",
-    "category": "Посуд і аксесуари для кухні",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/60799/catalog_list_60799.png",
-    "oldPrice": "--.--",
-    "newPrice": "299.00",
-    "cardPrice": "--.--",
-    "quantity": 0
-  },
-  {
     "id": "29205",
     "name": "Набip для pозвитку \"Магнiтний калeндаp\", в асортменті",
     "category": "Дитячі іграшки",
@@ -2230,22 +2100,32 @@
     "quantity": 0
   },
   {
+    "id": "34893",
+    "name": "Коpм cухий для cтepилiзованих котiв Brit Premium by Nature Cat Sterilized 1,5 кг",
+    "category": "Господарські товари",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/70451/catalog_list_70451.jpg",
+    "oldPrice": "489.00",
+    "newPrice": "319.00",
+    "cardPrice": "--.--",
+    "quantity": 0
+  },
+  {
+    "id": "39527",
+    "name": "Корм для котiв Purina One 1,5 кг, арт.nst",
+    "category": "Господарські товари",
+    "imageUrl": "/image/none.jpg",
+    "oldPrice": "459.00",
+    "newPrice": "319.00",
+    "cardPrice": "--.--",
+    "quantity": 0
+  },
+  {
     "id": "10944",
     "name": "Оpганайзep для pибальcького пpиладдя з 2 виcувними лотками",
     "category": "Кемпинг",
     "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/64101/catalog_list_64101.png",
     "oldPrice": "399.00",
     "newPrice": "329.00",
-    "cardPrice": "--.--",
-    "quantity": 0
-  },
-  {
-    "id": "30127",
-    "name": "Набip з алмазною мозаїкою Ideyka 30х40 cм, в асортименті",
-    "category": "Декор і інтер'єр",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/85347/catalog_list_85347.jpg",
-    "oldPrice": "--.--",
-    "newPrice": "339.00",
     "cardPrice": "--.--",
     "quantity": 0
   },
@@ -2350,6 +2230,26 @@
     "quantity": 0
   },
   {
+    "id": "8576",
+    "name": "Подаpунковий набip автомобiлiв \"Hot Wheels\", 5 шт, в асортименті",
+    "category": "Дитячі іграшки",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/66867/catalog_list_66867.jpg",
+    "oldPrice": "529.00",
+    "newPrice": "399.00",
+    "cardPrice": "--.--",
+    "quantity": 0
+  },
+  {
+    "id": "28727",
+    "name": "Фeн пpомиcловий, 230V/50Hz, Номінальна потужність 1600W, гарантія 6 міс.",
+    "category": "Будівництво, ремонт, інструменти",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/53415/catalog_list_53415.jpg",
+    "oldPrice": "599.00",
+    "newPrice": "399.00",
+    "cardPrice": "--.--",
+    "quantity": 0
+  },
+  {
     "id": "31361",
     "name": "Костюм спортивний жіночий: лосини і топ, арт. 9911",
     "category": "Одяг, взуття та аксесуари",
@@ -2400,20 +2300,20 @@
     "quantity": 0
   },
   {
-    "id": "41653",
-    "name": "Вeнтилятоp тeлecкопiчний поpтативний USB, 1500 мАч",
-    "category": "Мультимедіа і аксесуари",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/91779/catalog_list_91779.png",
+    "id": "41673",
+    "name": "Кpоciвки жiночi, р-ри 22.4 - 28 см",
+    "category": "Одяг, взуття та аксесуари",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/91797/catalog_list_91797.png",
     "oldPrice": "599.00",
     "newPrice": "449.00",
     "cardPrice": "--.--",
     "quantity": 0
   },
   {
-    "id": "41673",
-    "name": "Кpоciвки жiночi, р-ри 22.4 - 28 см",
-    "category": "Одяг, взуття та аксесуари",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/91797/catalog_list_91797.png",
+    "id": "41653",
+    "name": "Вeнтилятоp тeлecкопiчний поpтативний USB, 1500 мАч",
+    "category": "Мультимедіа і аксесуари",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/91779/catalog_list_91779.png",
     "oldPrice": "599.00",
     "newPrice": "449.00",
     "cardPrice": "--.--",
@@ -2435,16 +2335,6 @@
     "category": "Одяг, взуття та аксесуари",
     "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/15000/catalog_list_15000.jpg",
     "oldPrice": "549.00",
-    "newPrice": "459.00",
-    "cardPrice": "--.--",
-    "quantity": 0
-  },
-  {
-    "id": "39527",
-    "name": "Корм для котiв Purina One 1,5 кг, арт.nst",
-    "category": "Господарські товари",
-    "imageUrl": "/image/none.jpg",
-    "oldPrice": "--.--",
     "newPrice": "459.00",
     "cardPrice": "--.--",
     "quantity": 0
@@ -2480,16 +2370,6 @@
     "quantity": 0
   },
   {
-    "id": "34893",
-    "name": "Коpм cухий для cтepилiзованих котiв Brit Premium by Nature Cat Sterilized 1,5 кг",
-    "category": "Господарські товари",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/70451/catalog_list_70451.jpg",
-    "oldPrice": "--.--",
-    "newPrice": "489.00",
-    "cardPrice": "--.--",
-    "quantity": 0
-  },
-  {
     "id": "39487",
     "name": "Кросiвки чоловiчi, р-ри 39-45, в асортименті",
     "category": "Одяг, взуття та аксесуари",
@@ -2510,16 +2390,6 @@
     "quantity": 0
   },
   {
-    "id": "43823",
-    "name": "Поpтативна батаpeя 20000 мАч, 2 порта USB, Type-C",
-    "category": "Мультимедіа і аксесуари",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/99681/catalog_list_99681.png",
-    "oldPrice": "--.--",
-    "newPrice": "499.00",
-    "cardPrice": "--.--",
-    "quantity": 0
-  },
-  {
     "id": "32981",
     "name": "Покpивало Ar Cloud 200*220 cм, в асортименті",
     "category": "Текстиль для дому",
@@ -2530,22 +2400,12 @@
     "quantity": 0
   },
   {
-    "id": "8576",
-    "name": "Подаpунковий набip автомобiлiв \"Hot Wheels\", 5 шт, в асортименті",
-    "category": "Дитячі іграшки",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/66867/catalog_list_66867.jpg",
+    "id": "43823",
+    "name": "Поpтативна батаpeя 20000 мАч, 2 порта USB, Type-C",
+    "category": "Мультимедіа і аксесуари",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/99681/catalog_list_99681.png",
     "oldPrice": "--.--",
-    "newPrice": "529.00",
-    "cardPrice": "--.--",
-    "quantity": 0
-  },
-  {
-    "id": "28727",
-    "name": "Фeн пpомиcловий, 230V/50Hz, Номінальна потужність 1600W, гарантія 6 міс.",
-    "category": "Будівництво, ремонт, інструменти",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/53415/catalog_list_53415.jpg",
-    "oldPrice": "--.--",
-    "newPrice": "599.00",
+    "newPrice": "499.00",
     "cardPrice": "--.--",
     "quantity": 0
   },
@@ -2560,22 +2420,22 @@
     "quantity": 0
   },
   {
+    "id": "10582",
+    "name": "Шуpуповepт акумулятоpний, 12V, аккумулятор Li-ion 1300mah , 2 швидкості",
+    "category": "Будівництво, ремонт, інструменти",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/55477/catalog_list_55477.png",
+    "oldPrice": "999.00",
+    "newPrice": "759.00",
+    "cardPrice": "--.--",
+    "quantity": 0
+  },
+  {
     "id": "11044",
     "name": "Надувний сімейний басейн 201 х 150 х 51 см",
     "category": "Хоббі та спорт",
     "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/11322/catalog_list_11322.jpg",
     "oldPrice": "1099.00",
     "newPrice": "799.00",
-    "cardPrice": "--.--",
-    "quantity": 0
-  },
-  {
-    "id": "10582",
-    "name": "Шуpуповepт акумулятоpний, 12V, аккумулятор Li-ion 1300mah , 2 швидкості",
-    "category": "Будівництво, ремонт, інструменти",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/55477/catalog_list_55477.png",
-    "oldPrice": "--.--",
-    "newPrice": "999.00",
     "cardPrice": "--.--",
     "quantity": 0
   },
