@@ -1214,7 +1214,7 @@
     "name": "Напій 330 мл FRATELLI Naturali Limonata Frizzante безалкогольний сильногазований ж/б",
     "category": "Напої",
     "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/96317/catalog_list_96317.jpg",
-    "oldPrice": "24.90",
+    "oldPrice": "--.--",
     "newPrice": "16.90",
     "cardPrice": "16.06",
     "quantity": 0
@@ -1410,16 +1410,6 @@
     "quantity": 0
   },
   {
-    "id": "37187",
-    "name": "Палички ватні 200 шт День у День косметичні м/уп",
-    "category": "Ватні палички/диски",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/79661/catalog_list_79661.jpg",
-    "oldPrice": "28.90",
-    "newPrice": "18.50",
-    "cardPrice": "17.58",
-    "quantity": 0
-  },
-  {
     "id": "15811",
     "name": "Пергамент для випічки 5 м Своя лінія силіконізований без гільзи м/уп",
     "category": "Товари для випічки і упаковки їжі",
@@ -1540,16 +1530,6 @@
     "quantity": 0
   },
   {
-    "id": "24707",
-    "name": "Напій кисломолочний йогуртний 100 г Лактонія Імун+ малина-ехінацея 1,5% п/бут",
-    "category": "Йогурти",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/31585/catalog_list_31585.jpg",
-    "oldPrice": "22.80",
-    "newPrice": "19.50",
-    "cardPrice": "18.53",
-    "quantity": 0
-  },
-  {
     "id": "36037",
     "name": "Сир плавлений 70 г President Вершковий 38% фольга",
     "category": "Сири плавлені",
@@ -1560,23 +1540,13 @@
     "quantity": 0
   },
   {
-    "id": "44285",
-    "name": "Продукт молоковмісний сирний плавлений 160г Розумний вибір Вершковий 60% п/ванночка",
-    "category": "Сири плавлені",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/101231/catalog_list_101231.png",
-    "oldPrice": "26.90",
-    "newPrice": "19.90",
-    "cardPrice": "18.91",
-    "quantity": 0
-  },
-  {
-    "id": "11827",
-    "name": "Батончик 50 г Sante Go On Vitamin кокосовий з Л-карнітіном,магнієм та вітамінами глазурованний",
-    "category": "Батончики",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/12300/catalog_list_12300.jpg",
-    "oldPrice": "25.40",
-    "newPrice": "19.90",
-    "cardPrice": "18.91",
+    "id": "24707",
+    "name": "Напій кисломолочний йогуртний 100 г Лактонія Імун+ малина-ехінацея 1,5% п/бут",
+    "category": "Йогурти",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/31585/catalog_list_31585.jpg",
+    "oldPrice": "22.80",
+    "newPrice": "19.50",
+    "cardPrice": "18.53",
     "quantity": 0
   },
   {
@@ -1595,6 +1565,26 @@
     "category": "Приправи та маринади",
     "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/37857/catalog_list_37857.jpg",
     "oldPrice": "24.40",
+    "newPrice": "19.90",
+    "cardPrice": "18.91",
+    "quantity": 0
+  },
+  {
+    "id": "44285",
+    "name": "Продукт молоковмісний сирний плавлений 160г Розумний вибір Вершковий 60% п/ванночка",
+    "category": "Сири плавлені",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/101231/catalog_list_101231.png",
+    "oldPrice": "26.90",
+    "newPrice": "19.90",
+    "cardPrice": "18.91",
+    "quantity": 0
+  },
+  {
+    "id": "11827",
+    "name": "Батончик 50 г Sante Go On Vitamin кокосовий з Л-карнітіном,магнієм та вітамінами глазурованний",
+    "category": "Батончики",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/12300/catalog_list_12300.jpg",
+    "oldPrice": "25.40",
     "newPrice": "19.90",
     "cardPrice": "18.91",
     "quantity": 0
@@ -1630,16 +1620,6 @@
     "quantity": 0
   },
   {
-    "id": "36867",
-    "name": "Мило господарське 140 г Своя лінія Intensive проти плям тверде м/уп",
-    "category": "Пральні порошки та засоби для прання",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/76189/catalog_list_76189.jpg",
-    "oldPrice": "25.80",
-    "newPrice": "20.60",
-    "cardPrice": "19.57",
-    "quantity": 0
-  },
-  {
     "id": "17753",
     "name": "Набір зубних щіток 1+1 шт зі щетиною середньої жорсткості Своя Лінія",
     "category": "Гігієна ротової порожнини",
@@ -1650,11 +1630,31 @@
     "quantity": 0
   },
   {
-    "id": "22849",
-    "name": "Бісквітне тістечко 26 г Nesquik з молочною начинкою фольга",
-    "category": "Сирки глазуровані",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/27579/catalog_list_27579.jpg",
-    "oldPrice": "24.90",
+    "id": "36867",
+    "name": "Мило господарське 140 г Своя лінія Intensive проти плям тверде м/уп",
+    "category": "Пральні порошки та засоби для прання",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/76189/catalog_list_76189.jpg",
+    "oldPrice": "25.80",
+    "newPrice": "20.60",
+    "cardPrice": "19.57",
+    "quantity": 0
+  },
+  {
+    "id": "29935",
+    "name": "Йогурт 400 г Своя Лінія 1 % манго п/ет",
+    "category": "Йогурти",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/60641/catalog_list_60641.png",
+    "oldPrice": "24.40",
+    "newPrice": "20.70",
+    "cardPrice": "19.67",
+    "quantity": 0
+  },
+  {
+    "id": "29853",
+    "name": "Йогурт 400 г Своя Лінія 1 % чорниця п/ет",
+    "category": "Йогурти",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/53153/catalog_list_53153.jpg",
+    "oldPrice": "24.40",
     "newPrice": "20.70",
     "cardPrice": "19.67",
     "quantity": 0
@@ -1680,21 +1680,11 @@
     "quantity": 0
   },
   {
-    "id": "29935",
-    "name": "Йогурт 400 г Своя Лінія 1 % манго п/ет",
-    "category": "Йогурти",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/60641/catalog_list_60641.png",
-    "oldPrice": "24.40",
-    "newPrice": "20.70",
-    "cardPrice": "19.67",
-    "quantity": 0
-  },
-  {
-    "id": "29853",
-    "name": "Йогурт 400 г Своя Лінія 1 % чорниця п/ет",
-    "category": "Йогурти",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/53153/catalog_list_53153.jpg",
-    "oldPrice": "24.40",
+    "id": "22849",
+    "name": "Бісквітне тістечко 26 г Nesquik з молочною начинкою фольга",
+    "category": "Сирки глазуровані",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/27579/catalog_list_27579.jpg",
+    "oldPrice": "24.90",
     "newPrice": "20.70",
     "cardPrice": "19.67",
     "quantity": 0
@@ -2727,6 +2717,16 @@
     "oldPrice": "40.40",
     "newPrice": "28.90",
     "cardPrice": "27.46",
+    "quantity": 0
+  },
+  {
+    "id": "37187",
+    "name": "Палички ватні 200 шт День у День косметичні м/уп",
+    "category": "Ватні палички/диски",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/79661/catalog_list_79661.jpg",
+    "oldPrice": "--.--",
+    "newPrice": "28.90",
+    "cardPrice": "--.--",
     "quantity": 0
   },
   {
@@ -5704,7 +5704,7 @@
     "name": "Вoдa 7 л Свoя Лінія Тpускaвeцькa мінepaльнa нeгaзoвaнa ПЕТ",
     "category": "Мінеральна і питна вода",
     "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/93713/catalog_list_93713.jpg",
-    "oldPrice": "66.90",
+    "oldPrice": "--.--",
     "newPrice": "59.30",
     "cardPrice": "56.34",
     "quantity": 0
@@ -6944,7 +6944,7 @@
     "name": "Блокнот 80 аркушів А5 Своя Лінія",
     "category": "Канцтовари",
     "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/27361/catalog_list_27361.jpg",
-    "oldPrice": "93.90",
+    "oldPrice": "--.--",
     "newPrice": "79.60",
     "cardPrice": "75.62",
     "quantity": 0
@@ -7274,7 +7274,7 @@
     "name": "Прокладки щоденні 46шт Kotex Super DEO",
     "category": "Гігієнічні прокладки/тампони",
     "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/52883/catalog_list_52883.jpg",
-    "oldPrice": "105.40",
+    "oldPrice": "--.--",
     "newPrice": "85.90",
     "cardPrice": "81.61",
     "quantity": 0
@@ -9344,7 +9344,7 @@
     "name": "Коктейль з бурбоном 0,7 л Kentucky Jack Honey 35% ск/пл Бельгія",
     "category": "Лікери, настоянки, бальзами",
     "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/59143/catalog_list_59143.png",
-    "oldPrice": "300.40",
+    "oldPrice": "--.--",
     "newPrice": "227.30",
     "cardPrice": "--.--",
     "quantity": 0
@@ -9934,7 +9934,7 @@
     "name": "Джин 0,5 л Gordons 37,5% об ск/бут",
     "category": "Інший алкоголь",
     "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/68939/catalog_list_68939.jpg",
-    "oldPrice": "561.50",
+    "oldPrice": "--.--",
     "newPrice": "434.90",
     "cardPrice": "413.16",
     "quantity": 0
