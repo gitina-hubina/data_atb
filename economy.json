@@ -120,30 +120,20 @@
     "quantity": 0
   },
   {
-    "id": "21379",
-    "name": "Цукерки 70 г Рошен Yummi Gummi Sour Belts желейні",
-    "category": "Цукерки",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/22855/catalog_list_22855.jpg",
-    "oldPrice": "35.90",
-    "newPrice": "19.90",
-    "cardPrice": "--.--",
-    "quantity": 0
-  },
-  {
-    "id": "23709",
-    "name": "Цукерки 70 г Roshen Yummi Mini Bear Mix желейні м/уп",
-    "category": "Цукерки",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/29303/catalog_list_29303.jpg",
-    "oldPrice": "35.90",
-    "newPrice": "19.90",
-    "cardPrice": "--.--",
-    "quantity": 0
-  },
-  {
     "id": "34477",
     "name": "Цукерки 70 г Roshen Yummi Gummi Паста м/уп",
     "category": "Цукерки",
     "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/68957/catalog_list_68957.jpg",
+    "oldPrice": "35.90",
+    "newPrice": "19.90",
+    "cardPrice": "--.--",
+    "quantity": 0
+  },
+  {
+    "id": "34475",
+    "name": "Цукерки 70 г Roshen Yummi Gummi Кавун м/уп",
+    "category": "Цукерки",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/69575/catalog_list_69575.jpg",
     "oldPrice": "35.90",
     "newPrice": "19.90",
     "cardPrice": "--.--",
@@ -160,10 +150,20 @@
     "quantity": 0
   },
   {
-    "id": "34475",
-    "name": "Цукерки 70 г Roshen Yummi Gummi Кавун м/уп",
+    "id": "23709",
+    "name": "Цукерки 70 г Roshen Yummi Mini Bear Mix желейні м/уп",
     "category": "Цукерки",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/69575/catalog_list_69575.jpg",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/29303/catalog_list_29303.jpg",
+    "oldPrice": "35.90",
+    "newPrice": "19.90",
+    "cardPrice": "--.--",
+    "quantity": 0
+  },
+  {
+    "id": "21379",
+    "name": "Цукерки 70 г Рошен Yummi Gummi Sour Belts желейні",
+    "category": "Цукерки",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/22855/catalog_list_22855.jpg",
     "oldPrice": "35.90",
     "newPrice": "19.90",
     "cardPrice": "--.--",
@@ -776,6 +776,16 @@
     "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/61611/catalog_list_61611.jpeg",
     "oldPrice": "68.90",
     "newPrice": "46.50",
+    "cardPrice": "--.--",
+    "quantity": 0
+  },
+  {
+    "id": "38023",
+    "name": "Млинці 300 г Valesto з манго заморожені пласт/упак",
+    "category": "Вареники, Пельмені, Млинці",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/80543/catalog_list_80543.jpg",
+    "oldPrice": "72.90",
+    "newPrice": "46.90",
     "cardPrice": "--.--",
     "quantity": 0
   },
