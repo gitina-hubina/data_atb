@@ -1,15 +1,5 @@
 [
   {
-    "id": "6191",
-    "name": "Вода 0,5л Своя Лінія Трускавецька сильногазована",
-    "category": "Мінеральна і питна вода",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/4711/catalog_list_4711.jpg",
-    "oldPrice": "13.90",
-    "newPrice": "9.70",
-    "cardPrice": "--.--",
-    "quantity": 0
-  },
-  {
     "id": "6190",
     "name": "Вода 0,5л Своя Лінія Трускавецька негазована",
     "category": "Мінеральна і питна вода",
@@ -20,12 +10,12 @@
     "quantity": 0
   },
   {
-    "id": "23717",
-    "name": "Корм 85 г Shelma для дорослих котів філе з лососем та спіруліною в соусі м/уп",
-    "category": "Корм",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/51197/catalog_list_51197.jpg",
-    "oldPrice": "19.90",
-    "newPrice": "14.90",
+    "id": "6191",
+    "name": "Вода 0,5л Своя Лінія Трускавецька сильногазована",
+    "category": "Мінеральна і питна вода",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/4711/catalog_list_4711.jpg",
+    "oldPrice": "13.90",
+    "newPrice": "9.70",
     "cardPrice": "--.--",
     "quantity": 0
   },
@@ -34,6 +24,16 @@
     "name": "Корм 85 г Shelma для дорослих котів філе з качкою та журавлиною в соусі м/уп",
     "category": "Корм",
     "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/51195/catalog_list_51195.jpg",
+    "oldPrice": "19.90",
+    "newPrice": "14.90",
+    "cardPrice": "--.--",
+    "quantity": 0
+  },
+  {
+    "id": "23717",
+    "name": "Корм 85 г Shelma для дорослих котів філе з лососем та спіруліною в соусі м/уп",
+    "category": "Корм",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/51197/catalog_list_51197.jpg",
     "oldPrice": "19.90",
     "newPrice": "14.90",
     "cardPrice": "--.--",
@@ -90,30 +90,20 @@
     "quantity": 0
   },
   {
+    "id": "23709",
+    "name": "Цукерки 70 г Roshen Yummi Mini Bear Mix желейні м/уп",
+    "category": "Цукерки",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/29303/catalog_list_29303.jpg",
+    "oldPrice": "35.90",
+    "newPrice": "19.90",
+    "cardPrice": "--.--",
+    "quantity": 0
+  },
+  {
     "id": "21379",
     "name": "Цукерки 70 г Рошен Yummi Gummi Sour Belts желейні",
     "category": "Цукерки",
     "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/22855/catalog_list_22855.jpg",
-    "oldPrice": "35.90",
-    "newPrice": "19.90",
-    "cardPrice": "--.--",
-    "quantity": 0
-  },
-  {
-    "id": "34477",
-    "name": "Цукерки 70 г Roshen Yummi Gummi Паста м/уп",
-    "category": "Цукерки",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/68957/catalog_list_68957.jpg",
-    "oldPrice": "35.90",
-    "newPrice": "19.90",
-    "cardPrice": "--.--",
-    "quantity": 0
-  },
-  {
-    "id": "24843",
-    "name": "Цукерки 70 г Roshen Yummi Gummi Banana Land м/уп",
-    "category": "Цукерки",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/71827/catalog_list_71827.jpg",
     "oldPrice": "35.90",
     "newPrice": "19.90",
     "cardPrice": "--.--",
@@ -130,10 +120,20 @@
     "quantity": 0
   },
   {
-    "id": "23709",
-    "name": "Цукерки 70 г Roshen Yummi Mini Bear Mix желейні м/уп",
+    "id": "24843",
+    "name": "Цукерки 70 г Roshen Yummi Gummi Banana Land м/уп",
     "category": "Цукерки",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/29303/catalog_list_29303.jpg",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/71827/catalog_list_71827.jpg",
+    "oldPrice": "35.90",
+    "newPrice": "19.90",
+    "cardPrice": "--.--",
+    "quantity": 0
+  },
+  {
+    "id": "34477",
+    "name": "Цукерки 70 г Roshen Yummi Gummi Паста м/уп",
+    "category": "Цукерки",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/68957/catalog_list_68957.jpg",
     "oldPrice": "35.90",
     "newPrice": "19.90",
     "cardPrice": "--.--",
@@ -210,10 +210,10 @@
     "quantity": 0
   },
   {
-    "id": "3569",
-    "name": "Засіб миючий для посуду 495 мл Своя лінія RIO бальзам з ароматом чайного дерева і м`яти",
-    "category": "Засоби для миття посуду",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/74441/catalog_list_74441.jpg",
+    "id": "44363",
+    "name": "Напій 2 л День у День Мохіто безалкогольний ПЕТ",
+    "category": "Напої",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/101309/catalog_list_101309.jpg",
     "oldPrice": "39.90",
     "newPrice": "25.90",
     "cardPrice": "--.--",
@@ -230,10 +230,10 @@
     "quantity": 0
   },
   {
-    "id": "44363",
-    "name": "Напій 2 л День у День Мохіто безалкогольний ПЕТ",
-    "category": "Напої",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/101309/catalog_list_101309.jpg",
+    "id": "3569",
+    "name": "Засіб миючий для посуду 495 мл Своя лінія RIO бальзам з ароматом чайного дерева і м`яти",
+    "category": "Засоби для миття посуду",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/74441/catalog_list_74441.jpg",
     "oldPrice": "39.90",
     "newPrice": "25.90",
     "cardPrice": "--.--",
@@ -250,16 +250,6 @@
     "quantity": 0
   },
   {
-    "id": "113",
-    "name": "Печиво 150г Рошен Есмеральда какао зі шматочками глазурі",
-    "category": "Печиво, пряники",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/83/catalog_list_83.jpg",
-    "oldPrice": "41.70",
-    "newPrice": "27.90",
-    "cardPrice": "--.--",
-    "quantity": 0
-  },
-  {
     "id": "11622",
     "name": "Печивo 150 г Рoшен Lovita зі шматoчками глазурі",
     "category": "Печиво, пряники",
@@ -270,12 +260,12 @@
     "quantity": 0
   },
   {
-    "id": "9685",
-    "name": "Прокладки гігієнічні 9шт Libresse Classic Protection Regular",
-    "category": "Гігієнічні прокладки/тампони",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/69267/catalog_list_69267.jpg",
-    "oldPrice": "44.30",
-    "newPrice": "28.50",
+    "id": "113",
+    "name": "Печиво 150г Рошен Есмеральда какао зі шматочками глазурі",
+    "category": "Печиво, пряники",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/83/catalog_list_83.jpg",
+    "oldPrice": "41.70",
+    "newPrice": "27.90",
     "cardPrice": "--.--",
     "quantity": 0
   },
@@ -284,6 +274,16 @@
     "name": "Прокладки гігієнічні 8шт Libresse Classic Protection Long",
     "category": "Гігієнічні прокладки/тампони",
     "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/69269/catalog_list_69269.jpg",
+    "oldPrice": "44.30",
+    "newPrice": "28.50",
+    "cardPrice": "--.--",
+    "quantity": 0
+  },
+  {
+    "id": "9685",
+    "name": "Прокладки гігієнічні 9шт Libresse Classic Protection Regular",
+    "category": "Гігієнічні прокладки/тампони",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/69267/catalog_list_69267.jpg",
     "oldPrice": "44.30",
     "newPrice": "28.50",
     "cardPrice": "--.--",
@@ -366,16 +366,6 @@
     "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/95631/catalog_list_95631.jpg",
     "oldPrice": "57.30",
     "newPrice": "31.50",
-    "cardPrice": "--.--",
-    "quantity": 0
-  },
-  {
-    "id": "35241",
-    "name": "Серветки косметичні 150 шт Своя лінія двошарові універсальні, к/уп",
-    "category": "Серветки, рушники",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/98147/catalog_list_98147.jpg",
-    "oldPrice": "44.90",
-    "newPrice": "32.50",
     "cardPrice": "--.--",
     "quantity": 0
   },
@@ -760,16 +750,6 @@
     "quantity": 0
   },
   {
-    "id": "27553",
-    "name": "Сир кисломолочний 350 г Білоцерківський нежирний п/ет",
-    "category": "Сир кисломолочний",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/106813/catalog_list_106813.jpg",
-    "oldPrice": "76.80",
-    "newPrice": "55.90",
-    "cardPrice": "--.--",
-    "quantity": 0
-  },
-  {
     "id": "2434",
     "name": "Напій енергетичний Red Bull 473 мл",
     "category": "Енергетичні",
@@ -826,16 +806,6 @@
     "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/69291/catalog_list_69291.jpg",
     "oldPrice": "93.50",
     "newPrice": "60.50",
-    "cardPrice": "--.--",
-    "quantity": 0
-  },
-  {
-    "id": "26629",
-    "name": "Сир кисломолочний 350 г Білоцерківський 5% п/ет",
-    "category": "Сир кисломолочний",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/106809/catalog_list_106809.jpg",
-    "oldPrice": "83.50",
-    "newPrice": "60.90",
     "cardPrice": "--.--",
     "quantity": 0
   },
@@ -1356,16 +1326,6 @@
     "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/73911/catalog_list_73911.png",
     "oldPrice": "306.90",
     "newPrice": "179.90",
-    "cardPrice": "--.--",
-    "quantity": 0
-  },
-  {
-    "id": "45265",
-    "name": "Хек тушка напівпатраний День у День с/м б/г п/ет( Айсберг)",
-    "category": "Риба",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/105461/catalog_list_105461.png",
-    "oldPrice": "231.89",
-    "newPrice": "184.50",
     "cardPrice": "--.--",
     "quantity": 0
   },
