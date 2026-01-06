@@ -680,10 +680,20 @@
     "quantity": 0
   },
   {
-    "id": "11189",
-    "name": "Чай (24 ф/п х 1,5 г) Рoзумний Вибір чoрний дрібний з ароматом лимона",
+    "id": "10845",
+    "name": "Йогурт 115 г Дольче двошаровий манго 3,2%",
+    "category": "Йогурти",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/35231/catalog_list_35231.jpg",
+    "oldPrice": "20.50",
+    "newPrice": "15.90",
+    "cardPrice": "15.11",
+    "quantity": 0
+  },
+  {
+    "id": "11187",
+    "name": "Чай (24 ф/п х 1,5 г) Рoзумний Вибір чoрний байхoвий дрібний з ароматом лісових ягід",
     "category": "Чай",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/11439/catalog_list_11439.jpg",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/11437/catalog_list_11437.jpg",
     "oldPrice": "18.90",
     "newPrice": "15.90",
     "cardPrice": "15.11",
@@ -700,21 +710,11 @@
     "quantity": 0
   },
   {
-    "id": "11187",
-    "name": "Чай (24 ф/п х 1,5 г) Рoзумний Вибір чoрний байхoвий дрібний з ароматом лісових ягід",
+    "id": "11189",
+    "name": "Чай (24 ф/п х 1,5 г) Рoзумний Вибір чoрний дрібний з ароматом лимона",
     "category": "Чай",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/11437/catalog_list_11437.jpg",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/11439/catalog_list_11439.jpg",
     "oldPrice": "18.90",
-    "newPrice": "15.90",
-    "cardPrice": "15.11",
-    "quantity": 0
-  },
-  {
-    "id": "10845",
-    "name": "Йогурт 115 г Дольче двошаровий манго 3,2%",
-    "category": "Йогурти",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/35231/catalog_list_35231.jpg",
-    "oldPrice": "20.50",
     "newPrice": "15.90",
     "cardPrice": "15.11",
     "quantity": 0
@@ -2966,7 +2966,7 @@
     "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/74433/catalog_list_74433.jpg",
     "oldPrice": "--.--",
     "newPrice": "33.60",
-    "cardPrice": "31.92",
+    "cardPrice": "--.--",
     "quantity": 0
   },
   {
@@ -3926,7 +3926,7 @@
     "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/101081/catalog_list_101081.jpg",
     "oldPrice": "44.40",
     "newPrice": "41.90",
-    "cardPrice": "39.81",
+    "cardPrice": "--.--",
     "quantity": 0
   },
   {
@@ -3936,7 +3936,7 @@
     "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/101087/catalog_list_101087.jpg",
     "oldPrice": "44.50",
     "newPrice": "41.90",
-    "cardPrice": "39.81",
+    "cardPrice": "--.--",
     "quantity": 0
   },
   {
@@ -7087,6 +7087,16 @@
     "oldPrice": "124.30",
     "newPrice": "102.50",
     "cardPrice": "97.38",
+    "quantity": 0
+  },
+  {
+    "id": "25207",
+    "name": "Мигдаль 120 г Activita Healthy nut смажений м/уп",
+    "category": "Горіхи, сухофрукти",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/33267/catalog_list_33267.jpg",
+    "oldPrice": "116.90",
+    "newPrice": "102.60",
+    "cardPrice": "97.47",
     "quantity": 0
   },
   {
