@@ -10,20 +10,20 @@
     "quantity": 0
   },
   {
-    "id": "11170",
-    "name": "Вафлі 34 г Рошен Roshetto milk глазуровані молочно-шоколадною глазур'ю",
+    "id": "32655",
+    "name": "Вафлі 34 г Roshen Roshetto peanut глазуровані шоколадною глазур'ю м/уп",
     "category": "Вафлі",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/11420/catalog_list_11420.jpg",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/66255/catalog_list_66255.jpg",
     "oldPrice": "13.70",
     "newPrice": "8.90",
     "cardPrice": "--.--",
     "quantity": 0
   },
   {
-    "id": "32655",
-    "name": "Вафлі 34 г Roshen Roshetto peanut глазуровані шоколадною глазур'ю м/уп",
+    "id": "11170",
+    "name": "Вафлі 34 г Рошен Roshetto milk глазуровані молочно-шоколадною глазур'ю",
     "category": "Вафлі",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/66255/catalog_list_66255.jpg",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/11420/catalog_list_11420.jpg",
     "oldPrice": "13.70",
     "newPrice": "8.90",
     "cardPrice": "--.--",
@@ -150,6 +150,16 @@
     "quantity": 0
   },
   {
+    "id": "7964",
+    "name": "Морозиво 90г Рудь Брикет 100%",
+    "category": "Морозиво",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/93493/catalog_list_93493.jpg",
+    "oldPrice": "32.50",
+    "newPrice": "17.50",
+    "cardPrice": "--.--",
+    "quantity": 0
+  },
+  {
     "id": "40789",
     "name": "Сир плавлений 70 г Molendam Hollander 38% фольга",
     "category": "Сири плавлені",
@@ -165,16 +175,6 @@
     "category": "Сири плавлені",
     "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/91371/catalog_list_91371.jpg",
     "oldPrice": "27.00",
-    "newPrice": "17.50",
-    "cardPrice": "--.--",
-    "quantity": 0
-  },
-  {
-    "id": "7964",
-    "name": "Морозиво 90г Рудь Брикет 100%",
-    "category": "Морозиво",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/93493/catalog_list_93493.jpg",
-    "oldPrice": "32.50",
     "newPrice": "17.50",
     "cardPrice": "--.--",
     "quantity": 0
@@ -340,10 +340,10 @@
     "quantity": 0
   },
   {
-    "id": "36887",
-    "name": "Чай (40 ф/п х 1,5 г) День у День чорний з Лимоном /чорний зі смаком персика та маракуя к/уп",
-    "category": "Чай",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/101991/catalog_list_101991.jpg",
+    "id": "44367",
+    "name": "Напій 2 л День у День Тархун ПЕТ",
+    "category": "Напої",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/101313/catalog_list_101313.jpg",
     "oldPrice": "39.90",
     "newPrice": "25.90",
     "cardPrice": "--.--",
@@ -410,6 +410,16 @@
     "quantity": 0
   },
   {
+    "id": "41609",
+    "name": "Напій 0,5 л ДЗЕН Піна колада слабоалкогольний 7% об з/б",
+    "category": "Слабоалкогольні напої",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/91581/catalog_list_91581.jpg",
+    "oldPrice": "43.30",
+    "newPrice": "27.90",
+    "cardPrice": "--.--",
+    "quantity": 0
+  },
+  {
     "id": "37707",
     "name": "Серветки вологі 60 шт Своя лінія антибактеріальні з клапаном флоу-пак",
     "category": "Серветки, рушники",
@@ -425,16 +435,6 @@
     "category": "Серветки, рушники",
     "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/76537/catalog_list_76537.jpg",
     "oldPrice": "39.90",
-    "newPrice": "27.90",
-    "cardPrice": "--.--",
-    "quantity": 0
-  },
-  {
-    "id": "41609",
-    "name": "Напій 0,5 л ДЗЕН Піна колада слабоалкогольний 7% об з/б",
-    "category": "Слабоалкогольні напої",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/91581/catalog_list_91581.jpg",
-    "oldPrice": "43.30",
     "newPrice": "27.90",
     "cardPrice": "--.--",
     "quantity": 0
@@ -500,21 +500,21 @@
     "quantity": 0
   },
   {
-    "id": "34331",
-    "name": "Напій 0,75 л 4MOVE зі смаком мультифрукту безалкогольний ізотонічний негазований ПЕТ Польща",
-    "category": "Мінеральна і питна вода",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/68787/catalog_list_68787.jpg",
-    "oldPrice": "39.90",
-    "newPrice": "28.90",
-    "cardPrice": "--.--",
-    "quantity": 0
-  },
-  {
     "id": "26671",
     "name": "Пиво 0,5 л Lowenbrau Original Світлe ск/бут",
     "category": "Пиво",
     "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/36251/catalog_list_36251.jpg",
     "oldPrice": "43.60",
+    "newPrice": "28.90",
+    "cardPrice": "--.--",
+    "quantity": 0
+  },
+  {
+    "id": "34331",
+    "name": "Напій 0,75 л 4MOVE зі смаком мультифрукту безалкогольний ізотонічний негазований ПЕТ Польща",
+    "category": "Мінеральна і питна вода",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/68787/catalog_list_68787.jpg",
+    "oldPrice": "39.90",
     "newPrice": "28.90",
     "cardPrice": "--.--",
     "quantity": 0
@@ -630,21 +630,21 @@
     "quantity": 0
   },
   {
-    "id": "15029",
-    "name": "Напій 2 л Живчик газований",
-    "category": "Напої",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/69449/catalog_list_69449.jpg",
-    "oldPrice": "55.40",
-    "newPrice": "35.90",
-    "cardPrice": "--.--",
-    "quantity": 0
-  },
-  {
     "id": "28729",
     "name": "Засіб концентрованний для миття посуду 0,5л NEO PURE Алое Вера/Яблуко п/флакон",
     "category": "Засоби для миття посуду",
     "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/92099/catalog_list_92099.jpg",
     "oldPrice": "56.90",
+    "newPrice": "35.90",
+    "cardPrice": "--.--",
+    "quantity": 0
+  },
+  {
+    "id": "15029",
+    "name": "Напій 2 л Живчик газований",
+    "category": "Напої",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/69449/catalog_list_69449.jpg",
+    "oldPrice": "55.40",
     "newPrice": "35.90",
     "cardPrice": "--.--",
     "quantity": 0
@@ -690,16 +690,6 @@
     "quantity": 0
   },
   {
-    "id": "16",
-    "name": "Напій 2 л Fanta Апельсин безалкoгoльний сильнoгазoваний",
-    "category": "Напої",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/94445/catalog_list_94445.jpg",
-    "oldPrice": "56.90",
-    "newPrice": "39.80",
-    "cardPrice": "--.--",
-    "quantity": 0
-  },
-  {
     "id": "36403",
     "name": "Нaпій 2 л Fanta Shokata zero бeзaлкoгoльний сильнoгaзoвaний ПЕТ",
     "category": "Напої",
@@ -714,6 +704,16 @@
     "name": "Нaпій 2 л Fanta Mandarin zero бeзaлкoгoльний сильнoгaзoвaний ПЕТ",
     "category": "Напої",
     "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/94475/catalog_list_94475.jpg",
+    "oldPrice": "56.90",
+    "newPrice": "39.80",
+    "cardPrice": "--.--",
+    "quantity": 0
+  },
+  {
+    "id": "16",
+    "name": "Напій 2 л Fanta Апельсин безалкoгoльний сильнoгазoваний",
+    "category": "Напої",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/94445/catalog_list_94445.jpg",
     "oldPrice": "56.90",
     "newPrice": "39.80",
     "cardPrice": "--.--",
@@ -1110,16 +1110,6 @@
     "quantity": 0
   },
   {
-    "id": "15481",
-    "name": "Сир м’який 175г De Luxe Foods & Goods Selected 60,0 % Німеччина",
-    "category": "Сири плавлені",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/19935/catalog_list_19935.jpg",
-    "oldPrice": "85.90",
-    "newPrice": "59.90",
-    "cardPrice": "--.--",
-    "quantity": 0
-  },
-  {
     "id": "2198",
     "name": "Сир твердий 160г Свoя лінія Гoлландський 45%",
     "category": "Сири тверді",
@@ -1230,21 +1220,21 @@
     "quantity": 0
   },
   {
-    "id": "11225",
-    "name": "Олія 0,85 л Щедрий Дар Соняшникова нерафінована",
-    "category": "Олія та Оцет",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/57531/catalog_list_57531.jpg",
-    "oldPrice": "83.18",
-    "newPrice": "74.70",
-    "cardPrice": "--.--",
-    "quantity": 0
-  },
-  {
     "id": "1584",
     "name": "Олія 0,85л Щедрий Дар Соняшникова рафінована",
     "category": "Олія та Оцет",
     "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/57525/catalog_list_57525.jpg",
     "oldPrice": "83.15",
+    "newPrice": "74.70",
+    "cardPrice": "--.--",
+    "quantity": 0
+  },
+  {
+    "id": "11225",
+    "name": "Олія 0,85 л Щедрий Дар Соняшникова нерафінована",
+    "category": "Олія та Оцет",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/57531/catalog_list_57531.jpg",
+    "oldPrice": "83.18",
     "newPrice": "74.70",
     "cardPrice": "--.--",
     "quantity": 0
@@ -1306,16 +1296,6 @@
     "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/66207/catalog_list_66207.jpg",
     "oldPrice": "118.90",
     "newPrice": "79.50",
-    "cardPrice": "--.--",
-    "quantity": 0
-  },
-  {
-    "id": "45281",
-    "name": "Картопля фрі 750г Своя Лінія хвиляста смажена швидкозаморожена п/ет",
-    "category": "Овочі та фрукти свіжозаморожені",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/105473/catalog_list_105473.jpg",
-    "oldPrice": "119.90",
-    "newPrice": "83.90",
     "cardPrice": "--.--",
     "quantity": 0
   },
