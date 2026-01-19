@@ -4120,6 +4120,16 @@
     "quantity": 0
   },
   {
+    "id": "44507",
+    "name": "Папір рисовий 45г Hokkaido Club 5 аркушів м/уп",
+    "category": "Норі і Паніровка",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/102049/catalog_list_102049.jpg",
+    "oldPrice": "52.50",
+    "newPrice": "43.70",
+    "cardPrice": "41.52",
+    "quantity": 0
+  },
+  {
     "id": "38705",
     "name": "Кефір 0,9 кг Щоденний збір 2,5% п/е(Г)",
     "category": "Кисломолочні напої",
@@ -6220,16 +6230,6 @@
     "quantity": 0
   },
   {
-    "id": "45005",
-    "name": "Пельмені 0,6 кг Levada \"Вернигора\" курячі заморожені п/ет",
-    "category": "Вареники, Пельмені, Млинці",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/103463/catalog_list_103463.jpg",
-    "oldPrice": "95.70",
-    "newPrice": "74.20",
-    "cardPrice": "70.49",
-    "quantity": 0
-  },
-  {
     "id": "11678",
     "name": "Нeктap 1 л Біoлa Апeльсинoвий",
     "category": "Соки, нектари",
@@ -6340,16 +6340,6 @@
     "quantity": 0
   },
   {
-    "id": "2696",
-    "name": "Прокладки щоденні 40 шт Libresse Natural Care Normal з екстрактом алое вера та ромашки",
-    "category": "Гігієнічні прокладки/тампони",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/86603/catalog_list_86603.jpg",
-    "oldPrice": "--.--",
-    "newPrice": "77.40",
-    "cardPrice": "73.53",
-    "quantity": 0
-  },
-  {
     "id": "31931",
     "name": "Пивo 2,4 л Обoлoнь Традиційне Свiтлe ПЕТ",
     "category": "Пиво",
@@ -6370,6 +6360,16 @@
     "quantity": 0
   },
   {
+    "id": "2696",
+    "name": "Прокладки щоденні 40 шт Libresse Natural Care Normal з екстрактом алое вера та ромашки",
+    "category": "Гігієнічні прокладки/тампони",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/86603/catalog_list_86603.jpg",
+    "oldPrice": "--.--",
+    "newPrice": "77.40",
+    "cardPrice": "73.53",
+    "quantity": 0
+  },
+  {
     "id": "1803",
     "name": "Сосиски 300 г М'ясна лавка/Своя лінія Рум'яні кусняшки",
     "category": "Сосиски, сардельки",
@@ -6380,21 +6380,21 @@
     "quantity": 0
   },
   {
-    "id": "2048",
-    "name": "Сосиски 330г М'ясна лавка/Своя лінія Докторські Фірмові",
-    "category": "Сосиски, сардельки",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/1399/catalog_list_1399.jpg",
-    "oldPrice": "92.50",
-    "newPrice": "78.40",
-    "cardPrice": "74.48",
-    "quantity": 0
-  },
-  {
     "id": "44471",
     "name": "Тонкі сухарики 195 г Finn crisp цільнозернові запечені з чіа та морською сіллю к/уп",
     "category": "Хлібці",
     "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/102013/catalog_list_102013.jpg",
     "oldPrice": "98.60",
+    "newPrice": "78.40",
+    "cardPrice": "74.48",
+    "quantity": 0
+  },
+  {
+    "id": "2048",
+    "name": "Сосиски 330г М'ясна лавка/Своя лінія Докторські Фірмові",
+    "category": "Сосиски, сардельки",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/1399/catalog_list_1399.jpg",
+    "oldPrice": "92.50",
     "newPrice": "78.40",
     "cardPrice": "74.48",
     "quantity": 0
@@ -6720,16 +6720,6 @@
     "quantity": 0
   },
   {
-    "id": "36679",
-    "name": "Равлик з корицею (булочка) 320 г (8х40г) Eesti Pagar швидкозаморожений п/ет",
-    "category": "Тісто, Випічка, Піца",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/75887/catalog_list_75887.jpg",
-    "oldPrice": "110.60",
-    "newPrice": "87.90",
-    "cardPrice": "83.51",
-    "quantity": 0
-  },
-  {
     "id": "8439",
     "name": "Консерви 160 г Riga Gold Шпроти в оливковій олії",
     "category": "М'ясні та рибні консерви",
@@ -6745,6 +6735,16 @@
     "category": "Горілка",
     "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/102011/catalog_list_102011.jpg",
     "oldPrice": "--.--",
+    "newPrice": "87.90",
+    "cardPrice": "83.51",
+    "quantity": 0
+  },
+  {
+    "id": "36679",
+    "name": "Равлик з корицею (булочка) 320 г (8х40г) Eesti Pagar швидкозаморожений п/ет",
+    "category": "Тісто, Випічка, Піца",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/75887/catalog_list_75887.jpg",
+    "oldPrice": "110.60",
     "newPrice": "87.90",
     "cardPrice": "83.51",
     "quantity": 0
@@ -7450,30 +7450,10 @@
     "quantity": 0
   },
   {
-    "id": "5428",
-    "name": "Вино 0,75л Baron de Lusson напівсолодке червоне 12%, Франція",
-    "category": "Вино",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/105159/catalog_list_105159.png",
-    "oldPrice": "179.90",
-    "newPrice": "119.50",
-    "cardPrice": "--.--",
-    "quantity": 0
-  },
-  {
     "id": "5427",
     "name": "Вино 0,75л Baron de Lusson сухе рожеве 10.5%, Франція",
     "category": "Вино",
     "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/105157/catalog_list_105157.png",
-    "oldPrice": "179.90",
-    "newPrice": "119.50",
-    "cardPrice": "--.--",
-    "quantity": 0
-  },
-  {
-    "id": "5426",
-    "name": "Вино 0,75л Baron de Lusson напівсолодке біле 10,5%, Франція",
-    "category": "Вино",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/105155/catalog_list_105155.png",
     "oldPrice": "179.90",
     "newPrice": "119.50",
     "cardPrice": "--.--",
@@ -7540,20 +7520,10 @@
     "quantity": 0
   },
   {
-    "id": "5108",
-    "name": "Вино 0,75л Піросмані червоне столове напівсухе 12%, Грузія",
+    "id": "4829",
+    "name": "Вино 0,75л Своя Лiнiя Алазанська долина столовe бiлe напiвсолодкe 10,5-12% об ск/пл Гpузiя",
     "category": "Вино",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/72005/catalog_list_72005.jpg",
-    "oldPrice": "181.30",
-    "newPrice": "123.20",
-    "cardPrice": "117.04",
-    "quantity": 0
-  },
-  {
-    "id": "5107",
-    "name": "Вино 0,75л Цинандалі біле столове сухе 13%, Грузія",
-    "category": "Вино",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/72003/catalog_list_72003.jpg",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/71999/catalog_list_71999.jpg",
     "oldPrice": "181.30",
     "newPrice": "123.20",
     "cardPrice": "117.04",
@@ -7570,10 +7540,20 @@
     "quantity": 0
   },
   {
-    "id": "4829",
-    "name": "Вино 0,75л Своя Лiнiя Алазанська долина столовe бiлe напiвсолодкe 10,5-12% об ск/пл Гpузiя",
+    "id": "5107",
+    "name": "Вино 0,75л Цинандалі біле столове сухе 13%, Грузія",
     "category": "Вино",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/71999/catalog_list_71999.jpg",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/72003/catalog_list_72003.jpg",
+    "oldPrice": "181.30",
+    "newPrice": "123.20",
+    "cardPrice": "117.04",
+    "quantity": 0
+  },
+  {
+    "id": "5108",
+    "name": "Вино 0,75л Піросмані червоне столове напівсухе 12%, Грузія",
+    "category": "Вино",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/72005/catalog_list_72005.jpg",
     "oldPrice": "181.30",
     "newPrice": "123.20",
     "cardPrice": "117.04",
@@ -7760,20 +7740,20 @@
     "quantity": 0
   },
   {
-    "id": "7739",
-    "name": "Вино 1,5л Азнаури Алазанська долина біле напівсолодке 9-13%, Україна",
+    "id": "7740",
+    "name": "Вино 1,5л Азнаури Алазанська долина червоне напівсолодке 11%",
     "category": "Вино",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/25061/catalog_list_25061.jpg",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/25063/catalog_list_25063.jpg",
     "oldPrice": "--.--",
     "newPrice": "138.50",
     "cardPrice": "--.--",
     "quantity": 0
   },
   {
-    "id": "7740",
-    "name": "Вино 1,5л Азнаури Алазанська долина червоне напівсолодке 11%",
+    "id": "7739",
+    "name": "Вино 1,5л Азнаури Алазанська долина біле напівсолодке 9-13%, Україна",
     "category": "Вино",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/25063/catalog_list_25063.jpg",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/25061/catalog_list_25061.jpg",
     "oldPrice": "--.--",
     "newPrice": "138.50",
     "cardPrice": "--.--",
@@ -8237,6 +8217,26 @@
     "oldPrice": "238.30",
     "newPrice": "185.90",
     "cardPrice": "176.61",
+    "quantity": 0
+  },
+  {
+    "id": "5428",
+    "name": "Вино 0,75л Baron de Lusson напівсолодке червоне 12%, Франція",
+    "category": "Вино",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/105159/catalog_list_105159.png",
+    "oldPrice": "--.--",
+    "newPrice": "186.50",
+    "cardPrice": "--.--",
+    "quantity": 0
+  },
+  {
+    "id": "5426",
+    "name": "Вино 0,75л Baron de Lusson напівсолодке біле 10,5%, Франція",
+    "category": "Вино",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/105155/catalog_list_105155.png",
+    "oldPrice": "--.--",
+    "newPrice": "186.50",
+    "cardPrice": "--.--",
     "quantity": 0
   },
   {
