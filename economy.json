@@ -230,21 +230,21 @@
     "quantity": 0
   },
   {
-    "id": "2690",
-    "name": "Кефір 420г Галичина 2,5%",
-    "category": "Кисломолочні напої",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/47243/catalog_list_47243.jpg",
-    "oldPrice": "31.30",
-    "newPrice": "21.90",
-    "cardPrice": "--.--",
-    "quantity": 0
-  },
-  {
     "id": "28225",
     "name": "Напій соковий 400 мл Hortex Яблуко-Полуниця/Персик бeзaлкoгoльний негазований ПЕТ, Польща",
     "category": "Напої",
     "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/100103/catalog_list_100103.png",
     "oldPrice": "30.90",
+    "newPrice": "21.90",
+    "cardPrice": "--.--",
+    "quantity": 0
+  },
+  {
+    "id": "2690",
+    "name": "Кефір 420г Галичина 2,5%",
+    "category": "Кисломолочні напої",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/47243/catalog_list_47243.jpg",
+    "oldPrice": "31.30",
     "newPrice": "21.90",
     "cardPrice": "--.--",
     "quantity": 0
@@ -1576,6 +1576,16 @@
     "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/73911/catalog_list_73911.png",
     "oldPrice": "297.60",
     "newPrice": "174.90",
+    "cardPrice": "--.--",
+    "quantity": 0
+  },
+  {
+    "id": "45265",
+    "name": "Хек тушка напівпатраний День у День с/м б/г п/ет( Айсберг)",
+    "category": "Риба",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/105461/catalog_list_105461.png",
+    "oldPrice": "231.89",
+    "newPrice": "184.50",
     "cardPrice": "--.--",
     "quantity": 0
   },
