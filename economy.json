@@ -90,11 +90,11 @@
     "quantity": 0
   },
   {
-    "id": "7966",
-    "name": "Морозиво 70г Рудь 100% морозиво",
-    "category": "Морозиво",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/7162/catalog_list_7162.jpg",
-    "oldPrice": "29.90",
+    "id": "3132",
+    "name": "Вода 1,5л Buvette природна столова слабогазована",
+    "category": "Мінеральна і питна вода",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/2242/catalog_list_2242.jpg",
+    "oldPrice": "24.90",
     "newPrice": "15.90",
     "cardPrice": "--.--",
     "quantity": 0
@@ -110,11 +110,11 @@
     "quantity": 0
   },
   {
-    "id": "3132",
-    "name": "Вода 1,5л Buvette природна столова слабогазована",
-    "category": "Мінеральна і питна вода",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/2242/catalog_list_2242.jpg",
-    "oldPrice": "24.90",
+    "id": "7966",
+    "name": "Морозиво 70г Рудь 100% морозиво",
+    "category": "Морозиво",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/7162/catalog_list_7162.jpg",
+    "oldPrice": "29.90",
     "newPrice": "15.90",
     "cardPrice": "--.--",
     "quantity": 0
@@ -220,16 +220,6 @@
     "quantity": 0
   },
   {
-    "id": "28225",
-    "name": "Напій соковий 400 мл Hortex Яблуко-Полуниця/Персик бeзaлкoгoльний негазований ПЕТ, Польща",
-    "category": "Напої",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/100103/catalog_list_100103.png",
-    "oldPrice": "30.90",
-    "newPrice": "21.90",
-    "cardPrice": "--.--",
-    "quantity": 0
-  },
-  {
     "id": "24083",
     "name": "Десерт сирковий 130 г Марійка зі смаком ванілі 5% п/ванночка",
     "category": "Молочні десерти",
@@ -245,6 +235,16 @@
     "category": "Кисломолочні напої",
     "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/47243/catalog_list_47243.jpg",
     "oldPrice": "31.30",
+    "newPrice": "21.90",
+    "cardPrice": "--.--",
+    "quantity": 0
+  },
+  {
+    "id": "28225",
+    "name": "Напій соковий 400 мл Hortex Яблуко-Полуниця/Персик бeзaлкoгoльний негазований ПЕТ, Польща",
+    "category": "Напої",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/100103/catalog_list_100103.png",
+    "oldPrice": "30.90",
     "newPrice": "21.90",
     "cardPrice": "--.--",
     "quantity": 0
@@ -550,6 +550,16 @@
     "quantity": 0
   },
   {
+    "id": "22481",
+    "name": "Засіб миючий синт. 300 г Gala Аква-Пудра Французький аромат/Морська свiжiсть (автомат) к/уп",
+    "category": "Пральні порошки та засоби для прання",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/61763/catalog_list_61763.png",
+    "oldPrice": "39.00",
+    "newPrice": "36.90",
+    "cardPrice": "--.--",
+    "quantity": 0
+  },
+  {
     "id": "18629",
     "name": "Батончик 64 г Nestle Kit Kat Chunky King Size",
     "category": "Батончики",
@@ -620,12 +630,12 @@
     "quantity": 0
   },
   {
-    "id": "22481",
-    "name": "Засіб миючий синт. 300 г Gala Аква-Пудра Французький аромат/Морська свiжiсть (автомат) к/уп",
-    "category": "Пральні порошки та засоби для прання",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/61763/catalog_list_61763.png",
-    "oldPrice": "58.90",
-    "newPrice": "39.00",
+    "id": "25483",
+    "name": "Пивo 1 л Чepнігівськe міцне TITAN ПЕТ",
+    "category": "Пиво",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/49973/catalog_list_49973.jpg",
+    "oldPrice": "59.90",
+    "newPrice": "39.90",
     "cardPrice": "--.--",
     "quantity": 0
   },
@@ -635,16 +645,6 @@
     "category": "Сметана",
     "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/28411/catalog_list_28411.jpg",
     "oldPrice": "54.30",
-    "newPrice": "39.90",
-    "cardPrice": "--.--",
-    "quantity": 0
-  },
-  {
-    "id": "25483",
-    "name": "Пивo 1 л Чepнігівськe міцне TITAN ПЕТ",
-    "category": "Пиво",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/49973/catalog_list_49973.jpg",
-    "oldPrice": "59.90",
     "newPrice": "39.90",
     "cardPrice": "--.--",
     "quantity": 0
@@ -1300,6 +1300,16 @@
     "quantity": 0
   },
   {
+    "id": "36859",
+    "name": "Масляна 150г K.I.T філе-шматок х/к н/ш в/у",
+    "category": "Риба",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/76181/catalog_list_76181.jpg",
+    "oldPrice": "149.50",
+    "newPrice": "99.90",
+    "cardPrice": "--.--",
+    "quantity": 0
+  },
+  {
     "id": "2746",
     "name": "Папір туалетний 4 шт Zewa Deluxe pure white 3 шари",
     "category": "Туалетний папір",
@@ -1550,6 +1560,16 @@
     "quantity": 0
   },
   {
+    "id": "22487",
+    "name": "Засіб миючий синтетичний 1,8 кг Gala Aqua Puder Color Французький аромат м/уп",
+    "category": "Пральні порошки та засоби для прання",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/56159/catalog_list_56159.jpg",
+    "oldPrice": "199.90",
+    "newPrice": "173.90",
+    "cardPrice": "--.--",
+    "quantity": 0
+  },
+  {
     "id": "29339",
     "name": "Кава 230 г Jacobs Monarch мелена м/уп",
     "category": "Кава, какао",
@@ -1606,16 +1626,6 @@
     "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/3059/catalog_list_3059.jpg",
     "oldPrice": "266.75",
     "newPrice": "194.50",
-    "cardPrice": "--.--",
-    "quantity": 0
-  },
-  {
-    "id": "22487",
-    "name": "Засіб миючий синтетичний 1,8 кг Gala Aqua Puder Color Французький аромат м/уп",
-    "category": "Пральні порошки та засоби для прання",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/56159/catalog_list_56159.jpg",
-    "oldPrice": "340.40",
-    "newPrice": "199.90",
     "cardPrice": "--.--",
     "quantity": 0
   },
