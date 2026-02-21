@@ -1,15 +1,5 @@
 [
   {
-    "id": "11169",
-    "name": "Вафлі 34 г Рошен Roshetto dark глазуровані шоколадною глазур'ю",
-    "category": "Вафлі",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/11419/catalog_list_11419.jpg",
-    "oldPrice": "13.70",
-    "newPrice": "9.30",
-    "cardPrice": "--.--",
-    "quantity": 0
-  },
-  {
     "id": "32655",
     "name": "Вафлі 34 г Roshen Roshetto peanut глазуровані шоколадною глазур'ю м/уп",
     "category": "Вафлі",
@@ -24,6 +14,16 @@
     "name": "Вафлі 34 г Рошен Roshetto milk глазуровані молочно-шоколадною глазур'ю",
     "category": "Вафлі",
     "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/11420/catalog_list_11420.jpg",
+    "oldPrice": "13.70",
+    "newPrice": "9.30",
+    "cardPrice": "--.--",
+    "quantity": 0
+  },
+  {
+    "id": "11169",
+    "name": "Вафлі 34 г Рошен Roshetto dark глазуровані шоколадною глазур'ю",
+    "category": "Вафлі",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/11419/catalog_list_11419.jpg",
     "oldPrice": "13.70",
     "newPrice": "9.30",
     "cardPrice": "--.--",
@@ -390,16 +390,6 @@
     "quantity": 0
   },
   {
-    "id": "10956",
-    "name": "Пиво 0,5 л Faxe світле фільтроване 4,6%, Литва",
-    "category": "Пиво",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/11079/catalog_list_11079.jpg",
-    "oldPrice": "42.50",
-    "newPrice": "30.50",
-    "cardPrice": "--.--",
-    "quantity": 0
-  },
-  {
     "id": "29611",
     "name": "Пивo 0,5 л Carlsberg світлe ж/б",
     "category": "Пиво",
@@ -414,6 +404,16 @@
     "name": "Пиво 0,5 л Faxe Premium світле фільтроване пастеризоване 5% об ж/б Литва",
     "category": "Пиво",
     "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/92085/catalog_list_92085.png",
+    "oldPrice": "42.50",
+    "newPrice": "30.50",
+    "cardPrice": "--.--",
+    "quantity": 0
+  },
+  {
+    "id": "10956",
+    "name": "Пиво 0,5 л Faxe світле фільтроване 4,6%, Литва",
+    "category": "Пиво",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/11079/catalog_list_11079.jpg",
     "oldPrice": "42.50",
     "newPrice": "30.50",
     "cardPrice": "--.--",
@@ -570,10 +570,10 @@
     "quantity": 0
   },
   {
-    "id": "4977",
-    "name": "Шоколад 80г Рошен Білий Пористий карамельний",
+    "id": "4950",
+    "name": "Шоколад 80г Рошен екстрачорний пористий",
     "category": "Шоколад",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/95905/catalog_list_95905.jpg",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/95899/catalog_list_95899.jpg",
     "oldPrice": "63.80",
     "newPrice": "37.50",
     "cardPrice": "--.--",
@@ -590,10 +590,10 @@
     "quantity": 0
   },
   {
-    "id": "4950",
-    "name": "Шоколад 80г Рошен екстрачорний пористий",
+    "id": "4977",
+    "name": "Шоколад 80г Рошен Білий Пористий карамельний",
     "category": "Шоколад",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/95899/catalog_list_95899.jpg",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/95905/catalog_list_95905.jpg",
     "oldPrice": "63.80",
     "newPrice": "37.50",
     "cardPrice": "--.--",
@@ -766,6 +766,16 @@
     "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/74453/catalog_list_74453.jpg",
     "oldPrice": "65.70",
     "newPrice": "42.50",
+    "cardPrice": "--.--",
+    "quantity": 0
+  },
+  {
+    "id": "2779",
+    "name": "Кефір 0,87 кг Галичина Карпатський 2,5%",
+    "category": "Кисломолочні напої",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/2058/catalog_list_2058.jpg",
+    "oldPrice": "61.90",
+    "newPrice": "42.90",
     "cardPrice": "--.--",
     "quantity": 0
   },
@@ -994,6 +1004,16 @@
     "name": "Шоколад 100 г Millennium білий миндаль та кокос",
     "category": "Шоколад",
     "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/21241/catalog_list_21241.jpg",
+    "oldPrice": "98.40",
+    "newPrice": "58.90",
+    "cardPrice": "--.--",
+    "quantity": 0
+  },
+  {
+    "id": "16089",
+    "name": "Шоколад 100 г Millennium молочний миндаль та карамель",
+    "category": "Шоколад",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/21243/catalog_list_21243.jpg",
     "oldPrice": "98.40",
     "newPrice": "58.90",
     "cardPrice": "--.--",
@@ -1260,22 +1280,22 @@
     "quantity": 0
   },
   {
-    "id": "14293",
-    "name": "Піца 363г ALBERTO чотири сири",
-    "category": "Тісто, Випічка, Піца",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/17339/catalog_list_17339.jpg",
-    "oldPrice": "134.90",
-    "newPrice": "89.90",
-    "cardPrice": "--.--",
-    "quantity": 0
-  },
-  {
     "id": "40057",
     "name": "Стевія 250 г Green Leaf з натуральним підсолоджувачем м/уп",
     "category": "Діабетична та дієтична продукція",
     "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/98155/catalog_list_98155.jpg",
     "oldPrice": "149.90",
     "newPrice": "94.40",
+    "cardPrice": "--.--",
+    "quantity": 0
+  },
+  {
+    "id": "36859",
+    "name": "Масляна 150г K.I.T філе-шматок х/к н/ш в/у",
+    "category": "Риба",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/76181/catalog_list_76181.jpg",
+    "oldPrice": "149.50",
+    "newPrice": "99.90",
     "cardPrice": "--.--",
     "quantity": 0
   },
@@ -1330,26 +1350,6 @@
     "quantity": 0
   },
   {
-    "id": "40801",
-    "name": "Напій винний 0,75л Таїрово Fragolino червоний напівсолодкий слабоалкогольний газований 6-6,9% ск/бут",
-    "category": "Ігристе вино",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/90223/catalog_list_90223.jpg",
-    "oldPrice": "184.90",
-    "newPrice": "109.00",
-    "cardPrice": "--.--",
-    "quantity": 0
-  },
-  {
-    "id": "40465",
-    "name": "Напій винний 0,75л Таїрово Fragolino білий напівсолодкий слабоалкогольний газований 6-6,9% об с/бут",
-    "category": "Ігристе вино",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/89133/catalog_list_89133.jpg",
-    "oldPrice": "184.90",
-    "newPrice": "109.00",
-    "cardPrice": "--.--",
-    "quantity": 0
-  },
-  {
     "id": "44315",
     "name": "Засіб для миття посуду 0,75л Fairy Лимон п/флакон",
     "category": "Засоби для миття посуду",
@@ -1365,6 +1365,26 @@
     "category": "Засоби для миття посуду",
     "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/101263/catalog_list_101263.jpg",
     "oldPrice": "148.90",
+    "newPrice": "109.00",
+    "cardPrice": "--.--",
+    "quantity": 0
+  },
+  {
+    "id": "40801",
+    "name": "Напій винний 0,75л Таїрово Fragolino червоний напівсолодкий слабоалкогольний газований 6-6,9% ск/бут",
+    "category": "Ігристе вино",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/90223/catalog_list_90223.jpg",
+    "oldPrice": "184.90",
+    "newPrice": "109.00",
+    "cardPrice": "--.--",
+    "quantity": 0
+  },
+  {
+    "id": "40465",
+    "name": "Напій винний 0,75л Таїрово Fragolino білий напівсолодкий слабоалкогольний газований 6-6,9% об с/бут",
+    "category": "Ігристе вино",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/89133/catalog_list_89133.jpg",
+    "oldPrice": "184.90",
     "newPrice": "109.00",
     "cardPrice": "--.--",
     "quantity": 0
