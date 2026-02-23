@@ -1,9 +1,9 @@
 [
   {
-    "id": "32655",
-    "name": "Вафлі 34 г Roshen Roshetto peanut глазуровані шоколадною глазур'ю м/уп",
+    "id": "11169",
+    "name": "Вафлі 34 г Рошен Roshetto dark глазуровані шоколадною глазур'ю",
     "category": "Вафлі",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/66255/catalog_list_66255.jpg",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/11419/catalog_list_11419.jpg",
     "oldPrice": "13.70",
     "newPrice": "9.30",
     "cardPrice": "--.--",
@@ -20,10 +20,10 @@
     "quantity": 0
   },
   {
-    "id": "11169",
-    "name": "Вафлі 34 г Рошен Roshetto dark глазуровані шоколадною глазур'ю",
+    "id": "32655",
+    "name": "Вафлі 34 г Roshen Roshetto peanut глазуровані шоколадною глазур'ю м/уп",
     "category": "Вафлі",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/11419/catalog_list_11419.jpg",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/66255/catalog_list_66255.jpg",
     "oldPrice": "13.70",
     "newPrice": "9.30",
     "cardPrice": "--.--",
@@ -50,10 +50,30 @@
     "quantity": 0
   },
   {
+    "id": "23557",
+    "name": "Сирок глазурований 36 г Ферма Ваніль 23% фольга",
+    "category": "Сирки глазуровані",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/88229/catalog_list_88229.jpg",
+    "oldPrice": "17.80",
+    "newPrice": "11.90",
+    "cardPrice": "--.--",
+    "quantity": 0
+  },
+  {
     "id": "23559",
     "name": "Сирок глазурований 36 г Ферма Згущене молоко 23% фольга",
     "category": "Сирки глазуровані",
     "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/88231/catalog_list_88231.jpg",
+    "oldPrice": "17.80",
+    "newPrice": "11.90",
+    "cardPrice": "--.--",
+    "quantity": 0
+  },
+  {
+    "id": "33437",
+    "name": "Сирок глазурований 36 г Ферма Вишня-черешня 23% фольга",
+    "category": "Сирки глазуровані",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/88233/catalog_list_88233.jpg",
     "oldPrice": "17.80",
     "newPrice": "11.90",
     "cardPrice": "--.--",
@@ -80,20 +100,20 @@
     "quantity": 0
   },
   {
-    "id": "3132",
-    "name": "Вода 1,5л Buvette природна столова слабогазована",
+    "id": "3006",
+    "name": "Вода 1,5л Buvette природна столова негазована",
     "category": "Мінеральна і питна вода",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/2242/catalog_list_2242.jpg",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/2168/catalog_list_2168.jpg",
     "oldPrice": "24.90",
     "newPrice": "15.90",
     "cardPrice": "--.--",
     "quantity": 0
   },
   {
-    "id": "3006",
-    "name": "Вода 1,5л Buvette природна столова негазована",
+    "id": "3132",
+    "name": "Вода 1,5л Buvette природна столова слабогазована",
     "category": "Мінеральна і питна вода",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/2168/catalog_list_2168.jpg",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/2242/catalog_list_2242.jpg",
     "oldPrice": "24.90",
     "newPrice": "15.90",
     "cardPrice": "--.--",
@@ -210,21 +230,21 @@
     "quantity": 0
   },
   {
-    "id": "2690",
-    "name": "Кефір 420г Галичина 2,5%",
-    "category": "Кисломолочні напої",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/47243/catalog_list_47243.jpg",
-    "oldPrice": "31.30",
-    "newPrice": "21.90",
-    "cardPrice": "--.--",
-    "quantity": 0
-  },
-  {
     "id": "24083",
     "name": "Десерт сирковий 130 г Марійка зі смаком ванілі 5% п/ванночка",
     "category": "Молочні десерти",
     "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/83249/catalog_list_83249.jpg",
     "oldPrice": "30.80",
+    "newPrice": "21.90",
+    "cardPrice": "--.--",
+    "quantity": 0
+  },
+  {
+    "id": "2690",
+    "name": "Кефір 420г Галичина 2,5%",
+    "category": "Кисломолочні напої",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/47243/catalog_list_47243.jpg",
+    "oldPrice": "31.30",
     "newPrice": "21.90",
     "cardPrice": "--.--",
     "quantity": 0
@@ -274,6 +294,16 @@
     "name": "Десерт сирковий 150 г Марійка зі смаком ванілі 5% п/стакан",
     "category": "Молочні десерти",
     "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/30419/catalog_list_30419.jpg",
+    "oldPrice": "34.40",
+    "newPrice": "24.70",
+    "cardPrice": "--.--",
+    "quantity": 0
+  },
+  {
+    "id": "24085",
+    "name": "Десерт сирковий 150 г Марійка какао 5% п/стакан",
+    "category": "Молочні десерти",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/30421/catalog_list_30421.jpg",
     "oldPrice": "34.40",
     "newPrice": "24.70",
     "cardPrice": "--.--",
@@ -360,11 +390,11 @@
     "quantity": 0
   },
   {
-    "id": "29611",
-    "name": "Пивo 0,5 л Carlsberg світлe ж/б",
+    "id": "10956",
+    "name": "Пиво 0,5 л Faxe світле фільтроване 4,6%, Литва",
     "category": "Пиво",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/52667/catalog_list_52667.jpg",
-    "oldPrice": "45.90",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/11079/catalog_list_11079.jpg",
+    "oldPrice": "42.50",
     "newPrice": "30.50",
     "cardPrice": "--.--",
     "quantity": 0
@@ -380,11 +410,11 @@
     "quantity": 0
   },
   {
-    "id": "10956",
-    "name": "Пиво 0,5 л Faxe світле фільтроване 4,6%, Литва",
+    "id": "29611",
+    "name": "Пивo 0,5 л Carlsberg світлe ж/б",
     "category": "Пиво",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/11079/catalog_list_11079.jpg",
-    "oldPrice": "42.50",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/52667/catalog_list_52667.jpg",
+    "oldPrice": "45.90",
     "newPrice": "30.50",
     "cardPrice": "--.--",
     "quantity": 0
@@ -960,16 +990,6 @@
     "quantity": 0
   },
   {
-    "id": "31875",
-    "name": "Пресерви 240г Своя Лінія Оселедець філе в олії Матьє термоформа",
-    "category": "Пресерви",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/60655/catalog_list_60655.png",
-    "oldPrice": "84.90",
-    "newPrice": "58.90",
-    "cardPrice": "--.--",
-    "quantity": 0
-  },
-  {
     "id": "16087",
     "name": "Шоколад 100 г Millennium білий миндаль та кокос",
     "category": "Шоколад",
@@ -1055,16 +1075,6 @@
     "category": "Сири тверді",
     "imageUrl": "/image/none.webp",
     "oldPrice": "85.90",
-    "newPrice": "59.90",
-    "cardPrice": "--.--",
-    "quantity": 0
-  },
-  {
-    "id": "11768",
-    "name": "Пресерви 200г Своя Лінія м'ясо мідій в олії з прянощами",
-    "category": "Пресерви",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/14159/catalog_list_14159.jpg",
-    "oldPrice": "80.90",
     "newPrice": "59.90",
     "cardPrice": "--.--",
     "quantity": 0
@@ -1270,16 +1280,6 @@
     "quantity": 0
   },
   {
-    "id": "36859",
-    "name": "Масляна 150г K.I.T філе-шматок х/к н/ш в/у",
-    "category": "Риба",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/76181/catalog_list_76181.jpg",
-    "oldPrice": "149.50",
-    "newPrice": "99.90",
-    "cardPrice": "--.--",
-    "quantity": 0
-  },
-  {
     "id": "2746",
     "name": "Папір туалетний 4 шт Zewa Deluxe pure white 3 шари",
     "category": "Туалетний папір",
@@ -1316,16 +1316,6 @@
     "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/91567/catalog_list_91567.jpg",
     "oldPrice": "181.90",
     "newPrice": "104.90",
-    "cardPrice": "--.--",
-    "quantity": 0
-  },
-  {
-    "id": "9014",
-    "name": "Хурма Піраміда 1 гат",
-    "category": "Фрукти, ягоди",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/8235/catalog_list_8235.jpg",
-    "oldPrice": "124.95",
-    "newPrice": "104.95",
     "cardPrice": "--.--",
     "quantity": 0
   },
@@ -1500,16 +1490,6 @@
     "quantity": 0
   },
   {
-    "id": "6551",
-    "name": "Вино 0,75л Marengo ігристе біле напівсолодке 10-13,5%",
-    "category": "Ігристе вино",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/60735/catalog_list_60735.png",
-    "oldPrice": "209.50",
-    "newPrice": "163.50",
-    "cardPrice": "--.--",
-    "quantity": 0
-  },
-  {
     "id": "11393",
     "name": "М'ясо креветки 400 г Своя лінія варено-морожене глазуроване",
     "category": "Морепродукти",
@@ -1590,20 +1570,20 @@
     "quantity": 0
   },
   {
-    "id": "1114",
-    "name": "Цукерки Рошен Ромашка",
+    "id": "5150",
+    "name": "Цукерки Рошен Galaretka",
     "category": "Цукерки",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/794/catalog_list_794.jpg",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/3059/catalog_list_3059.jpg",
     "oldPrice": "266.75",
     "newPrice": "194.50",
     "cardPrice": "--.--",
     "quantity": 0
   },
   {
-    "id": "5150",
-    "name": "Цукерки Рошен Galaretka",
+    "id": "1114",
+    "name": "Цукерки Рошен Ромашка",
     "category": "Цукерки",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/3059/catalog_list_3059.jpg",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/794/catalog_list_794.jpg",
     "oldPrice": "266.75",
     "newPrice": "194.50",
     "cardPrice": "--.--",
