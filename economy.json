@@ -30,16 +30,6 @@
     "quantity": 0
   },
   {
-    "id": "4868",
-    "name": "Холодний чай 0,5л Своя Лінія Чорний зі смаком Малина",
-    "category": "Напої",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/2957/catalog_list_2957.jpg",
-    "oldPrice": "21.90",
-    "newPrice": "15.30",
-    "cardPrice": "--.--",
-    "quantity": 0
-  },
-  {
     "id": "42623",
     "name": "Сухарики 90 г ХрумTeam Багет зі смаком сметани і зелені м/уп",
     "category": "Снеки",
@@ -100,6 +90,26 @@
     "quantity": 0
   },
   {
+    "id": "21279",
+    "name": "Кетчуп 250 г Оліс Лагідний",
+    "category": "Соуси, кетчупи",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/23821/catalog_list_23821.jpg",
+    "oldPrice": "31.50",
+    "newPrice": "20.90",
+    "cardPrice": "--.--",
+    "quantity": 0
+  },
+  {
+    "id": "21281",
+    "name": "Кетчуп 250 г Оліс Шашличний",
+    "category": "Соуси, кетчупи",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/23823/catalog_list_23823.jpg",
+    "oldPrice": "31.50",
+    "newPrice": "20.90",
+    "cardPrice": "--.--",
+    "quantity": 0
+  },
+  {
     "id": "21379",
     "name": "Цукерки 70 г Рошен Yummi Gummi Sour Belts желейні",
     "category": "Цукерки",
@@ -125,26 +135,6 @@
     "category": "Цукерки",
     "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/69575/catalog_list_69575.jpg",
     "oldPrice": "35.90",
-    "newPrice": "20.90",
-    "cardPrice": "--.--",
-    "quantity": 0
-  },
-  {
-    "id": "21279",
-    "name": "Кетчуп 250 г Оліс Лагідний",
-    "category": "Соуси, кетчупи",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/23821/catalog_list_23821.jpg",
-    "oldPrice": "31.50",
-    "newPrice": "20.90",
-    "cardPrice": "--.--",
-    "quantity": 0
-  },
-  {
-    "id": "21281",
-    "name": "Кетчуп 250 г Оліс Шашличний",
-    "category": "Соуси, кетчупи",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/23823/catalog_list_23823.jpg",
-    "oldPrice": "31.50",
     "newPrice": "20.90",
     "cardPrice": "--.--",
     "quantity": 0
@@ -310,30 +300,10 @@
     "quantity": 0
   },
   {
-    "id": "44523",
-    "name": "Вафлі 190 г Своя Лінія з молочною начинкою м/уп",
+    "id": "44519",
+    "name": "Вафлі 190 г Своя Лінія з ароматом Малина-йогурт м/уп",
     "category": "Вафлі",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/102065/catalog_list_102065.jpg",
-    "oldPrice": "42.90",
-    "newPrice": "29.90",
-    "cardPrice": "--.--",
-    "quantity": 0
-  },
-  {
-    "id": "907",
-    "name": "Крем-мило 460 мл Fresh Juice Almond з оліею мигдаля",
-    "category": "Мило",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/91947/catalog_list_91947.jpg",
-    "oldPrice": "47.90",
-    "newPrice": "29.90",
-    "cardPrice": "--.--",
-    "quantity": 0
-  },
-  {
-    "id": "44517",
-    "name": "Вафлі 190 г Своя Лінія Артек-клас! м/уп",
-    "category": "Вафлі",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/102059/catalog_list_102059.jpg",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/102061/catalog_list_102061.jpg",
     "oldPrice": "42.90",
     "newPrice": "29.90",
     "cardPrice": "--.--",
@@ -350,10 +320,30 @@
     "quantity": 0
   },
   {
-    "id": "44519",
-    "name": "Вафлі 190 г Своя Лінія з ароматом Малина-йогурт м/уп",
+    "id": "44517",
+    "name": "Вафлі 190 г Своя Лінія Артек-клас! м/уп",
     "category": "Вафлі",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/102061/catalog_list_102061.jpg",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/102059/catalog_list_102059.jpg",
+    "oldPrice": "42.90",
+    "newPrice": "29.90",
+    "cardPrice": "--.--",
+    "quantity": 0
+  },
+  {
+    "id": "907",
+    "name": "Крем-мило 460 мл Fresh Juice Almond з оліею мигдаля",
+    "category": "Мило",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/91947/catalog_list_91947.jpg",
+    "oldPrice": "47.90",
+    "newPrice": "29.90",
+    "cardPrice": "--.--",
+    "quantity": 0
+  },
+  {
+    "id": "44523",
+    "name": "Вафлі 190 г Своя Лінія з молочною начинкою м/уп",
+    "category": "Вафлі",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/102065/catalog_list_102065.jpg",
     "oldPrice": "42.90",
     "newPrice": "29.90",
     "cardPrice": "--.--",
@@ -470,21 +460,21 @@
     "quantity": 0
   },
   {
-    "id": "44515",
-    "name": "Вафлі 190 г Своя Лінія з начинкою з какао та ароматом шоколаду м/уп",
-    "category": "Вафлі",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/102057/catalog_list_102057.jpg",
-    "oldPrice": "49.90",
-    "newPrice": "34.90",
-    "cardPrice": "--.--",
-    "quantity": 0
-  },
-  {
     "id": "32599",
     "name": "Паста зубна 50 мл Colgate дитяча зі смаком жувальної гумки 2-5 років к/уп",
     "category": "Гігієна ротової порожнини",
     "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/66203/catalog_list_66203.jpg",
     "oldPrice": "56.60",
+    "newPrice": "34.90",
+    "cardPrice": "--.--",
+    "quantity": 0
+  },
+  {
+    "id": "44515",
+    "name": "Вафлі 190 г Своя Лінія з начинкою з какао та ароматом шоколаду м/уп",
+    "category": "Вафлі",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/102057/catalog_list_102057.jpg",
+    "oldPrice": "49.90",
     "newPrice": "34.90",
     "cardPrice": "--.--",
     "quantity": 0
@@ -650,10 +640,10 @@
     "quantity": 0
   },
   {
-    "id": "7873",
-    "name": "Чіпси 125г Люкс зі смаком лосося у вершках",
+    "id": "45229",
+    "name": "Чипси 125 г Люкс хвилясті зі смаком паприки м/уп",
     "category": "Чипси",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/47295/catalog_list_47295.jpg",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/104751/catalog_list_104751.jpg",
     "oldPrice": "68.90",
     "newPrice": "40.90",
     "cardPrice": "--.--",
@@ -670,20 +660,20 @@
     "quantity": 0
   },
   {
-    "id": "45229",
-    "name": "Чипси 125 г Люкс хвилясті зі смаком паприки м/уп",
+    "id": "24509",
+    "name": "Чипси 125 г Люкс хвилясті зі смаком лисичок м/уп",
     "category": "Чипси",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/104751/catalog_list_104751.jpg",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/31211/catalog_list_31211.jpg",
     "oldPrice": "68.90",
     "newPrice": "40.90",
     "cardPrice": "--.--",
     "quantity": 0
   },
   {
-    "id": "24509",
-    "name": "Чипси 125 г Люкс хвилясті зі смаком лисичок м/уп",
+    "id": "7873",
+    "name": "Чіпси 125г Люкс зі смаком лосося у вершках",
     "category": "Чипси",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/31211/catalog_list_31211.jpg",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/47295/catalog_list_47295.jpg",
     "oldPrice": "68.90",
     "newPrice": "40.90",
     "cardPrice": "--.--",
@@ -1876,16 +1866,6 @@
     "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/69541/catalog_list_69541.jpg",
     "oldPrice": "642.90",
     "newPrice": "456.00",
-    "cardPrice": "--.--",
-    "quantity": 0
-  },
-  {
-    "id": "7370",
-    "name": "Кава 1 кг Ambassador Majestic в зернах",
-    "category": "Кава, какао",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/86655/catalog_list_86655.jpg",
-    "oldPrice": "1063.70",
-    "newPrice": "665.90",
     "cardPrice": "--.--",
     "quantity": 0
   }
