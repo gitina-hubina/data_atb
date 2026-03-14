@@ -10,21 +10,21 @@
     "quantity": 0
   },
   {
-    "id": "34031",
-    "name": "Добавка дієтична 30г VALE зі смаком апельсину та смаком полуниці м/уп",
-    "category": "Драже",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/67647/catalog_list_67647.jpg",
-    "oldPrice": "7.70",
-    "newPrice": "4.90",
-    "cardPrice": "4.66",
-    "quantity": 0
-  },
-  {
     "id": "30119",
     "name": "Кульки 16 г Бум кукурудзяні солоні зі смаком (сиру, піци, салямі) м/уп",
     "category": "Снеки",
     "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/95675/catalog_list_95675.jpg",
     "oldPrice": "6.80",
+    "newPrice": "4.90",
+    "cardPrice": "4.66",
+    "quantity": 0
+  },
+  {
+    "id": "34031",
+    "name": "Добавка дієтична 30г VALE зі смаком апельсину та смаком полуниці м/уп",
+    "category": "Драже",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/67647/catalog_list_67647.jpg",
+    "oldPrice": "7.70",
     "newPrice": "4.90",
     "cardPrice": "4.66",
     "quantity": 0
@@ -130,16 +130,6 @@
     "quantity": 0
   },
   {
-    "id": "28991",
-    "name": "Морозиво 65 г Розумний вибір з ароматом ванілі 8% ваф/стакан м/уп (Львівський)",
-    "category": "Морозиво",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/50079/catalog_list_50079.jpg",
-    "oldPrice": "11.30",
-    "newPrice": "8.60",
-    "cardPrice": "8.17",
-    "quantity": 0
-  },
-  {
     "id": "29411",
     "name": "Приправа 25 г Любисток до курки з часником м/уп",
     "category": "Приправи та маринади",
@@ -155,6 +145,16 @@
     "category": "Приправи та маринади",
     "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/52745/catalog_list_52745.jpg",
     "oldPrice": "11.20",
+    "newPrice": "8.60",
+    "cardPrice": "8.17",
+    "quantity": 0
+  },
+  {
+    "id": "28991",
+    "name": "Морозиво 65 г Розумний вибір з ароматом ванілі 8% ваф/стакан м/уп (Львівський)",
+    "category": "Морозиво",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/50079/catalog_list_50079.jpg",
+    "oldPrice": "11.30",
     "newPrice": "8.60",
     "cardPrice": "8.17",
     "quantity": 0
@@ -3344,16 +3344,6 @@
     "name": "Насіння соняшнику 150 г День у День несолоне смажене м/уп",
     "category": "Снеки",
     "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/72703/catalog_list_72703.jpg",
-    "oldPrice": "--.--",
-    "newPrice": "36.90",
-    "cardPrice": "--.--",
-    "quantity": 0
-  },
-  {
-    "id": "35723",
-    "name": "Насіння соняшнику 150 г День у День солоне смажене м/уп",
-    "category": "Снеки",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/72705/catalog_list_72705.jpg",
     "oldPrice": "--.--",
     "newPrice": "36.90",
     "cardPrice": "--.--",
@@ -9076,16 +9066,6 @@
     "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/36225/catalog_list_36225.jpg",
     "oldPrice": "279.70",
     "newPrice": "235.80",
-    "cardPrice": "--.--",
-    "quantity": 0
-  },
-  {
-    "id": "2487",
-    "name": "Коньяк 0,5л Шабо VSOP 5 зірок 40%",
-    "category": "Коньяк",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/25189/catalog_list_25189.jpg",
-    "oldPrice": "--.--",
-    "newPrice": "235.90",
     "cardPrice": "--.--",
     "quantity": 0
   },
