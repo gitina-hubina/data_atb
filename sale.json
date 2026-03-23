@@ -8080,36 +8080,6 @@
     "quantity": 0
   },
   {
-    "id": "30919",
-    "name": "Шампунь 400 мл Pantene Pro-V ЖивКокт Об'ємне та міцне п/флакон",
-    "category": "Шампуні",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/61535/catalog_list_61535.png",
-    "oldPrice": "180.00",
-    "newPrice": "148.90",
-    "cardPrice": "--.--",
-    "quantity": 0
-  },
-  {
-    "id": "83",
-    "name": "Шампунь 400 мл Pantene Pro-V Густе та міцне",
-    "category": "Шампуні",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/16241/catalog_list_16241.png",
-    "oldPrice": "180.00",
-    "newPrice": "148.90",
-    "cardPrice": "--.--",
-    "quantity": 0
-  },
-  {
-    "id": "2437",
-    "name": "Шампунь 400 мл Pantene Pro-V Інтенсивне відновлення",
-    "category": "Шампуні",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/16218/catalog_list_16218.png",
-    "oldPrice": "180.00",
-    "newPrice": "148.90",
-    "cardPrice": "--.--",
-    "quantity": 0
-  },
-  {
     "id": "23519",
     "name": "Бальзам-ополіскувач 0,275л Pantene Pro-V Інтенсивне Відновлення/Дод.об'єм/Густе та міцне п/флакон",
     "category": "Догляд за волоссям",
@@ -8550,13 +8520,33 @@
     "quantity": 0
   },
   {
-    "id": "6551",
-    "name": "Вино 0,75л Marengo ігристе біле напівсолодке 10-13,5%",
-    "category": "Ігристе вино",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/60735/catalog_list_60735.png",
-    "oldPrice": "206.80",
-    "newPrice": "185.90",
-    "cardPrice": "176.60",
+    "id": "83",
+    "name": "Шампунь 400 мл Pantene Pro-V Густе та міцне",
+    "category": "Шампуні",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/16241/catalog_list_16241.png",
+    "oldPrice": "--.--",
+    "newPrice": "180.00",
+    "cardPrice": "--.--",
+    "quantity": 0
+  },
+  {
+    "id": "2437",
+    "name": "Шампунь 400 мл Pantene Pro-V Інтенсивне відновлення",
+    "category": "Шампуні",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/16218/catalog_list_16218.png",
+    "oldPrice": "--.--",
+    "newPrice": "180.00",
+    "cardPrice": "--.--",
+    "quantity": 0
+  },
+  {
+    "id": "30919",
+    "name": "Шампунь 400 мл Pantene Pro-V ЖивКокт Об'ємне та міцне п/флакон",
+    "category": "Шампуні",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/61535/catalog_list_61535.png",
+    "oldPrice": "--.--",
+    "newPrice": "180.00",
+    "cardPrice": "--.--",
     "quantity": 0
   },
   {
@@ -8565,6 +8555,16 @@
     "category": "Лікери, настоянки, бальзами",
     "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/56625/catalog_list_56625.png",
     "oldPrice": "238.30",
+    "newPrice": "185.90",
+    "cardPrice": "176.60",
+    "quantity": 0
+  },
+  {
+    "id": "6551",
+    "name": "Вино 0,75л Marengo ігристе біле напівсолодке 10-13,5%",
+    "category": "Ігристе вино",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/60735/catalog_list_60735.png",
+    "oldPrice": "206.80",
     "newPrice": "185.90",
     "cardPrice": "176.60",
     "quantity": 0
@@ -9250,26 +9250,6 @@
     "quantity": 0
   },
   {
-    "id": "1496",
-    "name": "Підгузники-трусики 28 шт Pampers (5)",
-    "category": "Підгузки, пелюшки",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/61317/catalog_list_61317.jpeg",
-    "oldPrice": "476.40",
-    "newPrice": "368.90",
-    "cardPrice": "--.--",
-    "quantity": 0
-  },
-  {
-    "id": "4712",
-    "name": "Підгузники-трусики 25 шт Pampers (6)",
-    "category": "Підгузки, пелюшки",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/61485/catalog_list_61485.jpeg",
-    "oldPrice": "476.40",
-    "newPrice": "368.90",
-    "cardPrice": "--.--",
-    "quantity": 0
-  },
-  {
     "id": "40365",
     "name": "Підгузники-трусики 26 шт Huggies Movers Pants Pants (6) дитячі м/уп",
     "category": "Підгузки, пелюшки",
@@ -9297,6 +9277,26 @@
     "oldPrice": "--.--",
     "newPrice": "368.90",
     "cardPrice": "350.46",
+    "quantity": 0
+  },
+  {
+    "id": "1496",
+    "name": "Підгузники-трусики 28 шт Pampers (5)",
+    "category": "Підгузки, пелюшки",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/61317/catalog_list_61317.jpeg",
+    "oldPrice": "476.40",
+    "newPrice": "368.90",
+    "cardPrice": "--.--",
+    "quantity": 0
+  },
+  {
+    "id": "4712",
+    "name": "Підгузники-трусики 25 шт Pampers (6)",
+    "category": "Підгузки, пелюшки",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/61485/catalog_list_61485.jpeg",
+    "oldPrice": "476.40",
+    "newPrice": "368.90",
+    "cardPrice": "--.--",
     "quantity": 0
   },
   {
@@ -9430,20 +9430,20 @@
     "quantity": 0
   },
   {
-    "id": "3745",
-    "name": "Шоколадні цукерки Mars Snickers Minis зі смаженим арахісом",
+    "id": "17701",
+    "name": "Шоколадні цукерки Milky Way Minis з суфле.",
     "category": "Цукерки",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/67733/catalog_list_67733.jpg",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/64129/catalog_list_64129.jpg",
     "oldPrice": "620.99",
     "newPrice": "543.49",
     "cardPrice": "516.32",
     "quantity": 0
   },
   {
-    "id": "17701",
-    "name": "Шоколадні цукерки Milky Way Minis з суфле.",
+    "id": "3745",
+    "name": "Шоколадні цукерки Mars Snickers Minis зі смаженим арахісом",
     "category": "Цукерки",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/64129/catalog_list_64129.jpg",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/67733/catalog_list_67733.jpg",
     "oldPrice": "620.99",
     "newPrice": "543.49",
     "cardPrice": "516.32",
