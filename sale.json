@@ -5841,7 +5841,7 @@
   },
   {
     "id": "12371",
-    "name": "Набір 20 г Bob Snail Натуральні фруктові цукерки Яблуко-Банан та іграшка к/уп",
+    "name": "Набір 20 г Bob Snail Натуральні фруктові цукерки Манго та іграшка",
     "category": "Цукерки",
     "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/106861/catalog_list_106861.jpg",
     "oldPrice": "72.90",
@@ -6520,16 +6520,6 @@
     "quantity": 0
   },
   {
-    "id": "2986",
-    "name": "Консерви 190 г De Luxe Foods & Goods Selected Шпроти в олії Латвія",
-    "category": "М'ясні та рибні консерви",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/20905/catalog_list_20905.jpg",
-    "oldPrice": "97.90",
-    "newPrice": "78.40",
-    "cardPrice": "74.48",
-    "quantity": 0
-  },
-  {
     "id": "25973",
     "name": "Чай (100 ф/п х 2 г) Rodzinna суміш ягідно-фруктова Форест Фрутс к/уп",
     "category": "Чай",
@@ -6700,21 +6690,21 @@
     "quantity": 0
   },
   {
-    "id": "10120",
-    "name": "Торт 180г TARTA Вафельний зі згущеним молоком",
-    "category": "Торти і тістечка",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/10209/catalog_list_10209.jpg",
-    "oldPrice": "94.90",
-    "newPrice": "82.90",
-    "cardPrice": "78.76",
-    "quantity": 0
-  },
-  {
     "id": "36837",
     "name": "Приправа 250 г Торчин 10 Овочів універсальна м/уп",
     "category": "Приправи та маринади",
     "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/76159/catalog_list_76159.jpg",
     "oldPrice": "100.60",
+    "newPrice": "82.90",
+    "cardPrice": "78.76",
+    "quantity": 0
+  },
+  {
+    "id": "10120",
+    "name": "Торт 180г TARTA Вафельний зі згущеним молоком",
+    "category": "Торти і тістечка",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/10209/catalog_list_10209.jpg",
+    "oldPrice": "94.90",
     "newPrice": "82.90",
     "cardPrice": "78.76",
     "quantity": 0
@@ -6760,16 +6750,6 @@
     "quantity": 0
   },
   {
-    "id": "44289",
-    "name": "Засіб для миття ванної кімнати та сантехніки 0,5 кг GALAX das PowerClean п/флакон",
-    "category": "Засоби для чищення",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/101235/catalog_list_101235.jpg",
-    "oldPrice": "--.--",
-    "newPrice": "84.90",
-    "cardPrice": "80.66",
-    "quantity": 0
-  },
-  {
     "id": "580",
     "name": "Сосиски 330г Добров Молочні",
     "category": "Сосиски, сардельки",
@@ -6777,6 +6757,16 @@
     "oldPrice": "122.50",
     "newPrice": "84.90",
     "cardPrice": "--.--",
+    "quantity": 0
+  },
+  {
+    "id": "44289",
+    "name": "Засіб для миття ванної кімнати та сантехніки 0,5 кг GALAX das PowerClean п/флакон",
+    "category": "Засоби для чищення",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/101235/catalog_list_101235.jpg",
+    "oldPrice": "--.--",
+    "newPrice": "84.90",
+    "cardPrice": "80.66",
     "quantity": 0
   },
   {
@@ -7120,13 +7110,13 @@
     "quantity": 0
   },
   {
-    "id": "3908",
-    "name": "Спрей водовідштовхувальний 300 мл Silver универсальний",
-    "category": "Засоби по догляду за взуттям",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/79017/catalog_list_79017.jpg",
-    "oldPrice": "123.90",
-    "newPrice": "98.90",
-    "cardPrice": "93.96",
+    "id": "2986",
+    "name": "Консерви 190 г De Luxe Foods & Goods Selected Шпроти в олії Латвія",
+    "category": "М'ясні та рибні консерви",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/20905/catalog_list_20905.jpg",
+    "oldPrice": "--.--",
+    "newPrice": "97.90",
+    "cardPrice": "93.00",
     "quantity": 0
   },
   {
@@ -7137,6 +7127,16 @@
     "oldPrice": "--.--",
     "newPrice": "98.90",
     "cardPrice": "--.--",
+    "quantity": 0
+  },
+  {
+    "id": "3908",
+    "name": "Спрей водовідштовхувальний 300 мл Silver универсальний",
+    "category": "Засоби по догляду за взуттям",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/79017/catalog_list_79017.jpg",
+    "oldPrice": "123.90",
+    "newPrice": "98.90",
+    "cardPrice": "93.96",
     "quantity": 0
   },
   {
@@ -7410,20 +7410,20 @@
     "quantity": 0
   },
   {
-    "id": "31583",
-    "name": "Пом'якшувач для тканин 0,77 л Silan Ароматерапія в асортименті концентрований п/флакон",
-    "category": "Пральні порошки та засоби для прання",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/57477/catalog_list_57477.png",
+    "id": "37201",
+    "name": "Засіб для чищення унітазу 2х50г Bref Deluxe Аромат чаруючої ночі блістер",
+    "category": "Засоби для чищення",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/79675/catalog_list_79675.jpg",
     "oldPrice": "--.--",
     "newPrice": "112.90",
     "cardPrice": "--.--",
     "quantity": 0
   },
   {
-    "id": "37201",
-    "name": "Засіб для чищення унітазу 2х50г Bref Deluxe Аромат чаруючої ночі блістер",
-    "category": "Засоби для чищення",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/79675/catalog_list_79675.jpg",
+    "id": "31583",
+    "name": "Пом'якшувач для тканин 0,77 л Silan Ароматерапія в асортименті концентрований п/флакон",
+    "category": "Пральні порошки та засоби для прання",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/57477/catalog_list_57477.png",
     "oldPrice": "--.--",
     "newPrice": "112.90",
     "cardPrice": "--.--",
@@ -7530,20 +7530,20 @@
     "quantity": 0
   },
   {
-    "id": "31519",
-    "name": "Готовий Снідaнок 375 г Nestle LION з кaрaмеллю тa шоколaдом м/yп",
+    "id": "41851",
+    "name": "Готовий Снідaнок 375 г Nesquik шоколадні кульки з вітамінами та мінералами м/yп",
     "category": "Сухі сніданки",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/71265/catalog_list_71265.png",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/93597/catalog_list_93597.jpg",
     "oldPrice": "161.90",
     "newPrice": "117.60",
     "cardPrice": "111.72",
     "quantity": 0
   },
   {
-    "id": "41851",
-    "name": "Готовий Снідaнок 375 г Nesquik шоколадні кульки з вітамінами та мінералами м/yп",
+    "id": "31519",
+    "name": "Готовий Снідaнок 375 г Nestle LION з кaрaмеллю тa шоколaдом м/yп",
     "category": "Сухі сніданки",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/93597/catalog_list_93597.jpg",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/71265/catalog_list_71265.png",
     "oldPrice": "161.90",
     "newPrice": "117.60",
     "cardPrice": "111.72",
@@ -7790,21 +7790,21 @@
     "quantity": 0
   },
   {
-    "id": "38007",
-    "name": "Напій винний газований 0,75 л GERMANIUM білий напівсолодкий слабоалкогольний 6 - 6,9 % ск/бут",
-    "category": "Ігристе вино",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/80527/catalog_list_80527.jpg",
-    "oldPrice": "187.70",
-    "newPrice": "130.90",
-    "cardPrice": "124.36",
-    "quantity": 0
-  },
-  {
     "id": "1033",
     "name": "Кава 60г Jacobs Monarch розчинна сублімована",
     "category": "Кава, какао",
     "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/80317/catalog_list_80317.jpg",
     "oldPrice": "161.90",
+    "newPrice": "130.90",
+    "cardPrice": "124.36",
+    "quantity": 0
+  },
+  {
+    "id": "38007",
+    "name": "Напій винний газований 0,75 л GERMANIUM білий напівсолодкий слабоалкогольний 6 - 6,9 % ск/бут",
+    "category": "Ігристе вино",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/80527/catalog_list_80527.jpg",
+    "oldPrice": "187.70",
     "newPrice": "130.90",
     "cardPrice": "124.36",
     "quantity": 0
