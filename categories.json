@@ -310,16 +310,6 @@
     "quantity": 0
   },
   {
-    "id": "31669",
-    "name": "Напій 1 л Своя Лінія Wild Dog Cactus енергетичний безалкогольний ПЕТ",
-    "category": "Енергетичні",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/88551/catalog_list_88551.jpg",
-    "oldPrice": "28.90",
-    "newPrice": "21.50",
-    "cardPrice": "--.--",
-    "quantity": 0
-  },
-  {
     "id": "7120",
     "name": "Соус 200г Чумак Солодкий чилі",
     "category": "Соуси, кетчупи",
@@ -710,16 +700,6 @@
     "quantity": 0
   },
   {
-    "id": "11",
-    "name": "Картопля рання Єгипет",
-    "category": "Овочі",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/9/catalog_list_9.png",
-    "oldPrice": "39.89",
-    "newPrice": "35.89",
-    "cardPrice": "--.--",
-    "quantity": 0
-  },
-  {
     "id": "48",
     "name": "Пиво 0,5 л Stella Artois",
     "category": "Пиво",
@@ -856,6 +836,16 @@
     "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/94119/catalog_list_94119.png",
     "oldPrice": "55.30",
     "newPrice": "39.50",
+    "cardPrice": "--.--",
+    "quantity": 0
+  },
+  {
+    "id": "11",
+    "name": "Картопля рання Єгипет",
+    "category": "Овочі",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/9/catalog_list_9.png",
+    "oldPrice": "--.--",
+    "newPrice": "39.89",
     "cardPrice": "--.--",
     "quantity": 0
   },
@@ -1050,10 +1040,10 @@
     "quantity": 0
   },
   {
-    "id": "41623",
-    "name": "Напій соковмісний 1,5 л Розумнирй вибір смак Ананасу ПЕТ",
+    "id": "41621",
+    "name": "Напій соковий 1,5 л Розумний вибір Яблуко-вишня ПЕТ",
     "category": "Соки, нектари",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/91595/catalog_list_91595.jpg",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/91593/catalog_list_91593.jpg",
     "oldPrice": "65.90",
     "newPrice": "48.90",
     "cardPrice": "--.--",
@@ -1080,20 +1070,20 @@
     "quantity": 0
   },
   {
-    "id": "41619",
-    "name": "Напій соковий 1,5 л Розумний вибір Виноград-гранат ПЕТ",
+    "id": "41623",
+    "name": "Напій соковмісний 1,5 л Розумнирй вибір смак Ананасу ПЕТ",
     "category": "Соки, нектари",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/91591/catalog_list_91591.jpg",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/91595/catalog_list_91595.jpg",
     "oldPrice": "65.90",
     "newPrice": "48.90",
     "cardPrice": "--.--",
     "quantity": 0
   },
   {
-    "id": "41621",
-    "name": "Напій соковий 1,5 л Розумний вибір Яблуко-вишня ПЕТ",
+    "id": "41619",
+    "name": "Напій соковий 1,5 л Розумний вибір Виноград-гранат ПЕТ",
     "category": "Соки, нектари",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/91593/catalog_list_91593.jpg",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/91591/catalog_list_91591.jpg",
     "oldPrice": "65.90",
     "newPrice": "48.90",
     "cardPrice": "--.--",
@@ -9346,7 +9336,7 @@
     "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/20905/catalog_list_20905.jpg",
     "oldPrice": "--.--",
     "newPrice": "97.90",
-    "cardPrice": "93.00",
+    "cardPrice": "--.--",
     "quantity": 0
   },
   {
