@@ -330,21 +330,21 @@
     "quantity": 0
   },
   {
-    "id": "736",
-    "name": "Соус 200г Чумак Французький з гірчицею",
-    "category": "Соуси, кетчупи",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/35559/catalog_list_35559.jpg",
-    "oldPrice": "35.90",
-    "newPrice": "23.90",
-    "cardPrice": "--.--",
-    "quantity": 0
-  },
-  {
     "id": "26969",
     "name": "Соус 200 г Чумак Бургер д/пак",
     "category": "Соуси, кетчупи",
     "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/37499/catalog_list_37499.jpg",
     "oldPrice": "35.80",
+    "newPrice": "23.90",
+    "cardPrice": "--.--",
+    "quantity": 0
+  },
+  {
+    "id": "736",
+    "name": "Соус 200г Чумак Французький з гірчицею",
+    "category": "Соуси, кетчупи",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/35559/catalog_list_35559.jpg",
+    "oldPrice": "35.90",
     "newPrice": "23.90",
     "cardPrice": "--.--",
     "quantity": 0
@@ -410,16 +410,6 @@
     "quantity": 0
   },
   {
-    "id": "44361",
-    "name": "Напій 2 л День у День Лимонад ПЕТ",
-    "category": "Напої",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/101307/catalog_list_101307.jpg",
-    "oldPrice": "43.90",
-    "newPrice": "25.90",
-    "cardPrice": "--.--",
-    "quantity": 0
-  },
-  {
     "id": "29583",
     "name": "Пивo 0,48 л Holsten Pilsener світлe ж/б",
     "category": "Пиво",
@@ -435,6 +425,16 @@
     "category": "Пиво",
     "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/25131/catalog_list_25131.jpg",
     "oldPrice": "41.90",
+    "newPrice": "25.90",
+    "cardPrice": "--.--",
+    "quantity": 0
+  },
+  {
+    "id": "44361",
+    "name": "Напій 2 л День у День Лимонад ПЕТ",
+    "category": "Напої",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/101307/catalog_list_101307.jpg",
+    "oldPrice": "43.90",
     "newPrice": "25.90",
     "cardPrice": "--.--",
     "quantity": 0
@@ -494,16 +494,6 @@
     "name": "Вафлі 142г Roshen Wafers Sandwich Crunch ванільний крем м/уп",
     "category": "Вафлі",
     "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/53755/catalog_list_53755.jpg",
-    "oldPrice": "39.90",
-    "newPrice": "27.50",
-    "cardPrice": "--.--",
-    "quantity": 0
-  },
-  {
-    "id": "25961",
-    "name": "Вафлі 142 г Roshen Wafers Sandwich Crunch какао",
-    "category": "Вафлі",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/53753/catalog_list_53753.jpg",
     "oldPrice": "39.90",
     "newPrice": "27.50",
     "cardPrice": "--.--",
@@ -646,6 +636,16 @@
     "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/86925/catalog_list_86925.png",
     "oldPrice": "58.90",
     "newPrice": "33.50",
+    "cardPrice": "--.--",
+    "quantity": 0
+  },
+  {
+    "id": "11",
+    "name": "Картопля рання Єгипет",
+    "category": "Овочі",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/9/catalog_list_9.png",
+    "oldPrice": "--.--",
+    "newPrice": "34.45",
     "cardPrice": "--.--",
     "quantity": 0
   },
@@ -816,16 +816,6 @@
     "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/94119/catalog_list_94119.png",
     "oldPrice": "55.30",
     "newPrice": "39.50",
-    "cardPrice": "--.--",
-    "quantity": 0
-  },
-  {
-    "id": "11",
-    "name": "Картопля рання Єгипет",
-    "category": "Овочі",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/9/catalog_list_9.png",
-    "oldPrice": "--.--",
-    "newPrice": "39.89",
     "cardPrice": "--.--",
     "quantity": 0
   },
@@ -1500,26 +1490,6 @@
     "quantity": 0
   },
   {
-    "id": "11600",
-    "name": "Крило курчат-бройлерів Чебатурочка охолоджене",
-    "category": "М'ясо охолоджене",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/11972/catalog_list_11972.jpg",
-    "oldPrice": "115.85",
-    "newPrice": "97.89",
-    "cardPrice": "--.--",
-    "quantity": 0
-  },
-  {
-    "id": "40701",
-    "name": "Морозиво 0,5 кг Лімо \"ПЛОМБІР 1965\" п/ет",
-    "category": "Морозиво",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/89767/catalog_list_89767.jpg",
-    "oldPrice": "186.90",
-    "newPrice": "99.90",
-    "cardPrice": "--.--",
-    "quantity": 0
-  },
-  {
     "id": "6041",
     "name": "Шампунь 400 мл Schauma з хмелем для чоловіків",
     "category": "Шампуні",
@@ -1541,7 +1511,7 @@
   },
   {
     "id": "467",
-    "name": "Засіб для чищення унітазу 0,9л Туалетный Утенок Супер Сила видимий ефект",
+    "name": "Засіб для чищення унітазу 0,9л Duck Супер Сила видимий ефект",
     "category": "Засоби для чищення",
     "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/47241/catalog_list_47241.jpg",
     "oldPrice": "146.40",
