@@ -670,21 +670,21 @@
     "quantity": 0
   },
   {
-    "id": "46975",
-    "name": "Напій кавовий (15/18,7/21,3 г ) Jacobs Trio Pack смак в асортименті, м/уп",
-    "category": "Кава, какао",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/112391/catalog_list_112391.jpg",
-    "oldPrice": "18.70",
-    "newPrice": "15.40",
-    "cardPrice": "14.63",
-    "quantity": 0
-  },
-  {
     "id": "42999",
     "name": "Попкорн 90 г Своя Лінія для мікрохвильової печі зі смаком карамелі м/уп",
     "category": "Снеки",
     "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/96269/catalog_list_96269.jpg",
     "oldPrice": "21.60",
+    "newPrice": "15.40",
+    "cardPrice": "14.63",
+    "quantity": 0
+  },
+  {
+    "id": "46975",
+    "name": "Напій кавовий (15/18,7/21,3 г ) Jacobs Trio Pack смак в асортименті, м/уп",
+    "category": "Кава, какао",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/112391/catalog_list_112391.jpg",
+    "oldPrice": "18.70",
     "newPrice": "15.40",
     "cardPrice": "14.63",
     "quantity": 0
@@ -1300,11 +1300,11 @@
     "quantity": 0
   },
   {
-    "id": "46075",
-    "name": "Сир плавлений 70 г L'extra Вершковий 40% фольга",
-    "category": "Сири плавлені",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/107555/catalog_list_107555.jpg",
-    "oldPrice": "25.90",
+    "id": "47099",
+    "name": "Сoлoмка 200 г Рoзумний вибiр солодка м/уп",
+    "category": "Сушка та сухарі",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/111503/catalog_list_111503.jpg",
+    "oldPrice": "21.70",
     "newPrice": "18.90",
     "cardPrice": "17.95",
     "quantity": 0
@@ -1320,11 +1320,11 @@
     "quantity": 0
   },
   {
-    "id": "47099",
-    "name": "Сoлoмка 200 г Рoзумний вибiр солодка м/уп",
-    "category": "Сушка та сухарі",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/111503/catalog_list_111503.jpg",
-    "oldPrice": "21.70",
+    "id": "46075",
+    "name": "Сир плавлений 70 г L'extra Вершковий 40% фольга",
+    "category": "Сири плавлені",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/107555/catalog_list_107555.jpg",
+    "oldPrice": "25.90",
     "newPrice": "18.90",
     "cardPrice": "17.95",
     "quantity": 0
@@ -1400,21 +1400,21 @@
     "quantity": 0
   },
   {
-    "id": "43327",
-    "name": "Нaпій 0,5 л Pit Bull Silver eнepгeтичний ПЕТ",
-    "category": "Енергетичні",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/98233/catalog_list_98233.jpg",
-    "oldPrice": "22.90",
-    "newPrice": "19.60",
-    "cardPrice": "18.62",
-    "quantity": 0
-  },
-  {
     "id": "34735",
     "name": "Сиркова паста 90 г Яготинська для дітей Абрикос Банан безлактозна 3,9% п/стакан",
     "category": "Дитяча молочна продукція",
     "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/69617/catalog_list_69617.jpg",
     "oldPrice": "23.70",
+    "newPrice": "19.60",
+    "cardPrice": "18.62",
+    "quantity": 0
+  },
+  {
+    "id": "43327",
+    "name": "Нaпій 0,5 л Pit Bull Silver eнepгeтичний ПЕТ",
+    "category": "Енергетичні",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/98233/catalog_list_98233.jpg",
+    "oldPrice": "22.90",
     "newPrice": "19.60",
     "cardPrice": "18.62",
     "quantity": 0
@@ -6150,20 +6150,20 @@
     "quantity": 0
   },
   {
-    "id": "44981",
-    "name": "Йогурт 0,8 кг Галичина ягідний мікс 2,2% п/бут",
+    "id": "44979",
+    "name": "Йогурт 0,8 кг Галичина полуниця-суниця 2,2% п/бут",
     "category": "Йогурти",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/103483/catalog_list_103483.jpg",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/103437/catalog_list_103437.jpg",
     "oldPrice": "80.30",
     "newPrice": "70.30",
     "cardPrice": "66.78",
     "quantity": 0
   },
   {
-    "id": "44979",
-    "name": "Йогурт 0,8 кг Галичина полуниця-суниця 2,2% п/бут",
+    "id": "44981",
+    "name": "Йогурт 0,8 кг Галичина ягідний мікс 2,2% п/бут",
     "category": "Йогурти",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/103437/catalog_list_103437.jpg",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/103483/catalog_list_103483.jpg",
     "oldPrice": "80.30",
     "newPrice": "70.30",
     "cardPrice": "66.78",
@@ -6410,6 +6410,16 @@
     "quantity": 0
   },
   {
+    "id": "45899",
+    "name": "Квасoля 445 г Верес з oвoчами ск/банка",
+    "category": "Овочева та фруктова консервація",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/106957/catalog_list_106957.jpg",
+    "oldPrice": "85.80",
+    "newPrice": "74.90",
+    "cardPrice": "71.16",
+    "quantity": 0
+  },
+  {
     "id": "47413",
     "name": "Чай (20 ф/п*1,5 г) GRACE Cremy Strawbery з ароматом полуниці/Sunny Citrus з ароматом апельсина к/уп",
     "category": "Чай",
@@ -6435,16 +6445,6 @@
     "category": "Сухі сніданки",
     "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/112663/catalog_list_112663.jpg",
     "oldPrice": "99.90",
-    "newPrice": "74.90",
-    "cardPrice": "71.16",
-    "quantity": 0
-  },
-  {
-    "id": "45899",
-    "name": "Квасoля 445 г Верес з oвoчами ск/банка",
-    "category": "Овочева та фруктова консервація",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/106957/catalog_list_106957.jpg",
-    "oldPrice": "85.80",
     "newPrice": "74.90",
     "cardPrice": "71.16",
     "quantity": 0
@@ -7460,16 +7460,6 @@
     "quantity": 0
   },
   {
-    "id": "46073",
-    "name": "Слойка з шоколадно-горіховою начинкою(горіх фундук) 240г (8х30г) Eesti Pagar швидкозаморожений п/ет",
-    "category": "Тісто, Випічка, Піца",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/107553/catalog_list_107553.jpg",
-    "oldPrice": "--.--",
-    "newPrice": "107.90",
-    "cardPrice": "102.50",
-    "quantity": 0
-  },
-  {
     "id": "13133",
     "name": "Піца 320г Passionata прошуто швидкозаморожена",
     "category": "Тісто, Випічка, Піца",
@@ -7940,21 +7930,21 @@
     "quantity": 0
   },
   {
-    "id": "47345",
-    "name": "Шампунь 350мл Schauma Проти лупи Інтенсив від дуже сильної лупи п/флакон",
-    "category": "Шампуні",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/111691/catalog_list_111691.jpg",
-    "oldPrice": "150.90",
-    "newPrice": "131.90",
-    "cardPrice": "125.30",
-    "quantity": 0
-  },
-  {
     "id": "47693",
     "name": "Вepшки 500 мл Laciata 30 % тетра-пак, Польща",
     "category": "Вершки",
     "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/112913/catalog_list_112913.jpg",
     "oldPrice": "165.80",
+    "newPrice": "131.90",
+    "cardPrice": "125.30",
+    "quantity": 0
+  },
+  {
+    "id": "47345",
+    "name": "Шампунь 350мл Schauma Проти лупи Інтенсив від дуже сильної лупи п/флакон",
+    "category": "Шампуні",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/111691/catalog_list_111691.jpg",
+    "oldPrice": "150.90",
     "newPrice": "131.90",
     "cardPrice": "125.30",
     "quantity": 0
@@ -8500,6 +8490,16 @@
     "quantity": 0
   },
   {
+    "id": "835",
+    "name": "Вино 0,75л газоване Lambrusco Dell'Emilia IGT Giacobazzi напівcолодке біле 7,5%, Італія",
+    "category": "Ігристе вино",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/28645/catalog_list_28645.jpg",
+    "oldPrice": "238.20",
+    "newPrice": "169.40",
+    "cardPrice": "--.--",
+    "quantity": 0
+  },
+  {
     "id": "3788",
     "name": "Напій винний 0,75л Perlino Fragolino ігристий білий ароматизований 7,5%, Італія",
     "category": "Ігристе вино",
@@ -8510,13 +8510,13 @@
     "quantity": 0
   },
   {
-    "id": "835",
-    "name": "Вино 0,75л газоване Lambrusco Dell'Emilia IGT Giacobazzi напівcолодке біле 7,5%, Італія",
-    "category": "Ігристе вино",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/28645/catalog_list_28645.jpg",
-    "oldPrice": "238.20",
-    "newPrice": "169.40",
-    "cardPrice": "--.--",
+    "id": "46895",
+    "name": "Спиртний напій 0,5л ШАБО БАМБЛ КАВА 30% об ск/пл Україна",
+    "category": "Коньяк",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/111529/catalog_list_111529.jpg",
+    "oldPrice": "200.90",
+    "newPrice": "172.40",
+    "cardPrice": "163.78",
     "quantity": 0
   },
   {
@@ -8530,13 +8530,13 @@
     "quantity": 0
   },
   {
-    "id": "46895",
-    "name": "Спиртний напій 0,5л ШАБО БАМБЛ КАВА 30% об ск/пл Україна",
-    "category": "Коньяк",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/111529/catalog_list_111529.jpg",
-    "oldPrice": "200.90",
-    "newPrice": "172.40",
-    "cardPrice": "163.78",
+    "id": "526",
+    "name": "Ковбаса 320 г Добров Дрогобицька н/к",
+    "category": "Ковбаса",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/375/catalog_list_375.png",
+    "oldPrice": "197.40",
+    "newPrice": "172.70",
+    "cardPrice": "164.06",
     "quantity": 0
   },
   {
@@ -8555,16 +8555,6 @@
     "category": "Торти і тістечка",
     "imageUrl": "/image/none.webp",
     "oldPrice": "209.30",
-    "newPrice": "172.70",
-    "cardPrice": "164.06",
-    "quantity": 0
-  },
-  {
-    "id": "526",
-    "name": "Ковбаса 320 г Добров Дрогобицька н/к",
-    "category": "Ковбаса",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/375/catalog_list_375.png",
-    "oldPrice": "197.40",
     "newPrice": "172.70",
     "cardPrice": "164.06",
     "quantity": 0
