@@ -250,20 +250,20 @@
     "quantity": 0
   },
   {
-    "id": "37833",
-    "name": "Чипси 25 г Своя лінія картопляні зі смаком крабу м/уп",
+    "id": "37831",
+    "name": "Чипси 25 г Своя лінія картопляні зі смаком сметана та зелень м/уп",
     "category": "Чипси",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/79985/catalog_list_79985.jpg",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/79983/catalog_list_79983.jpg",
     "oldPrice": "12.90",
     "newPrice": "10.30",
     "cardPrice": "9.78",
     "quantity": 0
   },
   {
-    "id": "37831",
-    "name": "Чипси 25 г Своя лінія картопляні зі смаком сметана та зелень м/уп",
+    "id": "37833",
+    "name": "Чипси 25 г Своя лінія картопляні зі смаком крабу м/уп",
     "category": "Чипси",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/79983/catalog_list_79983.jpg",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/79985/catalog_list_79985.jpg",
     "oldPrice": "12.90",
     "newPrice": "10.30",
     "cardPrice": "9.78",
@@ -1020,21 +1020,21 @@
     "quantity": 0
   },
   {
-    "id": "46361",
-    "name": "Пeчивo 170 г Свoя лiнiя Зooсвiт затяжнe м/уп",
-    "category": "Печиво, пряники",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/111497/catalog_list_111497.jpg",
-    "oldPrice": "22.70",
-    "newPrice": "17.40",
-    "cardPrice": "16.53",
-    "quantity": 0
-  },
-  {
     "id": "47159",
     "name": "Кетчуп 180 г Своя Лінія Дитячий д/пак",
     "category": "Соуси, кетчупи",
     "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/111535/catalog_list_111535.jpg",
     "oldPrice": "24.90",
+    "newPrice": "17.40",
+    "cardPrice": "16.53",
+    "quantity": 0
+  },
+  {
+    "id": "46361",
+    "name": "Пeчивo 170 г Свoя лiнiя Зooсвiт затяжнe м/уп",
+    "category": "Печиво, пряники",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/111497/catalog_list_111497.jpg",
+    "oldPrice": "22.70",
     "newPrice": "17.40",
     "cardPrice": "16.53",
     "quantity": 0
@@ -1190,20 +1190,10 @@
     "quantity": 0
   },
   {
-    "id": "41699",
-    "name": "Цукeрки 80 г Своя лінія Joyful Bears желейні м/уп Туреччина",
+    "id": "39553",
+    "name": "Цукерки 80 г Elvan желейні Джеллі Фанні Тіс м/уп Туреччина",
     "category": "Цукерки",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/92015/catalog_list_92015.jpg",
-    "oldPrice": "25.80",
-    "newPrice": "18.60",
-    "cardPrice": "17.67",
-    "quantity": 0
-  },
-  {
-    "id": "39669",
-    "name": "Цукерки 80 г Своя лінія Peach Taste зі смаком персику желейні м/уп Туреччина",
-    "category": "Цукерки",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/86951/catalog_list_86951.jpg",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/86769/catalog_list_86769.png",
     "oldPrice": "25.80",
     "newPrice": "18.60",
     "cardPrice": "17.67",
@@ -1220,10 +1210,20 @@
     "quantity": 0
   },
   {
-    "id": "39553",
-    "name": "Цукерки 80 г Elvan желейні Джеллі Фанні Тіс м/уп Туреччина",
+    "id": "39669",
+    "name": "Цукерки 80 г Своя лінія Peach Taste зі смаком персику желейні м/уп Туреччина",
     "category": "Цукерки",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/86769/catalog_list_86769.png",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/86951/catalog_list_86951.jpg",
+    "oldPrice": "25.80",
+    "newPrice": "18.60",
+    "cardPrice": "17.67",
+    "quantity": 0
+  },
+  {
+    "id": "41699",
+    "name": "Цукeрки 80 г Своя лінія Joyful Bears желейні м/уп Туреччина",
+    "category": "Цукерки",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/92015/catalog_list_92015.jpg",
     "oldPrice": "25.80",
     "newPrice": "18.60",
     "cardPrice": "17.67",
@@ -1310,6 +1310,16 @@
     "quantity": 0
   },
   {
+    "id": "41457",
+    "name": "Йогурт 170 г Злагода Малятко Полуниця від 9 місяців 2,8% д/пак",
+    "category": "Дитяча молочна продукція",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/91429/catalog_list_91429.jpg",
+    "oldPrice": "23.90",
+    "newPrice": "19.70",
+    "cardPrice": "18.72",
+    "quantity": 0
+  },
+  {
     "id": "35107",
     "name": "Йогурт 170 г Злагода Малятко Персик від 9 місяців 2,8% д/пак",
     "category": "Дитяча молочна продукція",
@@ -1320,13 +1330,23 @@
     "quantity": 0
   },
   {
-    "id": "41457",
-    "name": "Йогурт 170 г Злагода Малятко Полуниця від 9 місяців 2,8% д/пак",
-    "category": "Дитяча молочна продукція",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/91429/catalog_list_91429.jpg",
-    "oldPrice": "23.90",
-    "newPrice": "19.70",
-    "cardPrice": "18.72",
+    "id": "31947",
+    "name": "Сир плавлений 70 г Золотий Резерв Вершковий 38% фольга",
+    "category": "Сири плавлені",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/59195/catalog_list_59195.png",
+    "oldPrice": "28.60",
+    "newPrice": "19.90",
+    "cardPrice": "18.90",
+    "quantity": 0
+  },
+  {
+    "id": "31949",
+    "name": "Сир плавлений 70 г Золотий резерв Дружба 40% фольга",
+    "category": "Сири плавлені",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/59197/catalog_list_59197.png",
+    "oldPrice": "28.60",
+    "newPrice": "19.90",
+    "cardPrice": "18.90",
     "quantity": 0
   },
   {
@@ -1355,26 +1375,6 @@
     "category": "Напої",
     "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/72351/catalog_list_72351.jpg",
     "oldPrice": "24.70",
-    "newPrice": "19.90",
-    "cardPrice": "18.90",
-    "quantity": 0
-  },
-  {
-    "id": "31947",
-    "name": "Сир плавлений 70 г Золотий Резерв Вершковий 38% фольга",
-    "category": "Сири плавлені",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/59195/catalog_list_59195.png",
-    "oldPrice": "28.60",
-    "newPrice": "19.90",
-    "cardPrice": "18.90",
-    "quantity": 0
-  },
-  {
-    "id": "31949",
-    "name": "Сир плавлений 70 г Золотий резерв Дружба 40% фольга",
-    "category": "Сири плавлені",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/59197/catalog_list_59197.png",
-    "oldPrice": "28.60",
     "newPrice": "19.90",
     "cardPrice": "18.90",
     "quantity": 0
@@ -2917,16 +2917,6 @@
     "oldPrice": "36.90",
     "newPrice": "32.30",
     "cardPrice": "30.68",
-    "quantity": 0
-  },
-  {
-    "id": "7672",
-    "name": "Пиво 0,5л Zlata Praha світле",
-    "category": "Пиво",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/6788/catalog_list_6788.jpg",
-    "oldPrice": "41.80",
-    "newPrice": "32.40",
-    "cardPrice": "30.78",
     "quantity": 0
   },
   {
@@ -5900,16 +5890,6 @@
     "quantity": 0
   },
   {
-    "id": "46059",
-    "name": "Сир м'який 100 г Lazur Золотий з пліснявою 50% к/уп",
-    "category": "Сири м'які",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/107303/catalog_list_107303.jpg",
-    "oldPrice": "93.40",
-    "newPrice": "72.60",
-    "cardPrice": "68.97",
-    "quantity": 0
-  },
-  {
     "id": "34409",
     "name": "Дезодоранти 50 мл ARKO MEN Сool Fresh (Арко Мен Кул Фреш) кульковий п/фл",
     "category": "Дезодоранти",
@@ -6907,16 +6887,6 @@
     "oldPrice": "144.90",
     "newPrice": "107.80",
     "cardPrice": "102.41",
-    "quantity": 0
-  },
-  {
-    "id": "46051",
-    "name": "Сир твердий 100 г Dziugas 40% 24 міс. подрібнений газ/упак Литва",
-    "category": "Сири тверді",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/107295/catalog_list_107295.jpg",
-    "oldPrice": "140.90",
-    "newPrice": "108.90",
-    "cardPrice": "103.46",
     "quantity": 0
   },
   {
@@ -8017,16 +7987,6 @@
     "oldPrice": "230.90",
     "newPrice": "168.90",
     "cardPrice": "160.45",
-    "quantity": 0
-  },
-  {
-    "id": "31513",
-    "name": "Грудна частина тушки куряча Наша Ряба охолоджена упаковка",
-    "category": "М'ясо охолоджене",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/98949/catalog_list_98949.jpg",
-    "oldPrice": "181.99",
-    "newPrice": "169.39",
-    "cardPrice": "160.92",
     "quantity": 0
   },
   {
