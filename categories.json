@@ -1770,16 +1770,6 @@
     "quantity": 0
   },
   {
-    "id": "10733",
-    "name": "Гомілка курчат-бройлерів Чебатурочка охолоджена",
-    "category": "М'ясо охолоджене",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/113583/catalog_list_113583.jpg",
-    "oldPrice": "112.99",
-    "newPrice": "84.89",
-    "cardPrice": "--.--",
-    "quantity": 0
-  },
-  {
     "id": "47345",
     "name": "Шампунь 350мл Schauma Проти лупи Інтенсив від дуже сильної лупи п/флакон",
     "category": "Шампуні",
@@ -1800,21 +1790,21 @@
     "quantity": 0
   },
   {
-    "id": "25435",
-    "name": "Корм 0,9 кг Мяу сухий для дорослих котів М'ясний м/уп",
-    "category": "Корм",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/100121/catalog_list_100121.png",
-    "oldPrice": "129.70",
-    "newPrice": "89.90",
-    "cardPrice": "--.--",
-    "quantity": 0
-  },
-  {
     "id": "4885",
     "name": "Олія 0,9л Чумак Золота Соняшникова рафінована",
     "category": "Олія та Оцет",
     "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/57527/catalog_list_57527.jpg",
     "oldPrice": "99.99",
+    "newPrice": "89.90",
+    "cardPrice": "--.--",
+    "quantity": 0
+  },
+  {
+    "id": "25435",
+    "name": "Корм 0,9 кг Мяу сухий для дорослих котів М'ясний м/уп",
+    "category": "Корм",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/100121/catalog_list_100121.png",
+    "oldPrice": "129.70",
     "newPrice": "89.90",
     "cardPrice": "--.--",
     "quantity": 0
@@ -2156,6 +2146,16 @@
     "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/72441/catalog_list_72441.jpg",
     "oldPrice": "222.70",
     "newPrice": "163.50",
+    "cardPrice": "--.--",
+    "quantity": 0
+  },
+  {
+    "id": "6480",
+    "name": "Авокадо Хаас вагове 1 гат",
+    "category": "Фрукти, ягоди",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/6651/catalog_list_6651.jpg",
+    "oldPrice": "209.95",
+    "newPrice": "169.95",
     "cardPrice": "--.--",
     "quantity": 0
   },
@@ -2610,16 +2610,6 @@
     "quantity": 0
   },
   {
-    "id": "16893",
-    "name": "Напій кавовий 12 г Jacobs Monarch Original розчинний стік (3 в 1)",
-    "category": "Кава, какао",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/106845/catalog_list_106845.jpg",
-    "oldPrice": "8.70",
-    "newPrice": "7.20",
-    "cardPrice": "--.--",
-    "quantity": 0
-  },
-  {
     "id": "39911",
     "name": "Ірис 50 г Розумний вибір з молочним смаком м/уп",
     "category": "Східні солодощі",
@@ -2665,6 +2655,16 @@
     "category": "Батончики",
     "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/35203/catalog_list_35203.jpg",
     "oldPrice": "10.30",
+    "newPrice": "8.20",
+    "cardPrice": "--.--",
+    "quantity": 0
+  },
+  {
+    "id": "16893",
+    "name": "Напій кавовий 12 г Jacobs Monarch Original розчинний стік (3 в 1)",
+    "category": "Кава, какао",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/106845/catalog_list_106845.jpg",
+    "oldPrice": "--.--",
     "newPrice": "8.20",
     "cardPrice": "--.--",
     "quantity": 0
@@ -2770,20 +2770,20 @@
     "quantity": 0
   },
   {
-    "id": "46355",
-    "name": "Суп 20 г День у День миттєвого приготування зі смаком курки з локшиною м/уп",
+    "id": "48399",
+    "name": "Суп 20 г День у День миттєвого приготування зі смаком курки з крутонами м/у",
     "category": "Їжа швидкого приготування",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/111493/catalog_list_111493.jpg",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/114595/catalog_list_114595.jpg",
     "oldPrice": "12.90",
     "newPrice": "9.10",
     "cardPrice": "--.--",
     "quantity": 0
   },
   {
-    "id": "48399",
-    "name": "Суп 20 г День у День миттєвого приготування зі смаком курки з крутонами м/у",
+    "id": "46355",
+    "name": "Суп 20 г День у День миттєвого приготування зі смаком курки з локшиною м/уп",
     "category": "Їжа швидкого приготування",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/114595/catalog_list_114595.jpg",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/111493/catalog_list_111493.jpg",
     "oldPrice": "12.90",
     "newPrice": "9.10",
     "cardPrice": "--.--",
@@ -2970,20 +2970,10 @@
     "quantity": 0
   },
   {
-    "id": "40157",
-    "name": "Корм 100 г Своя Лінія Pet's Up для дорослих котів з Рибою м/уп",
+    "id": "40153",
+    "name": "Корм 100 г Своя Лінія Pet's Up для дорослих котів з Кроликом м/уп",
     "category": "Корм",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/88559/catalog_list_88559.png",
-    "oldPrice": "14.90",
-    "newPrice": "11.90",
-    "cardPrice": "--.--",
-    "quantity": 0
-  },
-  {
-    "id": "45235",
-    "name": "Корм 100 г Своя Лінія Pet's Up для дорослих котів з Куркою м/уп",
-    "category": "Корм",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/105377/catalog_list_105377.jpg",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/88555/catalog_list_88555.png",
     "oldPrice": "14.90",
     "newPrice": "11.90",
     "cardPrice": "--.--",
@@ -3000,10 +2990,20 @@
     "quantity": 0
   },
   {
-    "id": "40153",
-    "name": "Корм 100 г Своя Лінія Pet's Up для дорослих котів з Кроликом м/уп",
+    "id": "45235",
+    "name": "Корм 100 г Своя Лінія Pet's Up для дорослих котів з Куркою м/уп",
     "category": "Корм",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/88555/catalog_list_88555.png",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/105377/catalog_list_105377.jpg",
+    "oldPrice": "14.90",
+    "newPrice": "11.90",
+    "cardPrice": "--.--",
+    "quantity": 0
+  },
+  {
+    "id": "40157",
+    "name": "Корм 100 г Своя Лінія Pet's Up для дорослих котів з Рибою м/уп",
+    "category": "Корм",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/88559/catalog_list_88559.png",
     "oldPrice": "14.90",
     "newPrice": "11.90",
     "cardPrice": "--.--",
@@ -3850,11 +3850,11 @@
     "quantity": 0
   },
   {
-    "id": "46343",
-    "name": "Сир плавлений 70 г L'extra з ароматом сиру Камамбер 40% фольга",
-    "category": "Сири плавлені",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/111479/catalog_list_111479.jpg",
-    "oldPrice": "25.90",
+    "id": "46843",
+    "name": "Йогурт 400 г День у День персик 1% п/ет",
+    "category": "Йогурти",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/111517/catalog_list_111517.jpg",
+    "oldPrice": "23.90",
     "newPrice": "18.90",
     "cardPrice": "--.--",
     "quantity": 0
@@ -3870,11 +3870,11 @@
     "quantity": 0
   },
   {
-    "id": "46843",
-    "name": "Йогурт 400 г День у День персик 1% п/ет",
-    "category": "Йогурти",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/111517/catalog_list_111517.jpg",
-    "oldPrice": "23.90",
+    "id": "46343",
+    "name": "Сир плавлений 70 г L'extra з ароматом сиру Камамбер 40% фольга",
+    "category": "Сири плавлені",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/111479/catalog_list_111479.jpg",
+    "oldPrice": "25.90",
     "newPrice": "18.90",
     "cardPrice": "--.--",
     "quantity": 0
@@ -4030,10 +4030,10 @@
     "quantity": 0
   },
   {
-    "id": "36037",
-    "name": "Сир плавлений 70 г President Вершковий 38% фольга",
+    "id": "43429",
+    "name": "Сир плавлений 70 г President з сиром Гауда 38% фольга",
     "category": "Сири плавлені",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/74543/catalog_list_74543.jpg",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/98257/catalog_list_98257.jpg",
     "oldPrice": "26.40",
     "newPrice": "20.50",
     "cardPrice": "--.--",
@@ -4123,7 +4123,7 @@
     "id": "48395",
     "name": "Напій 2 л Розумний вибір зі смаком Лимону сильногазований ПЕТ",
     "category": "Напої",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/114571/catalog_list_114571.jpg",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/114779/catalog_list_114779.jpg",
     "oldPrice": "26.40",
     "newPrice": "20.90",
     "cardPrice": "--.--",
@@ -5551,7 +5551,7 @@
   },
   {
     "id": "36875",
-    "name": "Шкарпетки жін.вис.пагомілок з вис.резнкою premiersocks,склад73/25/2, Р.23-25, в асортименты,без/уп",
+    "name": "Шкарпетки жін.вис.пагомілок з вис.резинкою PremierSocks,склад73/25/2, р.23-25, в асортименті,без/уп",
     "category": "Колготи, гольфи, шкарпетки",
     "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/111425/catalog_list_111425.jpg",
     "oldPrice": "42.40",
@@ -7045,6 +7045,36 @@
     "category": "Печиво, пряники",
     "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/88197/catalog_list_88197.jpg",
     "oldPrice": "--.--",
+    "newPrice": "48.90",
+    "cardPrice": "--.--",
+    "quantity": 0
+  },
+  {
+    "id": "48575",
+    "name": "Чай (50 ф/п х 1,6 г) Sonnet трав'яний Chamomile у експрес пакетах к/уп",
+    "category": "Чай",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/114785/catalog_list_114785.png",
+    "oldPrice": "67.50",
+    "newPrice": "48.90",
+    "cardPrice": "--.--",
+    "quantity": 0
+  },
+  {
+    "id": "48577",
+    "name": "Чай (50 ф/п х 1,6 г) Sonnet чорний Earl Grey байховий зі смаком бергамоту у експрес пакетах к/уп",
+    "category": "Чай",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/114787/catalog_list_114787.png",
+    "oldPrice": "67.50",
+    "newPrice": "48.90",
+    "cardPrice": "--.--",
+    "quantity": 0
+  },
+  {
+    "id": "48579",
+    "name": "Чай (50 ф/п х 1,6 г) Sonnet чорний Lemon у експрес пакетах к/уп",
+    "category": "Чай",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/114789/catalog_list_114789.png",
+    "oldPrice": "67.50",
     "newPrice": "48.90",
     "cardPrice": "--.--",
     "quantity": 0
