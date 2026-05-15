@@ -330,21 +330,21 @@
     "quantity": 0
   },
   {
-    "id": "29833",
-    "name": "Приправа 30 г Чемпіон Хмелі-сунелі м/уп",
-    "category": "Приправи та маринади",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/52679/catalog_list_52679.jpg",
-    "oldPrice": "12.40",
-    "newPrice": "10.30",
-    "cardPrice": "--.--",
-    "quantity": 0
-  },
-  {
     "id": "25921",
     "name": "Кекс 25 г Luppo Cake Bite з маршмеллоу в молочному шоколаді м/уп",
     "category": "Бісквіти та десерти",
     "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/39103/catalog_list_39103.jpg",
     "oldPrice": "13.40",
+    "newPrice": "10.30",
+    "cardPrice": "--.--",
+    "quantity": 0
+  },
+  {
+    "id": "29833",
+    "name": "Приправа 30 г Чемпіон Хмелі-сунелі м/уп",
+    "category": "Приправи та маринади",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/52679/catalog_list_52679.jpg",
+    "oldPrice": "12.40",
     "newPrice": "10.30",
     "cardPrice": "--.--",
     "quantity": 0
@@ -4706,7 +4706,7 @@
     "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/106971/catalog_list_106971.jpg",
     "oldPrice": "--.--",
     "newPrice": "47.50",
-    "cardPrice": "--.--",
+    "cardPrice": "45.08",
     "quantity": 0
   },
   {
@@ -6186,7 +6186,7 @@
     "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/70729/catalog_list_70729.jpg",
     "oldPrice": "--.--",
     "newPrice": "62.60",
-    "cardPrice": "--.--",
+    "cardPrice": "59.41",
     "quantity": 0
   },
   {
@@ -10346,6 +10346,16 @@
     "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/87449/catalog_list_87449.jpg",
     "oldPrice": "451.99",
     "newPrice": "383.59",
+    "cardPrice": "--.--",
+    "quantity": 0
+  },
+  {
+    "id": "30663",
+    "name": "Торт 1кг Вацак Velvet Cherry к/уп",
+    "category": "Торти і тістечка",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/55061/catalog_list_55061.png",
+    "oldPrice": "468.50",
+    "newPrice": "386.50",
     "cardPrice": "--.--",
     "quantity": 0
   },
