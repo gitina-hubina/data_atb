@@ -30,6 +30,16 @@
     "quantity": 0
   },
   {
+    "id": "26087",
+    "name": "Бульон (6 шт*10 г) Kucharek курячий м/уп",
+    "category": "Приправи та маринади",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/35269/catalog_list_35269.jpg",
+    "oldPrice": "21.90",
+    "newPrice": "13.90",
+    "cardPrice": "--.--",
+    "quantity": 0
+  },
+  {
     "id": "26115",
     "name": "Бульон (6 шт*10 г) Kucharek грибний м/уп",
     "category": "Приправи та маринади",
@@ -40,12 +50,22 @@
     "quantity": 0
   },
   {
-    "id": "26087",
-    "name": "Бульон (6 шт*10 г) Kucharek курячий м/уп",
-    "category": "Приправи та маринади",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/35269/catalog_list_35269.jpg",
-    "oldPrice": "21.90",
-    "newPrice": "13.90",
+    "id": "28741",
+    "name": "Батончик 39 г Roshen Double Peanuts молочний шоколад з арахісом м/уп",
+    "category": "Батончики",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/113361/catalog_list_113361.jpg",
+    "oldPrice": "22.70",
+    "newPrice": "14.90",
+    "cardPrice": "--.--",
+    "quantity": 0
+  },
+  {
+    "id": "26983",
+    "name": "Батончик 38 г Roshen з кокосом та мигдалем м/уп",
+    "category": "Батончики",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/113359/catalog_list_113359.jpg",
+    "oldPrice": "22.70",
+    "newPrice": "14.90",
     "cardPrice": "--.--",
     "quantity": 0
   },
@@ -70,32 +90,32 @@
     "quantity": 0
   },
   {
-    "id": "26983",
-    "name": "Батончик 38 г Roshen з кокосом та мигдалем м/уп",
-    "category": "Батончики",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/113359/catalog_list_113359.jpg",
-    "oldPrice": "22.70",
-    "newPrice": "14.90",
-    "cardPrice": "--.--",
-    "quantity": 0
-  },
-  {
-    "id": "28741",
-    "name": "Батончик 39 г Roshen Double Peanuts молочний шоколад з арахісом м/уп",
-    "category": "Батончики",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/113361/catalog_list_113361.jpg",
-    "oldPrice": "22.70",
-    "newPrice": "14.90",
-    "cardPrice": "--.--",
-    "quantity": 0
-  },
-  {
     "id": "2292",
     "name": "Напій 0,5л Живчик газований",
     "category": "Напої",
     "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/116469/catalog_list_116469.jpg",
     "oldPrice": "25.90",
     "newPrice": "16.70",
+    "cardPrice": "--.--",
+    "quantity": 0
+  },
+  {
+    "id": "37995",
+    "name": "Сир плавлений 75 г Комо бекон 35% фольга",
+    "category": "Сири плавлені",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/80515/catalog_list_80515.jpg",
+    "oldPrice": "27.00",
+    "newPrice": "16.90",
+    "cardPrice": "--.--",
+    "quantity": 0
+  },
+  {
+    "id": "37997",
+    "name": "Сир плавлений 75 г Комо Вершковий тенеро 35% фольга",
+    "category": "Сири плавлені",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/80517/catalog_list_80517.jpg",
+    "oldPrice": "27.00",
+    "newPrice": "16.90",
     "cardPrice": "--.--",
     "quantity": 0
   },
@@ -115,26 +135,6 @@
     "category": "Мінеральна і питна вода",
     "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/2242/catalog_list_2242.jpg",
     "oldPrice": "27.50",
-    "newPrice": "16.90",
-    "cardPrice": "--.--",
-    "quantity": 0
-  },
-  {
-    "id": "37997",
-    "name": "Сир плавлений 75 г Комо Вершковий тенеро 35% фольга",
-    "category": "Сири плавлені",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/80517/catalog_list_80517.jpg",
-    "oldPrice": "27.00",
-    "newPrice": "16.90",
-    "cardPrice": "--.--",
-    "quantity": 0
-  },
-  {
-    "id": "37995",
-    "name": "Сир плавлений 75 г Комо бекон 35% фольга",
-    "category": "Сири плавлені",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/80515/catalog_list_80515.jpg",
-    "oldPrice": "27.00",
     "newPrice": "16.90",
     "cardPrice": "--.--",
     "quantity": 0
@@ -190,16 +190,6 @@
     "quantity": 0
   },
   {
-    "id": "34477",
-    "name": "Цукерки 70 г Roshen Yummi Gummi Паста м/уп",
-    "category": "Цукерки",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/68957/catalog_list_68957.jpg",
-    "oldPrice": "35.90",
-    "newPrice": "19.90",
-    "cardPrice": "--.--",
-    "quantity": 0
-  },
-  {
     "id": "21379",
     "name": "Цукерки 70 г Рошен Yummi Gummi Sour Belts желейні",
     "category": "Цукерки",
@@ -240,12 +230,12 @@
     "quantity": 0
   },
   {
-    "id": "953",
-    "name": "Круасан 60г 7 day's  з кремом зі смаком ваніль",
-    "category": "Круасани та зефір",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/45377/catalog_list_45377.jpg",
-    "oldPrice": "31.70",
-    "newPrice": "20.50",
+    "id": "34477",
+    "name": "Цукерки 70 г Roshen Yummi Gummi Паста м/уп",
+    "category": "Цукерки",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/68957/catalog_list_68957.jpg",
+    "oldPrice": "35.90",
+    "newPrice": "19.90",
     "cardPrice": "--.--",
     "quantity": 0
   },
@@ -254,6 +244,16 @@
     "name": "Круасан 60 г 7days з кремом какао м/уп",
     "category": "Круасани та зефір",
     "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/63999/catalog_list_63999.png",
+    "oldPrice": "31.70",
+    "newPrice": "20.50",
+    "cardPrice": "--.--",
+    "quantity": 0
+  },
+  {
+    "id": "953",
+    "name": "Круасан 60г 7 day's  з кремом зі смаком ваніль",
+    "category": "Круасани та зефір",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/45377/catalog_list_45377.jpg",
     "oldPrice": "31.70",
     "newPrice": "20.50",
     "cardPrice": "--.--",
@@ -320,21 +320,21 @@
     "quantity": 0
   },
   {
-    "id": "48581",
-    "name": "Морозиво 70 г Magnat сендвіч на печиві \"Double caramel spicy cookies\" п/ет",
-    "category": "Морозиво",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/114791/catalog_list_114791.jpg",
-    "oldPrice": "43.90",
-    "newPrice": "23.90",
-    "cardPrice": "--.--",
-    "quantity": 0
-  },
-  {
     "id": "8064",
     "name": "Морозиво 100г Своя лінія Великий Стакан з підварками ківі та манго",
     "category": "Морозиво",
     "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/40481/catalog_list_40481.jpg",
     "oldPrice": "34.90",
+    "newPrice": "23.90",
+    "cardPrice": "--.--",
+    "quantity": 0
+  },
+  {
+    "id": "48581",
+    "name": "Морозиво 70 г Magnat сендвіч на печиві \"Double caramel spicy cookies\" п/ет",
+    "category": "Морозиво",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/114791/catalog_list_114791.jpg",
+    "oldPrice": "43.90",
     "newPrice": "23.90",
     "cardPrice": "--.--",
     "quantity": 0
@@ -350,11 +350,11 @@
     "quantity": 0
   },
   {
-    "id": "32395",
-    "name": "Йогурт 118 г Деліссімо Фантазія десертний з вишневим джемом 6,3% п/стакан_Польща",
-    "category": "Йогурти",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/64209/catalog_list_64209.jpg",
-    "oldPrice": "36.60",
+    "id": "27107",
+    "name": "Квас 1 л Старокиївський живого бродіння ПЕТ",
+    "category": "Квас",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/113353/catalog_list_113353.jpg",
+    "oldPrice": "37.90",
     "newPrice": "24.50",
     "cardPrice": "--.--",
     "quantity": 0
@@ -1120,16 +1120,6 @@
     "quantity": 0
   },
   {
-    "id": "37747",
-    "name": "Виріб фаршевий 420 г Ковбасний ряд/Розумний вибір Баварський н/к вак/упак",
-    "category": "Ковбаса",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/79871/catalog_list_79871.jpg",
-    "oldPrice": "105.50",
-    "newPrice": "62.90",
-    "cardPrice": "--.--",
-    "quantity": 0
-  },
-  {
     "id": "6513",
     "name": "Чай 100г Hyleys  Англійський зелений листовий",
     "category": "Чай",
@@ -1336,16 +1326,6 @@
     "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/57533/catalog_list_57533.png",
     "oldPrice": "97.65",
     "newPrice": "87.70",
-    "cardPrice": "--.--",
-    "quantity": 0
-  },
-  {
-    "id": "4465",
-    "name": "Прокладки урологічні 15 шт Seni Lady extra",
-    "category": "Гігієнічні прокладки/тампони",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/4009/catalog_list_4009.jpg",
-    "oldPrice": "139.90",
-    "newPrice": "89.90",
     "cardPrice": "--.--",
     "quantity": 0
   },
