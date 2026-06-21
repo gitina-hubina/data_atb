@@ -280,26 +280,6 @@
     "quantity": 0
   },
   {
-    "id": "37833",
-    "name": "Чипси 25 г Своя лінія картопляні зі смаком крабу м/уп",
-    "category": "Чипси",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/79985/catalog_list_79985.jpg",
-    "oldPrice": "13.70",
-    "newPrice": "10.30",
-    "cardPrice": "--.--",
-    "quantity": 0
-  },
-  {
-    "id": "37831",
-    "name": "Чипси 25 г Своя лінія картопляні зі смаком сметана та зелень м/уп",
-    "category": "Чипси",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/79983/catalog_list_79983.jpg",
-    "oldPrice": "13.70",
-    "newPrice": "10.30",
-    "cardPrice": "--.--",
-    "quantity": 0
-  },
-  {
     "id": "39759",
     "name": "Продукт молоковмісний плавлений 70 г Розумний вибір Вершковий 55% фольга",
     "category": "Сири плавлені",
@@ -320,11 +300,31 @@
     "quantity": 0
   },
   {
+    "id": "37833",
+    "name": "Чипси 25 г Своя лінія картопляні зі смаком крабу м/уп",
+    "category": "Чипси",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/79985/catalog_list_79985.jpg",
+    "oldPrice": "13.70",
+    "newPrice": "10.30",
+    "cardPrice": "--.--",
+    "quantity": 0
+  },
+  {
     "id": "39763",
     "name": "Продукт молоковмісний плавлений 70 г Розумний вибір зі смаком грибів 55% фольга",
     "category": "Сири плавлені",
     "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/87261/catalog_list_87261.jpg",
     "oldPrice": "12.90",
+    "newPrice": "10.30",
+    "cardPrice": "--.--",
+    "quantity": 0
+  },
+  {
+    "id": "37831",
+    "name": "Чипси 25 г Своя лінія картопляні зі смаком сметана та зелень м/уп",
+    "category": "Чипси",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/79983/catalog_list_79983.jpg",
+    "oldPrice": "13.70",
     "newPrice": "10.30",
     "cardPrice": "--.--",
     "quantity": 0
@@ -360,20 +360,20 @@
     "quantity": 0
   },
   {
-    "id": "31935",
-    "name": "Вермішель 59,2 г Своя Лінія швидкого приготування зі смаком курки м/уп",
+    "id": "29087",
+    "name": "Вермішель 59,2 г Своя Лінія швидкого приготування зі смаком грибів, м/уп",
     "category": "Їжа швидкого приготування",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/89797/catalog_list_89797.jpg",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/89795/catalog_list_89795.jpg",
     "oldPrice": "13.40",
     "newPrice": "10.70",
     "cardPrice": "--.--",
     "quantity": 0
   },
   {
-    "id": "29087",
-    "name": "Вермішель 59,2 г Своя Лінія швидкого приготування зі смаком грибів, м/уп",
+    "id": "31935",
+    "name": "Вермішель 59,2 г Своя Лінія швидкого приготування зі смаком курки м/уп",
     "category": "Їжа швидкого приготування",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/89795/catalog_list_89795.jpg",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/89797/catalog_list_89797.jpg",
     "oldPrice": "13.40",
     "newPrice": "10.70",
     "cardPrice": "--.--",
@@ -680,21 +680,21 @@
     "quantity": 0
   },
   {
-    "id": "31587",
-    "name": "Вафлі 30 г My Motto з какао-кремовою, горіхово-кремовою начинкою м/уп Болгарія",
-    "category": "Вафлі",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/60693/catalog_list_60693.png",
-    "oldPrice": "17.60",
-    "newPrice": "13.90",
-    "cardPrice": "--.--",
-    "quantity": 0
-  },
-  {
     "id": "35227",
     "name": "Цукерки 15 г Alexis зі смаком черешні, чорниці, червоний виноград та яблука м/уп",
     "category": "Цукерки",
     "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/71163/catalog_list_71163.jpg",
     "oldPrice": "16.90",
+    "newPrice": "13.90",
+    "cardPrice": "--.--",
+    "quantity": 0
+  },
+  {
+    "id": "31587",
+    "name": "Вафлі 30 г My Motto з какао-кремовою, горіхово-кремовою начинкою м/уп Болгарія",
+    "category": "Вафлі",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/60693/catalog_list_60693.png",
+    "oldPrice": "17.60",
     "newPrice": "13.90",
     "cardPrice": "--.--",
     "quantity": 0
@@ -760,21 +760,21 @@
     "quantity": 0
   },
   {
-    "id": "41813",
-    "name": "Желaтин 25 г Своя Лінія харчовий швидкорозчинний м/уп",
-    "category": "Приправи та маринади",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/93555/catalog_list_93555.jpg",
-    "oldPrice": "18.20",
-    "newPrice": "14.40",
-    "cardPrice": "--.--",
-    "quantity": 0
-  },
-  {
     "id": "35737",
     "name": "Шкребки іржостійкі 2 шт Своя Лінія, м/уп",
     "category": "Товари для прибирання",
     "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/81011/catalog_list_81011.jpg",
     "oldPrice": "17.90",
+    "newPrice": "14.40",
+    "cardPrice": "--.--",
+    "quantity": 0
+  },
+  {
+    "id": "41813",
+    "name": "Желaтин 25 г Своя Лінія харчовий швидкорозчинний м/уп",
+    "category": "Приправи та маринади",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/93555/catalog_list_93555.jpg",
+    "oldPrice": "18.20",
     "newPrice": "14.40",
     "cardPrice": "--.--",
     "quantity": 0
@@ -880,20 +880,20 @@
     "quantity": 0
   },
   {
-    "id": "31901",
-    "name": "Вермішель 65 г REEVA швидкого приготування зі смаком грибів та сметани м/уп",
+    "id": "31903",
+    "name": "Вермішель 65 г REEVA швидкого приготування зі смаком курки м/уп",
     "category": "Їжа швидкого приготування",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/86749/catalog_list_86749.jpg",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/86751/catalog_list_86751.jpg",
     "oldPrice": "19.30",
     "newPrice": "15.90",
     "cardPrice": "--.--",
     "quantity": 0
   },
   {
-    "id": "31903",
-    "name": "Вермішель 65 г REEVA швидкого приготування зі смаком курки м/уп",
+    "id": "31901",
+    "name": "Вермішель 65 г REEVA швидкого приготування зі смаком грибів та сметани м/уп",
     "category": "Їжа швидкого приготування",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/86751/catalog_list_86751.jpg",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/86749/catalog_list_86749.jpg",
     "oldPrice": "19.30",
     "newPrice": "15.90",
     "cardPrice": "--.--",
@@ -1910,16 +1910,6 @@
     "quantity": 0
   },
   {
-    "id": "815",
-    "name": "Сода 0,5кг Розумний вибір харчова",
-    "category": "Товари для випічки",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/572/catalog_list_572.jpg",
-    "oldPrice": "26.30",
-    "newPrice": "23.60",
-    "cardPrice": "--.--",
-    "quantity": 0
-  },
-  {
     "id": "11927",
     "name": "Морозиво 95 г Ласунка Мохіто Айс зі стріляючим цукром заморожений лід",
     "category": "Морозиво",
@@ -2450,6 +2440,16 @@
     "quantity": 0
   },
   {
+    "id": "815",
+    "name": "Сода 0,5кг Розумний вибір харчова",
+    "category": "Товари для випічки",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/572/catalog_list_572.jpg",
+    "oldPrice": "--.--",
+    "newPrice": "26.30",
+    "cardPrice": "--.--",
+    "quantity": 0
+  },
+  {
     "id": "40427",
     "name": "Морозиво 70 г Рудь \"black-кава\" ваф.ріжок п/ет",
     "category": "Морозиво",
@@ -2490,21 +2490,21 @@
     "quantity": 0
   },
   {
-    "id": "33133",
-    "name": "Морозиво вершкове 80 г Рудь йогуртове з підваркою \"персик-абрикос\" ваф/ст п/ет",
-    "category": "Морозиво",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/64513/catalog_list_64513.jpg",
-    "oldPrice": "36.50",
-    "newPrice": "26.50",
-    "cardPrice": "--.--",
-    "quantity": 0
-  },
-  {
     "id": "11710",
     "name": "Ірис 200 г Розумний вибір з молочним смаком",
     "category": "Цукерки",
     "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/88227/catalog_list_88227.jpg",
     "oldPrice": "33.90",
+    "newPrice": "26.50",
+    "cardPrice": "--.--",
+    "quantity": 0
+  },
+  {
+    "id": "33133",
+    "name": "Морозиво вершкове 80 г Рудь йогуртове з підваркою \"персик-абрикос\" ваф/ст п/ет",
+    "category": "Морозиво",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/64513/catalog_list_64513.jpg",
+    "oldPrice": "36.50",
     "newPrice": "26.50",
     "cardPrice": "--.--",
     "quantity": 0
@@ -2710,16 +2710,6 @@
     "quantity": 0
   },
   {
-    "id": "7758",
-    "name": "Мак. Вир. 250г Makarony Polskie Локшина яєчна",
-    "category": "Макаронні вироби",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/6876/catalog_list_6876.jpg",
-    "oldPrice": "41.50",
-    "newPrice": "28.90",
-    "cardPrice": "--.--",
-    "quantity": 0
-  },
-  {
     "id": "35305",
     "name": "Вода 0,5 л Своя лінія Поляна Купель мінеральна лікувально-столова сильногаз ск/бут",
     "category": "Мінеральна і питна вода",
@@ -2740,6 +2730,16 @@
     "quantity": 0
   },
   {
+    "id": "7758",
+    "name": "Мак. Вир. 250г Makarony Polskie Локшина яєчна",
+    "category": "Макаронні вироби",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/6876/catalog_list_6876.jpg",
+    "oldPrice": "41.50",
+    "newPrice": "28.90",
+    "cardPrice": "--.--",
+    "quantity": 0
+  },
+  {
     "id": "2832",
     "name": "Сухі сніданки 100г Start зернові Подушечки з молочною начинкою",
     "category": "Сухі сніданки",
@@ -2755,6 +2755,16 @@
     "category": "Батончики",
     "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/67683/catalog_list_67683.jpg",
     "oldPrice": "32.90",
+    "newPrice": "29.50",
+    "cardPrice": "--.--",
+    "quantity": 0
+  },
+  {
+    "id": "5709",
+    "name": "Суміш 500гр Trapeza Булгур середній для гарніру",
+    "category": "Крупи",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/3232/catalog_list_3232.jpg",
+    "oldPrice": "40.60",
     "newPrice": "29.50",
     "cardPrice": "--.--",
     "quantity": 0
@@ -2785,16 +2795,6 @@
     "category": "Слабоалкогольні напої",
     "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/114723/catalog_list_114723.jpg",
     "oldPrice": "39.60",
-    "newPrice": "29.50",
-    "cardPrice": "--.--",
-    "quantity": 0
-  },
-  {
-    "id": "5709",
-    "name": "Суміш 500гр Trapeza Булгур середній для гарніру",
-    "category": "Крупи",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/3232/catalog_list_3232.jpg",
-    "oldPrice": "40.60",
     "newPrice": "29.50",
     "cardPrice": "--.--",
     "quantity": 0
@@ -2890,16 +2890,6 @@
     "quantity": 0
   },
   {
-    "id": "7262",
-    "name": "Вода 1,5 л Своя лінія Поляна Купель мінеральна лікувально-столова сильногазована",
-    "category": "Мінеральна і питна вода",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/6486/catalog_list_6486.jpg",
-    "oldPrice": "--.--",
-    "newPrice": "30.60",
-    "cardPrice": "--.--",
-    "quantity": 0
-  },
-  {
     "id": "47963",
     "name": "Пиво 0,5 л Оболонь Соборне світле ж/б",
     "category": "Пиво",
@@ -2935,6 +2925,16 @@
     "category": "Напої",
     "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/116457/catalog_list_116457.jpg",
     "oldPrice": "37.90",
+    "newPrice": "30.60",
+    "cardPrice": "--.--",
+    "quantity": 0
+  },
+  {
+    "id": "7262",
+    "name": "Вода 1,5 л Своя лінія Поляна Купель мінеральна лікувально-столова сильногазована",
+    "category": "Мінеральна і питна вода",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/6486/catalog_list_6486.jpg",
+    "oldPrice": "--.--",
     "newPrice": "30.60",
     "cardPrice": "--.--",
     "quantity": 0
@@ -3050,21 +3050,21 @@
     "quantity": 0
   },
   {
-    "id": "36819",
-    "name": "Сушка 250 г БКК Білосніжка глазурована м/уп",
-    "category": "Сушка та сухарі",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/76141/catalog_list_76141.jpg",
-    "oldPrice": "38.40",
-    "newPrice": "31.70",
-    "cardPrice": "--.--",
-    "quantity": 0
-  },
-  {
     "id": "34811",
     "name": "Багет 300г Французький (К) без/уп ГП",
     "category": "Гаряча випічка",
     "imageUrl": "/image/none.webp",
     "oldPrice": "38.50",
+    "newPrice": "31.70",
+    "cardPrice": "--.--",
+    "quantity": 0
+  },
+  {
+    "id": "36819",
+    "name": "Сушка 250 г БКК Білосніжка глазурована м/уп",
+    "category": "Сушка та сухарі",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/76141/catalog_list_76141.jpg",
+    "oldPrice": "38.40",
     "newPrice": "31.70",
     "cardPrice": "--.--",
     "quantity": 0
@@ -3330,6 +3330,16 @@
     "quantity": 0
   },
   {
+    "id": "35299",
+    "name": "Йогурт 240 г Галичина Суниця-Манго 2,2% п/стакан",
+    "category": "Йогурти",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/71241/catalog_list_71241.jpg",
+    "oldPrice": "41.20",
+    "newPrice": "34.40",
+    "cardPrice": "--.--",
+    "quantity": 0
+  },
+  {
     "id": "44301",
     "name": "Йогурт 240 г Галичина Вишня - Злаки 2,2% п/стакан",
     "category": "Йогурти",
@@ -3344,16 +3354,6 @@
     "name": "Йогурт 240 г Галичина Чорниця - Злаки 2,2% п/стакан",
     "category": "Йогурти",
     "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/101249/catalog_list_101249.jpg",
-    "oldPrice": "41.20",
-    "newPrice": "34.40",
-    "cardPrice": "--.--",
-    "quantity": 0
-  },
-  {
-    "id": "35299",
-    "name": "Йогурт 240 г Галичина Суниця-Манго 2,2% п/стакан",
-    "category": "Йогурти",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/71241/catalog_list_71241.jpg",
     "oldPrice": "41.20",
     "newPrice": "34.40",
     "cardPrice": "--.--",
@@ -3440,26 +3440,6 @@
     "quantity": 0
   },
   {
-    "id": "5223",
-    "name": "Батончик 25г Gerber Фруктово-злаковий з виноградом та яблуком з 12 місяців",
-    "category": "Дитяче печиво",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/60505/catalog_list_60505.png",
-    "oldPrice": "46.80",
-    "newPrice": "34.90",
-    "cardPrice": "--.--",
-    "quantity": 0
-  },
-  {
-    "id": "7221",
-    "name": "Вафельні трубочки 140г Рошен Konafetto milk",
-    "category": "Вафлі",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/29737/catalog_list_29737.jpg",
-    "oldPrice": "40.20",
-    "newPrice": "34.90",
-    "cardPrice": "--.--",
-    "quantity": 0
-  },
-  {
     "id": "43781",
     "name": "Крекер 240 г Yarych Хрумики з какао м/уп",
     "category": "Крекери",
@@ -3485,6 +3465,26 @@
     "category": "Енергетичні",
     "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/114733/catalog_list_114733.jpg",
     "oldPrice": "42.60",
+    "newPrice": "34.90",
+    "cardPrice": "--.--",
+    "quantity": 0
+  },
+  {
+    "id": "5223",
+    "name": "Батончик 25г Gerber Фруктово-злаковий з виноградом та яблуком з 12 місяців",
+    "category": "Дитяче печиво",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/60505/catalog_list_60505.png",
+    "oldPrice": "46.80",
+    "newPrice": "34.90",
+    "cardPrice": "--.--",
+    "quantity": 0
+  },
+  {
+    "id": "7221",
+    "name": "Вафельні трубочки 140г Рошен Konafetto milk",
+    "category": "Вафлі",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/29737/catalog_list_29737.jpg",
+    "oldPrice": "40.20",
     "newPrice": "34.90",
     "cardPrice": "--.--",
     "quantity": 0
@@ -3550,6 +3550,26 @@
     "quantity": 0
   },
   {
+    "id": "5113",
+    "name": "Лампа світодіодна тепле світло Своя лінія E27 A60 10W 3000K",
+    "category": "Електролампи",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/3045/catalog_list_3045.jpg",
+    "oldPrice": "45.40",
+    "newPrice": "35.90",
+    "cardPrice": "--.--",
+    "quantity": 0
+  },
+  {
+    "id": "5114",
+    "name": "Лампа світодіодна денне світло Своя лінія E27 A60 10W 4000K",
+    "category": "Електролампи",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/3046/catalog_list_3046.jpg",
+    "oldPrice": "45.40",
+    "newPrice": "35.90",
+    "cardPrice": "--.--",
+    "quantity": 0
+  },
+  {
     "id": "33469",
     "name": "Напій 2 л Оболонська зі смаком Полунична Маргарита ПЕТ",
     "category": "Мінеральна і питна вода",
@@ -3575,26 +3595,6 @@
     "category": "Корм",
     "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/89659/catalog_list_89659.jpg",
     "oldPrice": "46.50",
-    "newPrice": "35.90",
-    "cardPrice": "--.--",
-    "quantity": 0
-  },
-  {
-    "id": "5113",
-    "name": "Лампа світодіодна тепле світло Своя лінія E27 A60 10W 3000K",
-    "category": "Електролампи",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/3045/catalog_list_3045.jpg",
-    "oldPrice": "45.40",
-    "newPrice": "35.90",
-    "cardPrice": "--.--",
-    "quantity": 0
-  },
-  {
-    "id": "5114",
-    "name": "Лампа світодіодна денне світло Своя лінія E27 A60 10W 4000K",
-    "category": "Електролампи",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/3046/catalog_list_3046.jpg",
-    "oldPrice": "45.40",
     "newPrice": "35.90",
     "cardPrice": "--.--",
     "quantity": 0
@@ -3680,16 +3680,6 @@
     "quantity": 0
   },
   {
-    "id": "7082",
-    "name": "Печиво 180г Рошен цукрове MULTICAKE з начинкою какао",
-    "category": "Печиво, пряники",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/86601/catalog_list_86601.jpg",
-    "oldPrice": "41.50",
-    "newPrice": "36.90",
-    "cardPrice": "--.--",
-    "quantity": 0
-  },
-  {
     "id": "5198",
     "name": "Рулет бісквітний 175г Своя Лінія молоко",
     "category": "Бісквіти та десерти",
@@ -3720,6 +3710,16 @@
     "quantity": 0
   },
   {
+    "id": "7082",
+    "name": "Печиво 180г Рошен цукрове MULTICAKE з начинкою какао",
+    "category": "Печиво, пряники",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/86601/catalog_list_86601.jpg",
+    "oldPrice": "41.50",
+    "newPrice": "36.90",
+    "cardPrice": "--.--",
+    "quantity": 0
+  },
+  {
     "id": "44265",
     "name": "Яйце 20 г Paw Patrol з молочного шоколаду з іграшкою м/уп Італія",
     "category": "Шоколад",
@@ -3740,16 +3740,6 @@
     "quantity": 0
   },
   {
-    "id": "3375",
-    "name": "Крупа 0,9 кг манна Attuale",
-    "category": "Крупи",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/2387/catalog_list_2387.jpg",
-    "oldPrice": "42.00",
-    "newPrice": "37.50",
-    "cardPrice": "--.--",
-    "quantity": 0
-  },
-  {
     "id": "10404",
     "name": "Мультизлакові снеки 250 г АВК Бам- Бук зі смаком згущенного молока",
     "category": "Вафлі",
@@ -3765,6 +3755,16 @@
     "category": "Пюре",
     "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/24379/catalog_list_24379.jpg",
     "oldPrice": "44.50",
+    "newPrice": "37.50",
+    "cardPrice": "--.--",
+    "quantity": 0
+  },
+  {
+    "id": "3375",
+    "name": "Крупа 0,9 кг манна Attuale",
+    "category": "Крупи",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/2387/catalog_list_2387.jpg",
+    "oldPrice": "42.00",
     "newPrice": "37.50",
     "cardPrice": "--.--",
     "quantity": 0
@@ -3840,21 +3840,21 @@
     "quantity": 0
   },
   {
-    "id": "13047",
-    "name": "Рідина від комарів 30 мл Своя Лінія",
-    "category": "Засоби проти комах",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/30085/catalog_list_30085.jpg",
-    "oldPrice": "51.60",
-    "newPrice": "38.80",
-    "cardPrice": "--.--",
-    "quantity": 0
-  },
-  {
     "id": "46845",
     "name": "Йoгуpт 0,9 кг День у День пepсик-маpакуйя 1% п/eт",
     "category": "Йогурти",
     "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/111519/catalog_list_111519.jpg",
     "oldPrice": "48.50",
+    "newPrice": "38.80",
+    "cardPrice": "--.--",
+    "quantity": 0
+  },
+  {
+    "id": "13047",
+    "name": "Рідина від комарів 30 мл Своя Лінія",
+    "category": "Засоби проти комах",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/30085/catalog_list_30085.jpg",
+    "oldPrice": "51.60",
     "newPrice": "38.80",
     "cardPrice": "--.--",
     "quantity": 0
@@ -4090,21 +4090,21 @@
     "quantity": 0
   },
   {
-    "id": "532",
-    "name": "Пластівці 0,5 кг De Luxe Foods&Goods Selected вівсяні крупнозернові",
-    "category": "Сухі сніданки",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/29217/catalog_list_29217.jpg",
-    "oldPrice": "51.80",
-    "newPrice": "42.50",
-    "cardPrice": "--.--",
-    "quantity": 0
-  },
-  {
     "id": "36377",
     "name": "Печиво 310 г Деліція Джулія цукрове зі смаком пряженого молока м/уп",
     "category": "Печиво, пряники",
     "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/76597/catalog_list_76597.jpg",
     "oldPrice": "54.50",
+    "newPrice": "42.50",
+    "cardPrice": "--.--",
+    "quantity": 0
+  },
+  {
+    "id": "532",
+    "name": "Пластівці 0,5 кг De Luxe Foods&Goods Selected вівсяні крупнозернові",
+    "category": "Сухі сніданки",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/29217/catalog_list_29217.jpg",
+    "oldPrice": "51.80",
     "newPrice": "42.50",
     "cardPrice": "--.--",
     "quantity": 0
@@ -4370,6 +4370,16 @@
     "quantity": 0
   },
   {
+    "id": "3282",
+    "name": "Кава 20г Jacobs Monarch розчина сублімована",
+    "category": "Кава, какао",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/63997/catalog_list_63997.jpg",
+    "oldPrice": "70.40",
+    "newPrice": "45.30",
+    "cardPrice": "--.--",
+    "quantity": 0
+  },
+  {
     "id": "18785",
     "name": "Йогурт 300 г Молокія густий білий по-грецьки 8%",
     "category": "Йогурти",
@@ -4380,12 +4390,12 @@
     "quantity": 0
   },
   {
-    "id": "3282",
-    "name": "Кава 20г Jacobs Monarch розчина сублімована",
-    "category": "Кава, какао",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/63997/catalog_list_63997.jpg",
-    "oldPrice": "70.40",
-    "newPrice": "45.30",
+    "id": "17807",
+    "name": "Прокладки 8 шт Kotex Ultra Soft Normal",
+    "category": "Гігієнічні прокладки/тампони",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/33037/catalog_list_33037.jpg",
+    "oldPrice": "--.--",
+    "newPrice": "45.50",
     "cardPrice": "--.--",
     "quantity": 0
   },
@@ -4410,22 +4420,22 @@
     "quantity": 0
   },
   {
-    "id": "17807",
-    "name": "Прокладки 8 шт Kotex Ultra Soft Normal",
-    "category": "Гігієнічні прокладки/тампони",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/33037/catalog_list_33037.jpg",
-    "oldPrice": "--.--",
-    "newPrice": "45.50",
-    "cardPrice": "--.--",
-    "quantity": 0
-  },
-  {
     "id": "4416",
     "name": "Прокладки 8 шт Kotex Ultra Normal",
     "category": "Гігієнічні прокладки/тампони",
     "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/113785/catalog_list_113785.jpg",
     "oldPrice": "--.--",
     "newPrice": "45.50",
+    "cardPrice": "--.--",
+    "quantity": 0
+  },
+  {
+    "id": "38699",
+    "name": "Молоко 0,9 кг Своя Лінія ультрапастеризоване 3,2% тетра-фіно(Ж)",
+    "category": "Молоко",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/110967/catalog_list_110967.jpg",
+    "oldPrice": "54.50",
+    "newPrice": "45.60",
     "cardPrice": "--.--",
     "quantity": 0
   },
@@ -4440,12 +4450,12 @@
     "quantity": 0
   },
   {
-    "id": "38699",
-    "name": "Молоко 0,9 кг Своя Лінія ультрапастеризоване 3,2% тетра-фіно(Ж)",
-    "category": "Молоко",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/110967/catalog_list_110967.jpg",
-    "oldPrice": "54.50",
-    "newPrice": "45.60",
+    "id": "215",
+    "name": "Пластівці 0,5 кг BRUGGEN Haferflocken extrazarte Вівсяні",
+    "category": "Сухі сніданки",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/26931/catalog_list_26931.jpg",
+    "oldPrice": "53.90",
+    "newPrice": "45.70",
     "cardPrice": "--.--",
     "quantity": 0
   },
@@ -4490,16 +4500,6 @@
     "quantity": 0
   },
   {
-    "id": "215",
-    "name": "Пластівці 0,5 кг BRUGGEN Haferflocken extrazarte Вівсяні",
-    "category": "Сухі сніданки",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/26931/catalog_list_26931.jpg",
-    "oldPrice": "53.90",
-    "newPrice": "45.70",
-    "cardPrice": "--.--",
-    "quantity": 0
-  },
-  {
     "id": "39257",
     "name": "Мило рідке 500 мл NAU COSMETICS Оливкове/Рожеві квіти п/флакон",
     "category": "Мило",
@@ -4530,16 +4530,6 @@
     "quantity": 0
   },
   {
-    "id": "3684",
-    "name": "Сир зернистий 150г Premialle полуниця 7%",
-    "category": "Сир кисломолочний",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/37225/catalog_list_37225.jpg",
-    "oldPrice": "56.90",
-    "newPrice": "45.90",
-    "cardPrice": "--.--",
-    "quantity": 0
-  },
-  {
     "id": "48143",
     "name": "Чипси 110 г CHIPSTERS картопляні зі смаком \"Пекельний халапеньо\" м/уп",
     "category": "Чипси",
@@ -4550,12 +4540,12 @@
     "quantity": 0
   },
   {
-    "id": "32125",
-    "name": "Сидр 1 л Своя Лінія зі смаком грейпфрута ПЕТ",
-    "category": "Слабоалкогольні напої",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/90975/catalog_list_90975.png",
-    "oldPrice": "--.--",
-    "newPrice": "46.30",
+    "id": "3684",
+    "name": "Сир зернистий 150г Premialle полуниця 7%",
+    "category": "Сир кисломолочний",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/37225/catalog_list_37225.jpg",
+    "oldPrice": "56.90",
+    "newPrice": "45.90",
     "cardPrice": "--.--",
     "quantity": 0
   },
@@ -4565,6 +4555,16 @@
     "category": "Туалетний папір",
     "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/20759/catalog_list_20759.jpg",
     "oldPrice": "52.80",
+    "newPrice": "46.30",
+    "cardPrice": "--.--",
+    "quantity": 0
+  },
+  {
+    "id": "32125",
+    "name": "Сидр 1 л Своя Лінія зі смаком грейпфрута ПЕТ",
+    "category": "Слабоалкогольні напої",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/90975/catalog_list_90975.png",
+    "oldPrice": "--.--",
     "newPrice": "46.30",
     "cardPrice": "--.--",
     "quantity": 0
@@ -4840,16 +4840,6 @@
     "quantity": 0
   },
   {
-    "id": "14661",
-    "name": "Нектар 0,95 л Садочок Яблучно-вишневий",
-    "category": "Соки, нектари",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/113895/catalog_list_113895.png",
-    "oldPrice": "58.30",
-    "newPrice": "49.30",
-    "cardPrice": "--.--",
-    "quantity": 0
-  },
-  {
     "id": "26815",
     "name": "Нектар 0,95 л Садочок Яблучно-гранатовий тетра-пак",
     "category": "Соки, нектари",
@@ -4860,12 +4850,12 @@
     "quantity": 0
   },
   {
-    "id": "15463",
-    "name": "Ковбаса 300 г Ковбасний ряд/Розумний вибір Куряча вар",
-    "category": "Ковбаса",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/19853/catalog_list_19853.jpg",
-    "oldPrice": "52.90",
-    "newPrice": "49.70",
+    "id": "14661",
+    "name": "Нектар 0,95 л Садочок Яблучно-вишневий",
+    "category": "Соки, нектари",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/113895/catalog_list_113895.png",
+    "oldPrice": "58.30",
+    "newPrice": "49.30",
     "cardPrice": "--.--",
     "quantity": 0
   },
@@ -4880,22 +4870,12 @@
     "quantity": 0
   },
   {
-    "id": "29055",
-    "name": "Томатна паста 460 г Розумний вибір 25% ск/б",
-    "category": "Соуси, кетчупи",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/52229/catalog_list_52229.jpg",
-    "oldPrice": "59.90",
-    "newPrice": "49.90",
-    "cardPrice": "--.--",
-    "quantity": 0
-  },
-  {
-    "id": "616",
-    "name": "Кавовий напій 100г Elite цикорій з екстрактами шипшини та обліпихи розчинний порошкоподібний",
-    "category": "Кава, какао",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/57539/catalog_list_57539.jpg",
-    "oldPrice": "60.80",
-    "newPrice": "49.90",
+    "id": "15463",
+    "name": "Ковбаса 300 г Ковбасний ряд/Розумний вибір Куряча вар",
+    "category": "Ковбаса",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/19853/catalog_list_19853.jpg",
+    "oldPrice": "52.90",
+    "newPrice": "49.70",
     "cardPrice": "--.--",
     "quantity": 0
   },
@@ -4915,6 +4895,26 @@
     "category": "Пральні порошки та засоби для прання",
     "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/113651/catalog_list_113651.jpg",
     "oldPrice": "66.80",
+    "newPrice": "49.90",
+    "cardPrice": "--.--",
+    "quantity": 0
+  },
+  {
+    "id": "29055",
+    "name": "Томатна паста 460 г Розумний вибір 25% ск/б",
+    "category": "Соуси, кетчупи",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/52229/catalog_list_52229.jpg",
+    "oldPrice": "59.90",
+    "newPrice": "49.90",
+    "cardPrice": "--.--",
+    "quantity": 0
+  },
+  {
+    "id": "616",
+    "name": "Кавовий напій 100г Elite цикорій з екстрактами шипшини та обліпихи розчинний порошкоподібний",
+    "category": "Кава, какао",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/57539/catalog_list_57539.jpg",
+    "oldPrice": "60.80",
     "newPrice": "49.90",
     "cardPrice": "--.--",
     "quantity": 0
@@ -5050,11 +5050,11 @@
     "quantity": 0
   },
   {
-    "id": "47371",
-    "name": "Нaпій 0,5 л Hell GREEN APPLE бeзaлкoгoльний eнepгeтичний гaзoвaний ж/б",
-    "category": "Енергетичні",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/111717/catalog_list_111717.jpg",
-    "oldPrice": "64.30",
+    "id": "4506",
+    "name": "Чіпси 100г Своя Лінія картопляні зі смаком сиру",
+    "category": "Чипси",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/98865/catalog_list_98865.png",
+    "oldPrice": "65.80",
     "newPrice": "51.70",
     "cardPrice": "--.--",
     "quantity": 0
@@ -5070,32 +5070,12 @@
     "quantity": 0
   },
   {
-    "id": "4506",
-    "name": "Чіпси 100г Своя Лінія картопляні зі смаком сиру",
-    "category": "Чипси",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/98865/catalog_list_98865.png",
-    "oldPrice": "65.80",
+    "id": "47371",
+    "name": "Нaпій 0,5 л Hell GREEN APPLE бeзaлкoгoльний eнepгeтичний гaзoвaний ж/б",
+    "category": "Енергетичні",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/111717/catalog_list_111717.jpg",
+    "oldPrice": "64.30",
     "newPrice": "51.70",
-    "cardPrice": "--.--",
-    "quantity": 0
-  },
-  {
-    "id": "30547",
-    "name": "Чипси 90 г Doritos кукурудзяні зі смаком сиру м/уп",
-    "category": "Снеки",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/55175/catalog_list_55175.png",
-    "oldPrice": "61.50",
-    "newPrice": "51.90",
-    "cardPrice": "--.--",
-    "quantity": 0
-  },
-  {
-    "id": "26581",
-    "name": "Сосиски 215 г Indykpol індичі з сиром твердим, копчені, приготовлені на пару газ/упак",
-    "category": "Сосиски, сардельки",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/117259/catalog_list_117259.jpg",
-    "oldPrice": "64.90",
-    "newPrice": "51.90",
     "cardPrice": "--.--",
     "quantity": 0
   },
@@ -5120,6 +5100,16 @@
     "quantity": 0
   },
   {
+    "id": "30547",
+    "name": "Чипси 90 г Doritos кукурудзяні зі смаком сиру м/уп",
+    "category": "Снеки",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/55175/catalog_list_55175.png",
+    "oldPrice": "61.50",
+    "newPrice": "51.90",
+    "cardPrice": "--.--",
+    "quantity": 0
+  },
+  {
     "id": "6111",
     "name": "Пиво безалкогольне 330 мл Hoegaarden White світле нефільтроване",
     "category": "Пиво",
@@ -5130,12 +5120,12 @@
     "quantity": 0
   },
   {
-    "id": "2950",
-    "name": "Ковбаса 80 г Добров Венеція с/в нарізка",
-    "category": "Ковбаса",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/3424/catalog_list_3424.jpg",
-    "oldPrice": "63.60",
-    "newPrice": "52.40",
+    "id": "26581",
+    "name": "Сосиски 215 г Indykpol індичі з сиром твердим, копчені, приготовлені на пару газ/упак",
+    "category": "Сосиски, сардельки",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/117259/catalog_list_117259.jpg",
+    "oldPrice": "64.90",
+    "newPrice": "51.90",
     "cardPrice": "--.--",
     "quantity": 0
   },
@@ -5145,6 +5135,16 @@
     "category": "Сухі сніданки",
     "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/111629/catalog_list_111629.jpg",
     "oldPrice": "74.90",
+    "newPrice": "52.40",
+    "cardPrice": "--.--",
+    "quantity": 0
+  },
+  {
+    "id": "2950",
+    "name": "Ковбаса 80 г Добров Венеція с/в нарізка",
+    "category": "Ковбаса",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/3424/catalog_list_3424.jpg",
+    "oldPrice": "63.60",
     "newPrice": "52.40",
     "cardPrice": "--.--",
     "quantity": 0
@@ -5210,16 +5210,6 @@
     "quantity": 0
   },
   {
-    "id": "14883",
-    "name": "Молоко 0,9 кг Фермерські традиції ультрапастеризоване 2,5%",
-    "category": "Молоко",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/20691/catalog_list_20691.jpg",
-    "oldPrice": "64.90",
-    "newPrice": "52.90",
-    "cardPrice": "--.--",
-    "quantity": 0
-  },
-  {
     "id": "33913",
     "name": "Печиво 300 г Delicia Мереживо здобне з глазур'ю к/уп",
     "category": "Печиво, пряники",
@@ -5235,6 +5225,16 @@
     "category": "Пюре",
     "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/73290/catalog_list_73290.png",
     "oldPrice": "67.40",
+    "newPrice": "52.90",
+    "cardPrice": "--.--",
+    "quantity": 0
+  },
+  {
+    "id": "14883",
+    "name": "Молоко 0,9 кг Фермерські традиції ультрапастеризоване 2,5%",
+    "category": "Молоко",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/20691/catalog_list_20691.jpg",
+    "oldPrice": "64.90",
     "newPrice": "52.90",
     "cardPrice": "--.--",
     "quantity": 0
@@ -5420,16 +5420,6 @@
     "quantity": 0
   },
   {
-    "id": "6615",
-    "name": "Чай (25 ф/п х 2 г) ТЕТ Лорд Грей чорний з ароматом бергамоту",
-    "category": "Чай",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/111299/catalog_list_111299.jpg",
-    "oldPrice": "71.40",
-    "newPrice": "55.30",
-    "cardPrice": "--.--",
-    "quantity": 0
-  },
-  {
     "id": "47407",
     "name": "Чай (25 ф/п Х 2г) ТЕТ Англійський до сніданку чорний байховий к/уп",
     "category": "Чай",
@@ -5445,6 +5435,16 @@
     "category": "Печиво, пряники",
     "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/1404/catalog_list_1404.jpg",
     "oldPrice": "66.30",
+    "newPrice": "55.30",
+    "cardPrice": "--.--",
+    "quantity": 0
+  },
+  {
+    "id": "6615",
+    "name": "Чай (25 ф/п х 2 г) ТЕТ Лорд Грей чорний з ароматом бергамоту",
+    "category": "Чай",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/111299/catalog_list_111299.jpg",
+    "oldPrice": "71.40",
     "newPrice": "55.30",
     "cardPrice": "--.--",
     "quantity": 0
@@ -5480,21 +5480,21 @@
     "quantity": 0
   },
   {
-    "id": "4395",
-    "name": "Ікра 100г Veladis Pate тріски",
-    "category": "Ікра та рибна паста",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/108407/catalog_list_108407.jpg",
-    "oldPrice": "69.40",
-    "newPrice": "55.90",
-    "cardPrice": "--.--",
-    "quantity": 0
-  },
-  {
     "id": "10696",
     "name": "Ковбаса 400г Ковбасний ряд/Розумний вибір Печінкова ліверна",
     "category": "Інші м'ясні вироби",
     "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/10867/catalog_list_10867.jpg",
     "oldPrice": "70.20",
+    "newPrice": "55.90",
+    "cardPrice": "--.--",
+    "quantity": 0
+  },
+  {
+    "id": "4395",
+    "name": "Ікра 100г Veladis Pate тріски",
+    "category": "Ікра та рибна паста",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/108407/catalog_list_108407.jpg",
+    "oldPrice": "69.40",
     "newPrice": "55.90",
     "cardPrice": "--.--",
     "quantity": 0
@@ -5590,36 +5590,6 @@
     "quantity": 0
   },
   {
-    "id": "33911",
-    "name": "Печиво 300 г Delicia Лісова ягідка здобне п/уп",
-    "category": "Печиво, пряники",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/91973/catalog_list_91973.jpg",
-    "oldPrice": "74.60",
-    "newPrice": "57.90",
-    "cardPrice": "--.--",
-    "quantity": 0
-  },
-  {
-    "id": "48107",
-    "name": "Сир плавлений 130 г Hochland Тост 36%, пластини п/yп Польща",
-    "category": "Сири плавлені",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/113603/catalog_list_113603.jpg",
-    "oldPrice": "77.70",
-    "newPrice": "57.90",
-    "cardPrice": "--.--",
-    "quantity": 0
-  },
-  {
-    "id": "1861",
-    "name": "Печиво 300г Розумний вибір Чик-Чик здобне",
-    "category": "Печиво, пряники",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/94085/catalog_list_94085.jpg",
-    "oldPrice": "77.60",
-    "newPrice": "57.90",
-    "cardPrice": "--.--",
-    "quantity": 0
-  },
-  {
     "id": "48",
     "name": "Пиво 0,5 л Stella Artois",
     "category": "Пиво",
@@ -5635,6 +5605,36 @@
     "category": "Овочі та фрукти свіжозаморожені",
     "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/112561/catalog_list_112561.jpg",
     "oldPrice": "72.40",
+    "newPrice": "57.90",
+    "cardPrice": "--.--",
+    "quantity": 0
+  },
+  {
+    "id": "48107",
+    "name": "Сир плавлений 130 г Hochland Тост 36%, пластини п/yп Польща",
+    "category": "Сири плавлені",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/113603/catalog_list_113603.jpg",
+    "oldPrice": "77.70",
+    "newPrice": "57.90",
+    "cardPrice": "--.--",
+    "quantity": 0
+  },
+  {
+    "id": "33911",
+    "name": "Печиво 300 г Delicia Лісова ягідка здобне п/уп",
+    "category": "Печиво, пряники",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/91973/catalog_list_91973.jpg",
+    "oldPrice": "74.60",
+    "newPrice": "57.90",
+    "cardPrice": "--.--",
+    "quantity": 0
+  },
+  {
+    "id": "1861",
+    "name": "Печиво 300г Розумний вибір Чик-Чик здобне",
+    "category": "Печиво, пряники",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/94085/catalog_list_94085.jpg",
+    "oldPrice": "77.60",
     "newPrice": "57.90",
     "cardPrice": "--.--",
     "quantity": 0
@@ -5700,6 +5700,16 @@
     "quantity": 0
   },
   {
+    "id": "4643",
+    "name": "Прокладки урологічні 14 шт Tena Lady Ultra Mini",
+    "category": "Гігієнічні прокладки/тампони",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/69289/catalog_list_69289.jpg",
+    "oldPrice": "77.60",
+    "newPrice": "59.90",
+    "cardPrice": "--.--",
+    "quantity": 0
+  },
+  {
     "id": "33915",
     "name": "Печиво 300 г Delicia Супер-Міні здобне п/уп",
     "category": "Печиво, пряники",
@@ -5715,16 +5725,6 @@
     "category": "Овочі та фрукти свіжозаморожені",
     "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/7306/catalog_list_7306.jpg",
     "oldPrice": "75.50",
-    "newPrice": "59.90",
-    "cardPrice": "--.--",
-    "quantity": 0
-  },
-  {
-    "id": "4643",
-    "name": "Прокладки урологічні 14 шт Tena Lady Ultra Mini",
-    "category": "Гігієнічні прокладки/тампони",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/69289/catalog_list_69289.jpg",
-    "oldPrice": "77.60",
     "newPrice": "59.90",
     "cardPrice": "--.--",
     "quantity": 0
@@ -5830,21 +5830,21 @@
     "quantity": 0
   },
   {
-    "id": "5258",
-    "name": "Сік 1л Hortex томатний відновлений пастеризований з м’якоттю, Польша",
-    "category": "Соки, нектари",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/22969/catalog_list_22969.jpg",
-    "oldPrice": "79.90",
-    "newPrice": "61.50",
-    "cardPrice": "--.--",
-    "quantity": 0
-  },
-  {
     "id": "47267",
     "name": "Фігурні вироби 400 г Своя лінія мікс зі смаком білого та молочного шоколаду м/уп",
     "category": "Сухі сніданки",
     "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/111631/catalog_list_111631.jpg",
     "oldPrice": "87.90",
+    "newPrice": "61.50",
+    "cardPrice": "--.--",
+    "quantity": 0
+  },
+  {
+    "id": "5258",
+    "name": "Сік 1л Hortex томатний відновлений пастеризований з м’якоттю, Польша",
+    "category": "Соки, нектари",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/22969/catalog_list_22969.jpg",
+    "oldPrice": "79.90",
     "newPrice": "61.50",
     "cardPrice": "--.--",
     "quantity": 0
@@ -5900,26 +5900,6 @@
     "quantity": 0
   },
   {
-    "id": "39665",
-    "name": "Мило рідке 400 мл Teo Nature Elixir Avocado/Grapefruit п/флакон",
-    "category": "Мило",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/99123/catalog_list_99123.png",
-    "oldPrice": "77.60",
-    "newPrice": "61.90",
-    "cardPrice": "--.--",
-    "quantity": 0
-  },
-  {
-    "id": "45231",
-    "name": "Чипси 125 г Люкс хвилясті зі смаком сиру м/уп",
-    "category": "Чипси",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/104753/catalog_list_104753.jpg",
-    "oldPrice": "73.30",
-    "newPrice": "61.90",
-    "cardPrice": "--.--",
-    "quantity": 0
-  },
-  {
     "id": "2817",
     "name": "Чай 100г De Luxe Foods&Goods Selected зелений байховий з жасмином",
     "category": "Чай",
@@ -5945,6 +5925,26 @@
     "category": "Догляд за волоссям",
     "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/27875/catalog_list_27875.jpg",
     "oldPrice": "82.90",
+    "newPrice": "61.90",
+    "cardPrice": "--.--",
+    "quantity": 0
+  },
+  {
+    "id": "39665",
+    "name": "Мило рідке 400 мл Teo Nature Elixir Avocado/Grapefruit п/флакон",
+    "category": "Мило",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/99123/catalog_list_99123.png",
+    "oldPrice": "77.60",
+    "newPrice": "61.90",
+    "cardPrice": "--.--",
+    "quantity": 0
+  },
+  {
+    "id": "45231",
+    "name": "Чипси 125 г Люкс хвилясті зі смаком сиру м/уп",
+    "category": "Чипси",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/104753/catalog_list_104753.jpg",
+    "oldPrice": "73.30",
     "newPrice": "61.90",
     "cardPrice": "--.--",
     "quantity": 0
@@ -6100,6 +6100,16 @@
     "quantity": 0
   },
   {
+    "id": "5986",
+    "name": "Пиво 330 мл Hoegaarden White",
+    "category": "Пиво",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/37205/catalog_list_37205.jpg",
+    "oldPrice": "78.90",
+    "newPrice": "65.20",
+    "cardPrice": "--.--",
+    "quantity": 0
+  },
+  {
     "id": "35775",
     "name": "Паста зубна 50 мл Parodontax Свіжість трав тюбик",
     "category": "Гігієна ротової порожнини",
@@ -6115,16 +6125,6 @@
     "category": "Пиво",
     "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/98121/catalog_list_98121.jpg",
     "oldPrice": "85.90",
-    "newPrice": "65.20",
-    "cardPrice": "--.--",
-    "quantity": 0
-  },
-  {
-    "id": "5986",
-    "name": "Пиво 330 мл Hoegaarden White",
-    "category": "Пиво",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/37205/catalog_list_37205.jpg",
-    "oldPrice": "78.90",
     "newPrice": "65.20",
     "cardPrice": "--.--",
     "quantity": 0
@@ -6380,16 +6380,6 @@
     "quantity": 0
   },
   {
-    "id": "4307",
-    "name": "Засіб миючий для посуду 450 мл Fairy Pure&clean",
-    "category": "Засоби для миття посуду",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/83229/catalog_list_83229.jpg",
-    "oldPrice": "--.--",
-    "newPrice": "68.90",
-    "cardPrice": "--.--",
-    "quantity": 0
-  },
-  {
     "id": "44319",
     "name": "Засіб для миття посуду 450 мл Fairy Зелене яблуко п/флакон",
     "category": "Засоби для миття посуду",
@@ -6415,6 +6405,16 @@
     "category": "Овочева та фруктова консервація",
     "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/105767/catalog_list_105767.jpg",
     "oldPrice": "80.60",
+    "newPrice": "68.90",
+    "cardPrice": "--.--",
+    "quantity": 0
+  },
+  {
+    "id": "4307",
+    "name": "Засіб миючий для посуду 450 мл Fairy Pure&clean",
+    "category": "Засоби для миття посуду",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/83229/catalog_list_83229.jpg",
+    "oldPrice": "--.--",
     "newPrice": "68.90",
     "cardPrice": "--.--",
     "quantity": 0
@@ -6490,21 +6490,21 @@
     "quantity": 0
   },
   {
-    "id": "4878",
-    "name": "Печиво 350г Розумний вибір здобне з вареним згущеним молоком",
-    "category": "Печиво, пряники",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/94087/catalog_list_94087.jpg",
-    "oldPrice": "95.90",
-    "newPrice": "71.90",
-    "cardPrice": "--.--",
-    "quantity": 0
-  },
-  {
     "id": "43369",
     "name": "Вареники 400 гр Своя Лінія з вишнею без кісточки заморожені п/ет",
     "category": "Вареники, Пельмені, Млинці",
     "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/117031/catalog_list_117031.jpg",
     "oldPrice": "86.90",
+    "newPrice": "71.90",
+    "cardPrice": "--.--",
+    "quantity": 0
+  },
+  {
+    "id": "4878",
+    "name": "Печиво 350г Розумний вибір здобне з вареним згущеним молоком",
+    "category": "Печиво, пряники",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/94087/catalog_list_94087.jpg",
+    "oldPrice": "95.90",
     "newPrice": "71.90",
     "cardPrice": "--.--",
     "quantity": 0
@@ -6590,21 +6590,21 @@
     "quantity": 0
   },
   {
-    "id": "468",
-    "name": "Гель для душу 250 мл Le Petit Marseillais в асортименті (промо)",
-    "category": "Гелі для душу",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/84043/catalog_list_84043.jpg",
-    "oldPrice": "--.--",
-    "newPrice": "73.50",
-    "cardPrice": "--.--",
-    "quantity": 0
-  },
-  {
     "id": "10819",
     "name": "Прокладки щоденні 46шт Kotex Super DEO",
     "category": "Гігієнічні прокладки/тампони",
     "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/52883/catalog_list_52883.jpg",
     "oldPrice": "109.80",
+    "newPrice": "73.50",
+    "cardPrice": "--.--",
+    "quantity": 0
+  },
+  {
+    "id": "468",
+    "name": "Гель для душу 250 мл Le Petit Marseillais в асортименті (промо)",
+    "category": "Гелі для душу",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/84043/catalog_list_84043.jpg",
+    "oldPrice": "--.--",
     "newPrice": "73.50",
     "cardPrice": "--.--",
     "quantity": 0
@@ -6920,16 +6920,6 @@
     "quantity": 0
   },
   {
-    "id": "15115",
-    "name": "Нектар 0,95л Sandora Банановий",
-    "category": "Соки, нектари",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/19465/catalog_list_19465.jpg",
-    "oldPrice": "92.40",
-    "newPrice": "80.80",
-    "cardPrice": "--.--",
-    "quantity": 0
-  },
-  {
     "id": "45223",
     "name": "Консерви 100 г Banga паштет з печінкою та ікрою тріски з/б",
     "category": "М'ясні та рибні консерви",
@@ -6955,6 +6945,16 @@
     "category": "Вино",
     "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/79769/catalog_list_79769.jpg",
     "oldPrice": "99.40",
+    "newPrice": "80.80",
+    "cardPrice": "--.--",
+    "quantity": 0
+  },
+  {
+    "id": "15115",
+    "name": "Нектар 0,95л Sandora Банановий",
+    "category": "Соки, нектари",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/19465/catalog_list_19465.jpg",
+    "oldPrice": "92.40",
     "newPrice": "80.80",
     "cardPrice": "--.--",
     "quantity": 0
@@ -7040,16 +7040,6 @@
     "quantity": 0
   },
   {
-    "id": "11881",
-    "name": "Прокладки 16 шт Kotex Ultra Normal",
-    "category": "Гігієнічні прокладки/тампони",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/113797/catalog_list_113797.jpg",
-    "oldPrice": "--.--",
-    "newPrice": "82.50",
-    "cardPrice": "--.--",
-    "quantity": 0
-  },
-  {
     "id": "6678",
     "name": "Десерт 232г Конті Бонжур зі смаком вишні",
     "category": "Цукерки",
@@ -7065,6 +7055,16 @@
     "category": "Цукерки",
     "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/32631/catalog_list_32631.jpg",
     "oldPrice": "102.50",
+    "newPrice": "82.50",
+    "cardPrice": "--.--",
+    "quantity": 0
+  },
+  {
+    "id": "11881",
+    "name": "Прокладки 16 шт Kotex Ultra Normal",
+    "category": "Гігієнічні прокладки/тампони",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/113797/catalog_list_113797.jpg",
+    "oldPrice": "--.--",
     "newPrice": "82.50",
     "cardPrice": "--.--",
     "quantity": 0
@@ -7240,6 +7240,16 @@
     "quantity": 0
   },
   {
+    "id": "48267",
+    "name": "Печиво 320 г Biscotti Барвена пісочне к/уп",
+    "category": "Печиво, пряники",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/114167/catalog_list_114167.jpg",
+    "oldPrice": "105.20",
+    "newPrice": "86.80",
+    "cardPrice": "--.--",
+    "quantity": 0
+  },
+  {
     "id": "36679",
     "name": "Равлик з корицею (булочка) 320 г (8х40г) Eesti Pagar швидкозаморожений п/ет",
     "category": "Тісто, Випічка, Піца",
@@ -7254,16 +7264,6 @@
     "name": "Нектap 0,95 л Sandora Апельсиновий Cocktail Collection тетpa-пaк",
     "category": "Соки, нектари",
     "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/87683/catalog_list_87683.jpg",
-    "oldPrice": "105.20",
-    "newPrice": "86.80",
-    "cardPrice": "--.--",
-    "quantity": 0
-  },
-  {
-    "id": "48267",
-    "name": "Печиво 320 г Biscotti Барвена пісочне к/уп",
-    "category": "Печиво, пряники",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/114167/catalog_list_114167.jpg",
     "oldPrice": "105.20",
     "newPrice": "86.80",
     "cardPrice": "--.--",
@@ -7310,6 +7310,16 @@
     "quantity": 0
   },
   {
+    "id": "29523",
+    "name": "Тістечко бісквітне 280 г Своя Лінія з молочною начинкою м/уп",
+    "category": "Бісквіти та десерти",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/51639/catalog_list_51639.jpg",
+    "oldPrice": "113.90",
+    "newPrice": "87.90",
+    "cardPrice": "--.--",
+    "quantity": 0
+  },
+  {
     "id": "43017",
     "name": "Паштет 130 г Profi Dworski з м`ясом кролика ск/б",
     "category": "М'ясні та рибні консерви",
@@ -7325,16 +7335,6 @@
     "category": "М'ясні та рибні консерви",
     "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/107559/catalog_list_107559.png",
     "oldPrice": "125.50",
-    "newPrice": "87.90",
-    "cardPrice": "--.--",
-    "quantity": 0
-  },
-  {
-    "id": "29523",
-    "name": "Тістечко бісквітне 280 г Своя Лінія з молочною начинкою м/уп",
-    "category": "Бісквіти та десерти",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/51639/catalog_list_51639.jpg",
-    "oldPrice": "113.90",
     "newPrice": "87.90",
     "cardPrice": "--.--",
     "quantity": 0
@@ -7390,20 +7390,20 @@
     "quantity": 0
   },
   {
-    "id": "5059",
-    "name": "Піна для гоління 200+100 мл Arko Men Cool",
+    "id": "3733",
+    "name": "Піна для гоління 200+100 мл Arko Men Sensitive (промо)",
     "category": "Засоби для гоління",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/95865/catalog_list_95865.jpg",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/95863/catalog_list_95863.jpg",
     "oldPrice": "116.50",
     "newPrice": "90.20",
     "cardPrice": "--.--",
     "quantity": 0
   },
   {
-    "id": "3733",
-    "name": "Піна для гоління 200+100 мл Arko Men Sensitive (промо)",
+    "id": "5059",
+    "name": "Піна для гоління 200+100 мл Arko Men Cool",
     "category": "Засоби для гоління",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/95863/catalog_list_95863.jpg",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/95865/catalog_list_95865.jpg",
     "oldPrice": "116.50",
     "newPrice": "90.20",
     "cardPrice": "--.--",
@@ -7450,20 +7450,20 @@
     "quantity": 0
   },
   {
-    "id": "1584",
-    "name": "Олія 0,85л Щедрий Дар Соняшникова рафінована",
+    "id": "11225",
+    "name": "Олія 0,85 л Щедрий Дар Соняшникова нерафінована",
     "category": "Олія та Оцет",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/57525/catalog_list_57525.jpg",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/57531/catalog_list_57531.jpg",
     "oldPrice": "96.51",
     "newPrice": "91.50",
     "cardPrice": "--.--",
     "quantity": 0
   },
   {
-    "id": "11225",
-    "name": "Олія 0,85 л Щедрий Дар Соняшникова нерафінована",
+    "id": "1584",
+    "name": "Олія 0,85л Щедрий Дар Соняшникова рафінована",
     "category": "Олія та Оцет",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/57531/catalog_list_57531.jpg",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/57525/catalog_list_57525.jpg",
     "oldPrice": "96.51",
     "newPrice": "91.50",
     "cardPrice": "--.--",
@@ -7540,21 +7540,21 @@
     "quantity": 0
   },
   {
-    "id": "15819",
-    "name": "Хінкалі 1кг Кавказькі Своя лінія",
-    "category": "Вареники, Пельмені, Млинці",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/109865/catalog_list_109865.jpg",
-    "oldPrice": "108.70",
-    "newPrice": "93.90",
-    "cardPrice": "--.--",
-    "quantity": 0
-  },
-  {
     "id": "4371",
     "name": "Ковбаски 120 г Maestro Кабанос зі свинини",
     "category": "Ковбаса",
     "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/48107/catalog_list_48107.jpg",
     "oldPrice": "--.--",
+    "newPrice": "93.90",
+    "cardPrice": "--.--",
+    "quantity": 0
+  },
+  {
+    "id": "15819",
+    "name": "Хінкалі 1кг Кавказькі Своя лінія",
+    "category": "Вареники, Пельмені, Млинці",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/109865/catalog_list_109865.jpg",
+    "oldPrice": "108.70",
     "newPrice": "93.90",
     "cardPrice": "--.--",
     "quantity": 0
@@ -7570,21 +7570,21 @@
     "quantity": 0
   },
   {
-    "id": "36799",
-    "name": "Пряник 480г Т Престиж Фамільний глазурований з яблучним повидлом к/уп",
-    "category": "Печиво, пряники",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/76117/catalog_list_76117.jpg",
-    "oldPrice": "114.60",
-    "newPrice": "94.60",
-    "cardPrice": "--.--",
-    "quantity": 0
-  },
-  {
     "id": "11851",
     "name": "Каша 170 г Milupa мультизлакова з яблуком, чорницею та ожиною безмолочна суха швидкорозчинна",
     "category": "Каши",
     "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/12321/catalog_list_12321.jpg",
     "oldPrice": "114.70",
+    "newPrice": "94.60",
+    "cardPrice": "--.--",
+    "quantity": 0
+  },
+  {
+    "id": "36799",
+    "name": "Пряник 480г Т Престиж Фамільний глазурований з яблучним повидлом к/уп",
+    "category": "Печиво, пряники",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/76117/catalog_list_76117.jpg",
+    "oldPrice": "114.60",
     "newPrice": "94.60",
     "cardPrice": "--.--",
     "quantity": 0
@@ -7900,21 +7900,21 @@
     "quantity": 0
   },
   {
-    "id": "580",
-    "name": "Сосиски 330г Добров Молочні",
-    "category": "Сосиски, сардельки",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/409/catalog_list_409.jpg",
-    "oldPrice": "122.30",
-    "newPrice": "106.90",
-    "cardPrice": "--.--",
-    "quantity": 0
-  },
-  {
     "id": "42617",
     "name": "Пельмені 0,6 кг Своя Лінія з м'ясом індички п/ет",
     "category": "Вареники, Пельмені, Млинці",
     "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/95127/catalog_list_95127.jpg",
     "oldPrice": "149.90",
+    "newPrice": "106.90",
+    "cardPrice": "--.--",
+    "quantity": 0
+  },
+  {
+    "id": "580",
+    "name": "Сосиски 330г Добров Молочні",
+    "category": "Сосиски, сардельки",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/409/catalog_list_409.jpg",
+    "oldPrice": "122.30",
     "newPrice": "106.90",
     "cardPrice": "--.--",
     "quantity": 0
@@ -8050,16 +8050,6 @@
     "quantity": 0
   },
   {
-    "id": "1051",
-    "name": "Каша 210г Milupa молочна мультизлакова з дитячим печивом",
-    "category": "Каши",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/5811/catalog_list_5811.jpg",
-    "oldPrice": "136.90",
-    "newPrice": "112.90",
-    "cardPrice": "--.--",
-    "quantity": 0
-  },
-  {
     "id": "31583",
     "name": "Пом'якшувач для тканин 0,77 л Silan Ароматерапія в асортименті концентрований п/флакон",
     "category": "Пральні порошки та засоби для прання",
@@ -8075,6 +8065,16 @@
     "category": "Засоби для чищення",
     "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/79675/catalog_list_79675.jpg",
     "oldPrice": "--.--",
+    "newPrice": "112.90",
+    "cardPrice": "--.--",
+    "quantity": 0
+  },
+  {
+    "id": "1051",
+    "name": "Каша 210г Milupa молочна мультизлакова з дитячим печивом",
+    "category": "Каши",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/5811/catalog_list_5811.jpg",
+    "oldPrice": "136.90",
     "newPrice": "112.90",
     "cardPrice": "--.--",
     "quantity": 0
@@ -8230,21 +8230,21 @@
     "quantity": 0
   },
   {
-    "id": "24353",
-    "name": "Ковбаски 0,6 кг для гриля #ЦЕМ'ЯСО Мюнхенські свинячі охолоджені газ/упак",
-    "category": "М'ясні напівфабрикати",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/80345/catalog_list_80345.jpg",
-    "oldPrice": "144.60",
-    "newPrice": "122.90",
-    "cardPrice": "--.--",
-    "quantity": 0
-  },
-  {
     "id": "8074",
     "name": "Пельмені 0,9 кг Своя лінія зі свининою та яловичиною",
     "category": "Вареники, Пельмені, Млинці",
     "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/111313/catalog_list_111313.jpg",
     "oldPrice": "165.60",
+    "newPrice": "122.90",
+    "cardPrice": "--.--",
+    "quantity": 0
+  },
+  {
+    "id": "24353",
+    "name": "Ковбаски 0,6 кг для гриля #ЦЕМ'ЯСО Мюнхенські свинячі охолоджені газ/упак",
+    "category": "М'ясні напівфабрикати",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/80345/catalog_list_80345.jpg",
+    "oldPrice": "144.60",
     "newPrice": "122.90",
     "cardPrice": "--.--",
     "quantity": 0
@@ -8330,21 +8330,21 @@
     "quantity": 0
   },
   {
-    "id": "29997",
-    "name": "Горілка 0,5л Хлібний Дар Класична 40%",
-    "category": "Горілка",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/55033/catalog_list_55033.png",
-    "oldPrice": "143.90",
-    "newPrice": "125.50",
-    "cardPrice": "--.--",
-    "quantity": 0
-  },
-  {
     "id": "38813",
     "name": "Наповнювач гігієнічний 3 кг Розумний вибір дерев. гран. з аром. лаванди для туалетів дом.тварин п/ет",
     "category": "Наповнювач",
     "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/83443/catalog_list_83443.jpg",
     "oldPrice": "150.40",
+    "newPrice": "125.50",
+    "cardPrice": "--.--",
+    "quantity": 0
+  },
+  {
+    "id": "29997",
+    "name": "Горілка 0,5л Хлібний Дар Класична 40%",
+    "category": "Горілка",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/55033/catalog_list_55033.png",
+    "oldPrice": "143.90",
     "newPrice": "125.50",
     "cardPrice": "--.--",
     "quantity": 0
@@ -8556,6 +8556,16 @@
     "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/54065/catalog_list_54065.jpg",
     "oldPrice": "165.90",
     "newPrice": "136.90",
+    "cardPrice": "--.--",
+    "quantity": 0
+  },
+  {
+    "id": "39005",
+    "name": "Піца 0,51 кг Пепероні к/уп (ФТ) ГП",
+    "category": "Піца",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/84459/catalog_list_84459.jpg",
+    "oldPrice": "163.00",
+    "newPrice": "137.90",
     "cardPrice": "--.--",
     "quantity": 0
   },
@@ -8920,21 +8930,21 @@
     "quantity": 0
   },
   {
-    "id": "7145",
-    "name": "Олія 0,5л Pietro Coricelli з виноградних кісточок",
-    "category": "Олія та Оцет",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/75853/catalog_list_75853.png",
-    "oldPrice": "208.20",
-    "newPrice": "166.60",
-    "cardPrice": "--.--",
-    "quantity": 0
-  },
-  {
     "id": "48167",
     "name": "Парфумовані гранули для білизни 195г Lenor п/флакон",
     "category": "Пральні порошки та засоби для прання",
     "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/113657/catalog_list_113657.jpg",
     "oldPrice": "222.90",
+    "newPrice": "166.60",
+    "cardPrice": "--.--",
+    "quantity": 0
+  },
+  {
+    "id": "7145",
+    "name": "Олія 0,5л Pietro Coricelli з виноградних кісточок",
+    "category": "Олія та Оцет",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/75853/catalog_list_75853.png",
+    "oldPrice": "208.20",
     "newPrice": "166.60",
     "cardPrice": "--.--",
     "quantity": 0
@@ -9420,21 +9430,21 @@
     "quantity": 0
   },
   {
-    "id": "47315",
-    "name": "Бренді 0,5 л SHABO V.S. 40% об ск/пл Україна",
-    "category": "Коньяк",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/111663/catalog_list_111663.jpg",
-    "oldPrice": "233.60",
-    "newPrice": "211.90",
-    "cardPrice": "--.--",
-    "quantity": 0
-  },
-  {
     "id": "39885",
     "name": "Горілка 0,7 л Nikita кукурудзяна 40% об ск/бут",
     "category": "Горілка",
     "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/87667/catalog_list_87667.jpg",
     "oldPrice": "254.90",
+    "newPrice": "211.90",
+    "cardPrice": "--.--",
+    "quantity": 0
+  },
+  {
+    "id": "47315",
+    "name": "Бренді 0,5 л SHABO V.S. 40% об ск/пл Україна",
+    "category": "Коньяк",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/111663/catalog_list_111663.jpg",
+    "oldPrice": "233.60",
     "newPrice": "211.90",
     "cardPrice": "--.--",
     "quantity": 0
