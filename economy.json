@@ -20,16 +20,6 @@
     "quantity": 0
   },
   {
-    "id": "44891",
-    "name": "Сир плавлений 70 г Своя лінія зі смаком грибів 38% фольга",
-    "category": "Сири плавлені",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/105515/catalog_list_105515.png",
-    "oldPrice": "22.90",
-    "newPrice": "13.90",
-    "cardPrice": "--.--",
-    "quantity": 0
-  },
-  {
     "id": "44465",
     "name": "Сир плавлений 70 г Своя лінія Фірмовий 38% фольга",
     "category": "Сири плавлені",
@@ -50,6 +40,16 @@
     "quantity": 0
   },
   {
+    "id": "44891",
+    "name": "Сир плавлений 70 г Своя лінія зі смаком грибів 38% фольга",
+    "category": "Сири плавлені",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/105515/catalog_list_105515.png",
+    "oldPrice": "22.90",
+    "newPrice": "13.90",
+    "cardPrice": "--.--",
+    "quantity": 0
+  },
+  {
     "id": "38473",
     "name": "Сирок глазурований 60 г Своя лінія 2 в 1 Вишня та Чорна смородина 15 % фольга",
     "category": "Сирки глазуровані",
@@ -60,10 +60,10 @@
     "quantity": 0
   },
   {
-    "id": "40433",
-    "name": "Морозиво 70 г Хрещатик пломбір фісташковий ваф. стак. п/ет",
+    "id": "39571",
+    "name": "Морозиво 70 г Хрещатик пломбір у ваф.стак. п/ет",
     "category": "Морозиво",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/89071/catalog_list_89071.jpg",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/86821/catalog_list_86821.jpg",
     "oldPrice": "34.90",
     "newPrice": "20.90",
     "cardPrice": "--.--",
@@ -84,6 +84,16 @@
     "name": "Морозиво 70 г Хрещатик пломбір Крем-Брюле у ваф.стак. п/ет",
     "category": "Морозиво",
     "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/86819/catalog_list_86819.jpg",
+    "oldPrice": "34.90",
+    "newPrice": "20.90",
+    "cardPrice": "--.--",
+    "quantity": 0
+  },
+  {
+    "id": "40433",
+    "name": "Морозиво 70 г Хрещатик пломбір фісташковий ваф. стак. п/ет",
+    "category": "Морозиво",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/89071/catalog_list_89071.jpg",
     "oldPrice": "34.90",
     "newPrice": "20.90",
     "cardPrice": "--.--",
@@ -114,16 +124,6 @@
     "name": "Чай (25 ф/п х 2г) Своя Лінія чорний байховий дрібний",
     "category": "Чай",
     "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/35201/catalog_list_35201.jpg",
-    "oldPrice": "34.90",
-    "newPrice": "22.50",
-    "cardPrice": "--.--",
-    "quantity": 0
-  },
-  {
-    "id": "8063",
-    "name": "Морозиво 85г Своя лінія Пломбір Великий Стакан",
-    "category": "Морозиво",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/40479/catalog_list_40479.jpg",
     "oldPrice": "34.90",
     "newPrice": "22.50",
     "cardPrice": "--.--",
@@ -200,16 +200,6 @@
     "quantity": 0
   },
   {
-    "id": "47809",
-    "name": "Морозиво 100 г Три Ведмеді \"Monaco\" зі смаком \"манго-меренга\" ріжок м/уп",
-    "category": "Морозиво",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/112959/catalog_list_112959.jpg",
-    "oldPrice": "65.90",
-    "newPrice": "31.50",
-    "cardPrice": "--.--",
-    "quantity": 0
-  },
-  {
     "id": "47807",
     "name": "Морозиво 100 г Три Ведмеді \"Monaco\" зі смаком \"макарон-юдзу\" ріжок м/уп",
     "category": "Морозиво",
@@ -224,6 +214,16 @@
     "name": "Морозиво 100 г Три Ведмеді \"Monaco\" \"Чорничний чізкейк\" двошарове ваф/ріжок м/уп",
     "category": "Морозиво",
     "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/68781/catalog_list_68781.jpg",
+    "oldPrice": "65.90",
+    "newPrice": "31.50",
+    "cardPrice": "--.--",
+    "quantity": 0
+  },
+  {
+    "id": "47809",
+    "name": "Морозиво 100 г Три Ведмеді \"Monaco\" зі смаком \"манго-меренга\" ріжок м/уп",
+    "category": "Морозиво",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/112959/catalog_list_112959.jpg",
     "oldPrice": "65.90",
     "newPrice": "31.50",
     "cardPrice": "--.--",
@@ -250,26 +250,6 @@
     "quantity": 0
   },
   {
-    "id": "42857",
-    "name": "Мак.вир. 0,5кг De Luxe Foods&Goods Selected Спагеті цільнозернові м/уп",
-    "category": "Макаронні вироби",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/95699/catalog_list_95699.jpg",
-    "oldPrice": "57.90",
-    "newPrice": "42.90",
-    "cardPrice": "--.--",
-    "quantity": 0
-  },
-  {
-    "id": "2580",
-    "name": "Мак.вир. 0,5кг De Luxe Foods&Goods Selected Пера",
-    "category": "Макаронні вироби",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/69985/catalog_list_69985.jpg",
-    "oldPrice": "57.90",
-    "newPrice": "42.90",
-    "cardPrice": "--.--",
-    "quantity": 0
-  },
-  {
     "id": "1771",
     "name": "Мак.виp. 0,5 кг De Luxe Foods&Goods Selected Спіралі",
     "category": "Макаронні вироби",
@@ -280,10 +260,50 @@
     "quantity": 0
   },
   {
+    "id": "42857",
+    "name": "Мак.вир. 0,5кг De Luxe Foods&Goods Selected Спагеті цільнозернові м/уп",
+    "category": "Макаронні вироби",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/95699/catalog_list_95699.jpg",
+    "oldPrice": "57.90",
+    "newPrice": "42.90",
+    "cardPrice": "--.--",
+    "quantity": 0
+  },
+  {
     "id": "2579",
     "name": "Мак.вир. 0,5кг De Luxe Foods&Goods Selected Спагеті",
     "category": "Макаронні вироби",
     "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/69983/catalog_list_69983.jpg",
+    "oldPrice": "57.90",
+    "newPrice": "42.90",
+    "cardPrice": "--.--",
+    "quantity": 0
+  },
+  {
+    "id": "5236",
+    "name": "Мак.виp. 0,5 кг De Luxe Foods&Goods Selected Витки Amorosi",
+    "category": "Макаронні вироби",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/69999/catalog_list_69999.jpg",
+    "oldPrice": "57.90",
+    "newPrice": "42.90",
+    "cardPrice": "--.--",
+    "quantity": 0
+  },
+  {
+    "id": "42855",
+    "name": "Мак.вир. 0,5кг De Luxe Foods&Goods Selected Рігатоні м/уп",
+    "category": "Макаронні вироби",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/95697/catalog_list_95697.jpg",
+    "oldPrice": "57.90",
+    "newPrice": "42.90",
+    "cardPrice": "--.--",
+    "quantity": 0
+  },
+  {
+    "id": "2580",
+    "name": "Мак.вир. 0,5кг De Luxe Foods&Goods Selected Пера",
+    "category": "Макаронні вироби",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/69985/catalog_list_69985.jpg",
     "oldPrice": "57.90",
     "newPrice": "42.90",
     "cardPrice": "--.--",
@@ -310,22 +330,12 @@
     "quantity": 0
   },
   {
-    "id": "42855",
-    "name": "Мак.вир. 0,5кг De Luxe Foods&Goods Selected Рігатоні м/уп",
-    "category": "Макаронні вироби",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/95697/catalog_list_95697.jpg",
-    "oldPrice": "57.90",
-    "newPrice": "42.90",
-    "cardPrice": "--.--",
-    "quantity": 0
-  },
-  {
-    "id": "5236",
-    "name": "Мак.виp. 0,5 кг De Luxe Foods&Goods Selected Витки Amorosi",
-    "category": "Макаронні вироби",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/69999/catalog_list_69999.jpg",
-    "oldPrice": "57.90",
-    "newPrice": "42.90",
+    "id": "1829",
+    "name": "Чіпси 120г Lay's Сир чеддер і цибуля",
+    "category": "Чипси",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/1774/catalog_list_1774.jpg",
+    "oldPrice": "70.50",
+    "newPrice": "43.50",
     "cardPrice": "--.--",
     "quantity": 0
   },
@@ -334,16 +344,6 @@
     "name": "Чипси 120 г Lay's картопляні зі смаком сметани та зелені м/уп",
     "category": "Чипси",
     "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/107521/catalog_list_107521.jpg",
-    "oldPrice": "70.50",
-    "newPrice": "43.50",
-    "cardPrice": "--.--",
-    "quantity": 0
-  },
-  {
-    "id": "1829",
-    "name": "Чіпси 120г Lay's Сир чеддер і цибуля",
-    "category": "Чипси",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/1774/catalog_list_1774.jpg",
     "oldPrice": "70.50",
     "newPrice": "43.50",
     "cardPrice": "--.--",
@@ -400,10 +400,10 @@
     "quantity": 0
   },
   {
-    "id": "41623",
-    "name": "Напій соковмісний 1,5 л Розумнирй вибір смак Ананасу ПЕТ",
+    "id": "41619",
+    "name": "Напій соковий 1,5 л Розумний вибір Виноград-гранат ПЕТ",
     "category": "Соки, нектари",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/117495/catalog_list_117495.jpg",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/117491/catalog_list_117491.jpg",
     "oldPrice": "72.50",
     "newPrice": "52.50",
     "cardPrice": "--.--",
@@ -420,10 +420,10 @@
     "quantity": 0
   },
   {
-    "id": "41619",
-    "name": "Напій соковий 1,5 л Розумний вибір Виноград-гранат ПЕТ",
+    "id": "41623",
+    "name": "Напій соковмісний 1,5 л Розумнирй вибір смак Ананасу ПЕТ",
     "category": "Соки, нектари",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/117491/catalog_list_117491.jpg",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/117495/catalog_list_117495.jpg",
     "oldPrice": "72.50",
     "newPrice": "52.50",
     "cardPrice": "--.--",
@@ -440,16 +440,6 @@
     "quantity": 0
   },
   {
-    "id": "43759",
-    "name": "Сир твердий 135 г Комо Голландія пластини 45% фас флоу-пак",
-    "category": "Сири тверді",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/99325/catalog_list_99325.jpg",
-    "oldPrice": "87.90",
-    "newPrice": "56.50",
-    "cardPrice": "--.--",
-    "quantity": 0
-  },
-  {
     "id": "41617",
     "name": "Нeктap 1,5 л Розумний вибір Тoмaтний ПЕТ",
     "category": "Соки, нектари",
@@ -460,22 +450,12 @@
     "quantity": 0
   },
   {
-    "id": "43761",
-    "name": "Сир твердий 135 г Комо Традиційний пластини 50% флоу-пак",
+    "id": "43759",
+    "name": "Сир твердий 135 г Комо Голландія пластини 45% фас флоу-пак",
     "category": "Сири тверді",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/99327/catalog_list_99327.jpg",
-    "oldPrice": "88.90",
-    "newPrice": "57.50",
-    "cardPrice": "--.--",
-    "quantity": 0
-  },
-  {
-    "id": "7822",
-    "name": "Паста сиркова 135г Laciaty з лососем та кропом 57,5%",
-    "category": "Сири плавлені",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/6938/catalog_list_6938.jpg",
-    "oldPrice": "79.90",
-    "newPrice": "57.90",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/99325/catalog_list_99325.jpg",
+    "oldPrice": "87.90",
+    "newPrice": "56.50",
     "cardPrice": "--.--",
     "quantity": 0
   },
@@ -506,36 +486,6 @@
     "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/6554/catalog_list_6554.jpg",
     "oldPrice": "87.90",
     "newPrice": "63.90",
-    "cardPrice": "--.--",
-    "quantity": 0
-  },
-  {
-    "id": "2892",
-    "name": "Пивo 2,4л Львівськe 1715 Пpeміум Лaгep",
-    "category": "Пиво",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/115829/catalog_list_115829.jpg",
-    "oldPrice": "117.80",
-    "newPrice": "64.50",
-    "cardPrice": "--.--",
-    "quantity": 0
-  },
-  {
-    "id": "5320",
-    "name": "Сир твердий 160г Звенигора Сметанковий 50%",
-    "category": "Сири тверді",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/111311/catalog_list_111311.jpg",
-    "oldPrice": "99.90",
-    "newPrice": "65.90",
-    "cardPrice": "--.--",
-    "quantity": 0
-  },
-  {
-    "id": "5319",
-    "name": "Сир твердий 160г Звенигора Звенигородський 50%",
-    "category": "Сири тверді",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/111309/catalog_list_111309.jpg",
-    "oldPrice": "99.90",
-    "newPrice": "65.90",
     "cardPrice": "--.--",
     "quantity": 0
   },
@@ -620,16 +570,6 @@
     "quantity": 0
   },
   {
-    "id": "26099",
-    "name": "Морозиво 1 кг Розумний вибір з какао п/ет (Ласка)",
-    "category": "Морозиво",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/35283/catalog_list_35283.jpg",
-    "oldPrice": "150.90",
-    "newPrice": "112.90",
-    "cardPrice": "--.--",
-    "quantity": 0
-  },
-  {
     "id": "33899",
     "name": "Морозиво 0,55 кг Три Ведмеді \"Monaco Dessert\" \"Panna Cotta\" пл/лоток",
     "category": "Морозиво",
@@ -640,42 +580,12 @@
     "quantity": 0
   },
   {
-    "id": "24905",
-    "name": "Нарізка асорті 180г Глобино Брауншвейгська, Папероні, Балик Дарницький, вак/упак",
-    "category": "Ковбаса",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/32733/catalog_list_32733.jpg",
-    "oldPrice": "184.90",
-    "newPrice": "131.90",
-    "cardPrice": "--.--",
-    "quantity": 0
-  },
-  {
     "id": "5194",
     "name": "Ковбаса 0,5 кг М'ясна лавка/Своя лінія Шинкова н/к",
     "category": "Ковбаса",
     "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/3077/catalog_list_3077.jpg",
     "oldPrice": "227.70",
     "newPrice": "135.90",
-    "cardPrice": "--.--",
-    "quantity": 0
-  },
-  {
-    "id": "33145",
-    "name": "Морозиво 0,75 кг Хрещатик пломбір 15% п/ет",
-    "category": "Морозиво",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/65953/catalog_list_65953.jpg",
-    "oldPrice": "258.90",
-    "newPrice": "154.90",
-    "cardPrice": "--.--",
-    "quantity": 0
-  },
-  {
-    "id": "40665",
-    "name": "Морозиво 0,75 кг Хрещатик пломбір з наповнювачем \"полуниця\" п/ет",
-    "category": "Морозиво",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/89731/catalog_list_89731.jpg",
-    "oldPrice": "258.90",
-    "newPrice": "154.90",
     "cardPrice": "--.--",
     "quantity": 0
   },
@@ -716,26 +626,6 @@
     "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/112589/catalog_list_112589.jpg",
     "oldPrice": "239.45",
     "newPrice": "189.90",
-    "cardPrice": "--.--",
-    "quantity": 0
-  },
-  {
-    "id": "15015",
-    "name": "Сьомга 180 г Своя лінія слабосолена філе-шматок на шкірі",
-    "category": "Риба",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/54341/catalog_list_54341.png",
-    "oldPrice": "275.90",
-    "newPrice": "205.90",
-    "cardPrice": "--.--",
-    "quantity": 0
-  },
-  {
-    "id": "15853",
-    "name": "Крильця Своя лінія курячі",
-    "category": "Нарізки та делікатеси",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/115557/catalog_list_115557.png",
-    "oldPrice": "284.69",
-    "newPrice": "208.89",
     "cardPrice": "--.--",
     "quantity": 0
   },
