@@ -3251,7 +3251,7 @@
   },
   {
     "id": "48903",
-    "name": "Напій 250 мл XIXO SD CLASSIC LEMONADE зі смаком лимона газований ж/б",
+    "name": "Напій 250 мл XIXO CLASSIC LEMONADE зі смаком лимона газований ж/б",
     "category": "Напої",
     "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/116455/catalog_list_116455.jpg",
     "oldPrice": "--.--",
@@ -3261,7 +3261,7 @@
   },
   {
     "id": "48905",
-    "name": "Напій 250 мл XIXO SD PINK LEMONADE смак ягода та лайм газований ж/б",
+    "name": "Напій 250 мл XIXO PINK LEMONADE смак ягода та лайм газований ж/б",
     "category": "Напої",
     "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/116457/catalog_list_116457.jpg",
     "oldPrice": "--.--",
@@ -5620,16 +5620,6 @@
     "quantity": 0
   },
   {
-    "id": "35143",
-    "name": "Зефір 300 г Т Престиж з ароматом крем-брюле м/уп",
-    "category": "Круасани та зефір",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/72629/catalog_list_72629.jpg",
-    "oldPrice": "--.--",
-    "newPrice": "60.40",
-    "cardPrice": "--.--",
-    "quantity": 0
-  },
-  {
     "id": "2409",
     "name": "Набір щітка зубна 1+1 шт Colgate Extra Clean середньої жорсткості",
     "category": "Гігієна ротової порожнини",
@@ -5670,16 +5660,6 @@
     "quantity": 0
   },
   {
-    "id": "33961",
-    "name": "Засіб миючий синтетичний 300 г Persil Color автомат порошок к/уп",
-    "category": "Пральні порошки та засоби для прання",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/67577/catalog_list_67577.jpg",
-    "oldPrice": "--.--",
-    "newPrice": "60.90",
-    "cardPrice": "--.--",
-    "quantity": 0
-  },
-  {
     "id": "37555",
     "name": "Сухі сніданки 175 г oho подушечки Cookie pillows м/уп",
     "category": "Сухі сніданки",
@@ -5687,6 +5667,16 @@
     "oldPrice": "--.--",
     "newPrice": "60.90",
     "cardPrice": "57.79",
+    "quantity": 0
+  },
+  {
+    "id": "33961",
+    "name": "Засіб миючий синтетичний 300 г Persil Color автомат порошок к/уп",
+    "category": "Пральні порошки та засоби для прання",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/67577/catalog_list_67577.jpg",
+    "oldPrice": "--.--",
+    "newPrice": "60.90",
+    "cardPrice": "--.--",
     "quantity": 0
   },
   {
@@ -5730,16 +5720,6 @@
     "quantity": 0
   },
   {
-    "id": "40051",
-    "name": "Крем-сир 170 г Ферма Вершковий 50% п/ванночка",
-    "category": "Сири плавлені",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/91373/catalog_list_91373.jpg",
-    "oldPrice": "79.90",
-    "newPrice": "61.90",
-    "cardPrice": "--.--",
-    "quantity": 0
-  },
-  {
     "id": "2593",
     "name": "Прокладки 10 шт Libresse Natural Care Ultra Normal clip",
     "category": "Гігієнічні прокладки/тампони",
@@ -5757,6 +5737,16 @@
     "oldPrice": "--.--",
     "newPrice": "61.90",
     "cardPrice": "58.74",
+    "quantity": 0
+  },
+  {
+    "id": "40051",
+    "name": "Крем-сир 170 г Ферма Вершковий 50% п/ванночка",
+    "category": "Сири плавлені",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/91373/catalog_list_91373.jpg",
+    "oldPrice": "79.90",
+    "newPrice": "61.90",
+    "cardPrice": "--.--",
     "quantity": 0
   },
   {
@@ -6624,6 +6614,16 @@
     "name": "Печиво 300г Розумний вибір Чик-Чик здобне",
     "category": "Печиво, пряники",
     "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/94085/catalog_list_94085.jpg",
+    "oldPrice": "--.--",
+    "newPrice": "77.60",
+    "cardPrice": "73.64",
+    "quantity": 0
+  },
+  {
+    "id": "35143",
+    "name": "Зефір 300 г Т Престиж з ароматом крем-брюле м/уп",
+    "category": "Круасани та зефір",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/72629/catalog_list_72629.jpg",
     "oldPrice": "--.--",
     "newPrice": "77.60",
     "cardPrice": "73.64",
