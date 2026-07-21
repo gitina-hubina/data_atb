@@ -280,21 +280,21 @@
     "quantity": 0
   },
   {
-    "id": "42057",
-    "name": "Корм 100 г Розумний вибір консервований для дорослих котів з яловичиною м/уп",
-    "category": "Корм",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/92999/catalog_list_92999.jpg",
-    "oldPrice": "12.90",
-    "newPrice": "10.90",
-    "cardPrice": "--.--",
-    "quantity": 0
-  },
-  {
     "id": "42059",
     "name": "Картопляне пюре 37 г День у День швидкого приготування з ароматом сиру м/уп",
     "category": "Їжа швидкого приготування",
     "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/93001/catalog_list_93001.jpg",
     "oldPrice": "15.50",
+    "newPrice": "10.90",
+    "cardPrice": "--.--",
+    "quantity": 0
+  },
+  {
+    "id": "42057",
+    "name": "Корм 100 г Розумний вибір консервований для дорослих котів з яловичиною м/уп",
+    "category": "Корм",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/92999/catalog_list_92999.jpg",
+    "oldPrice": "12.90",
     "newPrice": "10.90",
     "cardPrice": "--.--",
     "quantity": 0
@@ -680,21 +680,21 @@
     "quantity": 0
   },
   {
-    "id": "41905",
-    "name": "Пластини від комарів 10 шт Своя Лінія блістер",
-    "category": "Засоби проти комах",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/92425/catalog_list_92425.jpg",
-    "oldPrice": "19.50",
-    "newPrice": "14.60",
-    "cardPrice": "--.--",
-    "quantity": 0
-  },
-  {
     "id": "45237",
     "name": "Приправа 60г Своя Лінія 12 ОВОЧІВ універсальна гранульована м/уп",
     "category": "Приправи та маринади",
     "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/105381/catalog_list_105381.jpg",
     "oldPrice": "17.90",
+    "newPrice": "14.60",
+    "cardPrice": "--.--",
+    "quantity": 0
+  },
+  {
+    "id": "41905",
+    "name": "Пластини від комарів 10 шт Своя Лінія блістер",
+    "category": "Засоби проти комах",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/92425/catalog_list_92425.jpg",
+    "oldPrice": "19.50",
     "newPrice": "14.60",
     "cardPrice": "--.--",
     "quantity": 0
@@ -2630,12 +2630,12 @@
     "quantity": 0
   },
   {
-    "id": "49493",
-    "name": "Напій 0,75 л Ustronianka ізотонічний зі смаком мультифрукта з додаванням вітамінів ПЕТ Польща",
-    "category": "Мінеральна і питна вода",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/116963/catalog_list_116963.png",
-    "oldPrice": "43.90",
-    "newPrice": "33.60",
+    "id": "34365",
+    "name": "Печиво 125 г BISCOTTI Сієно здобне м/уп",
+    "category": "Печиво, пряники",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/69139/catalog_list_69139.jpg",
+    "oldPrice": "44.30",
+    "newPrice": "33.70",
     "cardPrice": "--.--",
     "quantity": 0
   },
@@ -2650,32 +2650,12 @@
     "quantity": 0
   },
   {
-    "id": "34365",
-    "name": "Печиво 125 г BISCOTTI Сієно здобне м/уп",
-    "category": "Печиво, пряники",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/69139/catalog_list_69139.jpg",
-    "oldPrice": "44.30",
-    "newPrice": "33.70",
-    "cardPrice": "--.--",
-    "quantity": 0
-  },
-  {
     "id": "987",
     "name": "Шоколад 38г Корона Максфан молочний з мармеладом, печивом і вибуховою карамеллю",
     "category": "Батончики",
     "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/697/catalog_list_697.jpg",
     "oldPrice": "37.90",
     "newPrice": "33.70",
-    "cardPrice": "--.--",
-    "quantity": 0
-  },
-  {
-    "id": "48031",
-    "name": "Квас 0,5 л Квас Тарас Чорний живого бродіння ж/б",
-    "category": "Квас",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/113403/catalog_list_113403.jpg",
-    "oldPrice": "--.--",
-    "newPrice": "33.80",
     "cardPrice": "--.--",
     "quantity": 0
   },
@@ -2697,6 +2677,16 @@
     "oldPrice": "--.--",
     "newPrice": "33.80",
     "cardPrice": "32.08",
+    "quantity": 0
+  },
+  {
+    "id": "48031",
+    "name": "Квас 0,5 л Квас Тарас Чорний живого бродіння ж/б",
+    "category": "Квас",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/113403/catalog_list_113403.jpg",
+    "oldPrice": "--.--",
+    "newPrice": "33.80",
+    "cardPrice": "--.--",
     "quantity": 0
   },
   {
@@ -3244,16 +3234,6 @@
     "name": "Вафлі 93 г Lekorna Medallions зі смаком сиру та з гімалайською сіллю та часником м/уп",
     "category": "Хлібці",
     "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/106927/catalog_list_106927.jpg",
-    "oldPrice": "--.--",
-    "newPrice": "37.80",
-    "cardPrice": "35.87",
-    "quantity": 0
-  },
-  {
-    "id": "45877",
-    "name": "Вафлі 103 г Lekorna Medallions зі смаком яблука та кориці і імбиру та лимона м/уп",
-    "category": "Вафлі",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/106933/catalog_list_106933.jpg",
     "oldPrice": "--.--",
     "newPrice": "37.80",
     "cardPrice": "35.87",
@@ -6400,16 +6380,6 @@
     "quantity": 0
   },
   {
-    "id": "48357",
-    "name": "Спрей 120 мл Extravel Classic від комарів п/флакон",
-    "category": "Засоби проти комах",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/114461/catalog_list_114461.png",
-    "oldPrice": "100.90",
-    "newPrice": "84.60",
-    "cardPrice": "--.--",
-    "quantity": 0
-  },
-  {
     "id": "23419",
     "name": "Дезодоранти 50 мл Fa (Energy Boost  /Спорт/Кавовий Вибух) антиперспірант кульковий ск/бут",
     "category": "Дезодоранти",
@@ -7610,16 +7580,6 @@
     "quantity": 0
   },
   {
-    "id": "45793",
-    "name": "Піцa 470 г Гавайська к/уп (МХП) ГП",
-    "category": "Піца",
-    "imageUrl": "/image/none.webp",
-    "oldPrice": "160.00",
-    "newPrice": "131.90",
-    "cardPrice": "--.--",
-    "quantity": 0
-  },
-  {
     "id": "144",
     "name": "Горілка 0,5л Козацька Рада Класична 40%",
     "category": "Горілка",
@@ -7690,16 +7650,6 @@
     "quantity": 0
   },
   {
-    "id": "2391",
-    "name": "Засіб універсальний 1л Domestos Свіжість Атлантики",
-    "category": "Засоби для чищення",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/95075/catalog_list_95075.jpg",
-    "oldPrice": "156.80",
-    "newPrice": "138.90",
-    "cardPrice": "--.--",
-    "quantity": 0
-  },
-  {
     "id": "49167",
     "name": "Дезодорант 150 мл Old Spice Cold Spice антиперспірант аерозоль",
     "category": "Дезодоранти",
@@ -7717,6 +7667,16 @@
     "oldPrice": "--.--",
     "newPrice": "138.90",
     "cardPrice": "131.82",
+    "quantity": 0
+  },
+  {
+    "id": "2391",
+    "name": "Засіб універсальний 1л Domestos Свіжість Атлантики",
+    "category": "Засоби для чищення",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/95075/catalog_list_95075.jpg",
+    "oldPrice": "156.80",
+    "newPrice": "138.90",
+    "cardPrice": "--.--",
     "quantity": 0
   },
   {
@@ -9100,6 +9060,16 @@
     "quantity": 0
   },
   {
+    "id": "48617",
+    "name": "Торт 0,65 кг Вацак Rainbow к/уп",
+    "category": "Торти і тістечка",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/115037/catalog_list_115037.jpg",
+    "oldPrice": "340.20",
+    "newPrice": "284.90",
+    "cardPrice": "--.--",
+    "quantity": 0
+  },
+  {
     "id": "49515",
     "name": "Цукерки Жако Пташине молоко дубайський смак та зі смаком кокосу глазуровані вагові",
     "category": "Цукерки",
@@ -9610,20 +9580,20 @@
     "quantity": 0
   },
   {
-    "id": "6666",
-    "name": "Підгузники 40 шт Huggies Extra Care (3) 5-9 кг дитячі м/уп",
+    "id": "10817",
+    "name": "Підгузники 33 шт Huggies Extra Care (4) дитячі м/уп",
     "category": "Підгузки, пелюшки",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/68705/catalog_list_68705.jpg",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/69541/catalog_list_69541.jpg",
     "oldPrice": "--.--",
     "newPrice": "518.50",
     "cardPrice": "--.--",
     "quantity": 0
   },
   {
-    "id": "10817",
-    "name": "Підгузники 33 шт Huggies Extra Care (4) дитячі м/уп",
+    "id": "6666",
+    "name": "Підгузники 40 шт Huggies Extra Care (3) 5-9 кг дитячі м/уп",
     "category": "Підгузки, пелюшки",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/69541/catalog_list_69541.jpg",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/68705/catalog_list_68705.jpg",
     "oldPrice": "--.--",
     "newPrice": "518.50",
     "cardPrice": "--.--",
