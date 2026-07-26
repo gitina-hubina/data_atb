@@ -100,21 +100,21 @@
     "quantity": 0
   },
   {
-    "id": "49079",
-    "name": "Каша 40 г Своя Лінія вівсяна миттєвого приготування з вершками, малиною та ожиною м/уп",
-    "category": "Їжа швидкого приготування",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/115821/catalog_list_115821.jpg",
-    "oldPrice": "11.90",
-    "newPrice": "8.90",
-    "cardPrice": "--.--",
-    "quantity": 0
-  },
-  {
     "id": "48413",
     "name": "Липка стрічка від мух ТМ Розумний вибір 1 шт.",
     "category": "Засоби проти комах",
     "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/114581/catalog_list_114581.jpg",
     "oldPrice": "--.--",
+    "newPrice": "8.90",
+    "cardPrice": "--.--",
+    "quantity": 0
+  },
+  {
+    "id": "49079",
+    "name": "Каша 40 г Своя Лінія вівсяна миттєвого приготування з вершками, малиною та ожиною м/уп",
+    "category": "Їжа швидкого приготування",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/115821/catalog_list_115821.jpg",
+    "oldPrice": "11.90",
     "newPrice": "8.90",
     "cardPrice": "--.--",
     "quantity": 0
@@ -2726,16 +2726,6 @@
     "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/81685/catalog_list_81685.jpg",
     "oldPrice": "42.30",
     "newPrice": "33.50",
-    "cardPrice": "--.--",
-    "quantity": 0
-  },
-  {
-    "id": "49495",
-    "name": "Напій 0,75 л Ustronianka ізотонічний зі смаком лимона з додаванням вітамінів ПЕТ Польща",
-    "category": "Мінеральна і питна вода",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/116965/catalog_list_116965.png",
-    "oldPrice": "44.70",
-    "newPrice": "33.60",
     "cardPrice": "--.--",
     "quantity": 0
   },
@@ -6070,16 +6060,6 @@
     "quantity": 0
   },
   {
-    "id": "46061",
-    "name": "Сир напівтвердий 135г Serenada Салямі  з томатом та базиліком 45% пластини газ/упак",
-    "category": "Сири тверді",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/107305/catalog_list_107305.jpg",
-    "oldPrice": "100.90",
-    "newPrice": "70.50",
-    "cardPrice": "--.--",
-    "quantity": 0
-  },
-  {
     "id": "7427",
     "name": "Сир 125г DAS IST Моццарелла в розсолі 45%",
     "category": "Сири м'які",
@@ -6570,21 +6550,21 @@
     "quantity": 0
   },
   {
-    "id": "28511",
-    "name": "Набір для ліплення 132гр Lovin з повітряним пластиліном, 22 кольори, м/уп",
-    "category": "Канцтовари",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/48399/catalog_list_48399.jpg",
-    "oldPrice": "100.60",
-    "newPrice": "80.90",
-    "cardPrice": "--.--",
-    "quantity": 0
-  },
-  {
     "id": "6428",
     "name": "Сосиски 350г М’ясна лавка/Своя лінія Докторські фірмові міні",
     "category": "Сосиски, сардельки",
     "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/4618/catalog_list_4618.jpg",
     "oldPrice": "95.40",
+    "newPrice": "80.90",
+    "cardPrice": "--.--",
+    "quantity": 0
+  },
+  {
+    "id": "28511",
+    "name": "Набір для ліплення 132гр Lovin з повітряним пластиліном, 22 кольори, м/уп",
+    "category": "Канцтовари",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/48399/catalog_list_48399.jpg",
+    "oldPrice": "100.60",
     "newPrice": "80.90",
     "cardPrice": "--.--",
     "quantity": 0
@@ -6800,16 +6780,6 @@
     "quantity": 0
   },
   {
-    "id": "2908",
-    "name": "Цукерки 125 г Любімов молочний шоколад",
-    "category": "Цукерки",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/3412/catalog_list_3412.jpg",
-    "oldPrice": "121.90",
-    "newPrice": "85.90",
-    "cardPrice": "--.--",
-    "quantity": 0
-  },
-  {
     "id": "45383",
     "name": "Фрукти подрібнені с цукром 350 г День у День Чорна смородина ск/банка",
     "category": "Джем, паста, мед",
@@ -6825,6 +6795,16 @@
     "category": "Засоби для чищення",
     "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/101235/catalog_list_101235.jpg",
     "oldPrice": "116.90",
+    "newPrice": "85.90",
+    "cardPrice": "--.--",
+    "quantity": 0
+  },
+  {
+    "id": "2908",
+    "name": "Цукерки 125 г Любімов молочний шоколад",
+    "category": "Цукерки",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/3412/catalog_list_3412.jpg",
+    "oldPrice": "121.90",
     "newPrice": "85.90",
     "cardPrice": "--.--",
     "quantity": 0
@@ -6920,16 +6900,6 @@
     "quantity": 0
   },
   {
-    "id": "5569",
-    "name": "Ковбаски 140 г Добров Мюнхенські с/к",
-    "category": "Ковбаса",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/4329/catalog_list_4329.jpg",
-    "oldPrice": "101.70",
-    "newPrice": "88.90",
-    "cardPrice": "--.--",
-    "quantity": 0
-  },
-  {
     "id": "34003",
     "name": "Консерви 230 г Riga Gold Лосось подрібнений з овочами у власному соку з/б",
     "category": "М'ясні та рибні консерви",
@@ -6955,6 +6925,16 @@
     "category": "Чипси",
     "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/98189/catalog_list_98189.jpg",
     "oldPrice": "128.90",
+    "newPrice": "88.90",
+    "cardPrice": "--.--",
+    "quantity": 0
+  },
+  {
+    "id": "5569",
+    "name": "Ковбаски 140 г Добров Мюнхенські с/к",
+    "category": "Ковбаса",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/4329/catalog_list_4329.jpg",
+    "oldPrice": "101.70",
     "newPrice": "88.90",
     "cardPrice": "--.--",
     "quantity": 0
@@ -8630,21 +8610,21 @@
     "quantity": 0
   },
   {
-    "id": "835",
-    "name": "Вино 0,75л газоване Lambrusco Dell'Emilia IGT Giacobazzi напівcолодке біле 7,5%, Італія",
-    "category": "Ігристе вино",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/28645/catalog_list_28645.jpg",
-    "oldPrice": "241.60",
-    "newPrice": "163.50",
-    "cardPrice": "--.--",
-    "quantity": 0
-  },
-  {
     "id": "3788",
     "name": "Напій винний 0,75л Perlino Fragolino ігристий білий ароматизований 7,5%, Італія",
     "category": "Ігристе вино",
     "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/32887/catalog_list_32887.jpg",
     "oldPrice": "220.60",
+    "newPrice": "163.50",
+    "cardPrice": "--.--",
+    "quantity": 0
+  },
+  {
+    "id": "835",
+    "name": "Вино 0,75л газоване Lambrusco Dell'Emilia IGT Giacobazzi напівcолодке біле 7,5%, Італія",
+    "category": "Ігристе вино",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/28645/catalog_list_28645.jpg",
+    "oldPrice": "241.60",
     "newPrice": "163.50",
     "cardPrice": "--.--",
     "quantity": 0
