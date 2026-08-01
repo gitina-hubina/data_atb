@@ -50,20 +50,10 @@
     "quantity": 0
   },
   {
-    "id": "1014",
-    "name": "Батончик 43г Рошен молочно-шоколадний з начинкою крем-брюле",
+    "id": "28741",
+    "name": "Батончик 39 г Roshen Double Peanuts молочний шоколад з арахісом м/уп",
     "category": "Батончики",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/113347/catalog_list_113347.jpg",
-    "oldPrice": "22.70",
-    "newPrice": "14.90",
-    "cardPrice": "--.--",
-    "quantity": 0
-  },
-  {
-    "id": "1016",
-    "name": "Батончик 43г Рошен з начинкою",
-    "category": "Батончики",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/113349/catalog_list_113349.jpg",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/113361/catalog_list_113361.jpg",
     "oldPrice": "22.70",
     "newPrice": "14.90",
     "cardPrice": "--.--",
@@ -80,10 +70,20 @@
     "quantity": 0
   },
   {
-    "id": "28741",
-    "name": "Батончик 39 г Roshen Double Peanuts молочний шоколад з арахісом м/уп",
+    "id": "1014",
+    "name": "Батончик 43г Рошен молочно-шоколадний з начинкою крем-брюле",
     "category": "Батончики",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/113361/catalog_list_113361.jpg",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/113347/catalog_list_113347.jpg",
+    "oldPrice": "22.70",
+    "newPrice": "14.90",
+    "cardPrice": "--.--",
+    "quantity": 0
+  },
+  {
+    "id": "1016",
+    "name": "Батончик 43г Рошен з начинкою",
+    "category": "Батончики",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/113349/catalog_list_113349.jpg",
     "oldPrice": "22.70",
     "newPrice": "14.90",
     "cardPrice": "--.--",
@@ -160,6 +160,16 @@
     "quantity": 0
   },
   {
+    "id": "24209",
+    "name": "Йогурт 185 г Агуня Малина 2,7% п/бут",
+    "category": "Дитяча молочна продукція",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/111357/catalog_list_111357.jpg",
+    "oldPrice": "24.50",
+    "newPrice": "17.00",
+    "cardPrice": "--.--",
+    "quantity": 0
+  },
+  {
     "id": "24211",
     "name": "Йогурт 185 г Агуня Персик 2,7% п/бут",
     "category": "Дитяча молочна продукція",
@@ -174,16 +184,6 @@
     "name": "Йогурт 185 г Агуня Полуниця-банан 2,7% п/бут",
     "category": "Дитяча молочна продукція",
     "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/111355/catalog_list_111355.jpg",
-    "oldPrice": "24.50",
-    "newPrice": "17.00",
-    "cardPrice": "--.--",
-    "quantity": 0
-  },
-  {
-    "id": "24209",
-    "name": "Йогурт 185 г Агуня Малина 2,7% п/бут",
-    "category": "Дитяча молочна продукція",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/111357/catalog_list_111357.jpg",
     "oldPrice": "24.50",
     "newPrice": "17.00",
     "cardPrice": "--.--",
@@ -250,20 +250,20 @@
     "quantity": 0
   },
   {
-    "id": "41871",
-    "name": "Морозиво 70 г Три Ведмеді \"Mystic dragon\" зі смак. пітахаї з вибух.карамеллю ескміо п/ет",
+    "id": "33981",
+    "name": "Морозиво 70 г Три Ведмеді зі смаком \"кавун-полуниця\" в глазурі ескімо п/ет",
     "category": "Морозиво",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/93619/catalog_list_93619.jpg",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/89597/catalog_list_89597.jpg",
     "oldPrice": "45.90",
     "newPrice": "22.90",
     "cardPrice": "--.--",
     "quantity": 0
   },
   {
-    "id": "33981",
-    "name": "Морозиво 70 г Три Ведмеді зі смаком \"кавун-полуниця\" в глазурі ескімо п/ет",
+    "id": "41871",
+    "name": "Морозиво 70 г Три Ведмеді \"Mystic dragon\" зі смак. пітахаї з вибух.карамеллю ескміо п/ет",
     "category": "Морозиво",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/89597/catalog_list_89597.jpg",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/93619/catalog_list_93619.jpg",
     "oldPrice": "45.90",
     "newPrice": "22.90",
     "cardPrice": "--.--",
@@ -300,16 +300,6 @@
     "quantity": 0
   },
   {
-    "id": "29583",
-    "name": "Пивo 0,48 л Holsten Pilsener світлe ж/б",
-    "category": "Пиво",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/52639/catalog_list_52639.jpg",
-    "oldPrice": "40.90",
-    "newPrice": "26.50",
-    "cardPrice": "--.--",
-    "quantity": 0
-  },
-  {
     "id": "21269",
     "name": "Соус 200 г Щедро Тартар",
     "category": "Соуси, кетчупи",
@@ -320,32 +310,12 @@
     "quantity": 0
   },
   {
-    "id": "32641",
-    "name": "Морозиво 80г Київський пломбір без цукру ваф/стак п/ет",
-    "category": "Морозиво",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/95107/catalog_list_95107.jpg",
-    "oldPrice": "51.90",
-    "newPrice": "26.90",
-    "cardPrice": "--.--",
-    "quantity": 0
-  },
-  {
-    "id": "44361",
-    "name": "Напій 2 л День у День Лимонад ПЕТ",
-    "category": "Напої",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/101307/catalog_list_101307.jpg",
-    "oldPrice": "45.90",
-    "newPrice": "27.50",
-    "cardPrice": "--.--",
-    "quantity": 0
-  },
-  {
-    "id": "44363",
-    "name": "Напій 2 л День у День Мохіто безалкогольний ПЕТ",
-    "category": "Напої",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/101309/catalog_list_101309.jpg",
-    "oldPrice": "45.90",
-    "newPrice": "27.50",
+    "id": "29583",
+    "name": "Пивo 0,48 л Holsten Pilsener світлe ж/б",
+    "category": "Пиво",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/52639/catalog_list_52639.jpg",
+    "oldPrice": "40.90",
+    "newPrice": "26.50",
     "cardPrice": "--.--",
     "quantity": 0
   },
@@ -365,6 +335,26 @@
     "category": "Соуси, кетчупи",
     "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/21615/catalog_list_21615.jpg",
     "oldPrice": "41.30",
+    "newPrice": "27.50",
+    "cardPrice": "--.--",
+    "quantity": 0
+  },
+  {
+    "id": "20445",
+    "name": "Соус 200 г Щедро Барбекю",
+    "category": "Соуси, кетчупи",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/23293/catalog_list_23293.jpg",
+    "oldPrice": "41.30",
+    "newPrice": "27.50",
+    "cardPrice": "--.--",
+    "quantity": 0
+  },
+  {
+    "id": "44361",
+    "name": "Напій 2 л День у День Лимонад ПЕТ",
+    "category": "Напої",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/101307/catalog_list_101307.jpg",
+    "oldPrice": "45.90",
     "newPrice": "27.50",
     "cardPrice": "--.--",
     "quantity": 0
@@ -470,16 +460,6 @@
     "quantity": 0
   },
   {
-    "id": "45257",
-    "name": "Арахіс 180 г День у День смажений солоний м/уп",
-    "category": "Снеки",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/105455/catalog_list_105455.png",
-    "oldPrice": "52.90",
-    "newPrice": "31.50",
-    "cardPrice": "--.--",
-    "quantity": 0
-  },
-  {
     "id": "44365",
     "name": "Напій 2 л День у День Світязь ПЕТ",
     "category": "Напої",
@@ -530,20 +510,20 @@
     "quantity": 0
   },
   {
-    "id": "3299",
-    "name": "Шоколадний Батончик 70г Mars *2 з нугою і карамеллю, вкритий молочним шоколадом",
+    "id": "951",
+    "name": "Шоколадний Батончик 75г Mars Twix Екстра",
     "category": "Батончики",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/67709/catalog_list_67709.jpg",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/67693/catalog_list_67693.jpg",
     "oldPrice": "47.90",
     "newPrice": "33.90",
     "cardPrice": "--.--",
     "quantity": 0
   },
   {
-    "id": "951",
-    "name": "Шоколадний Батончик 75г Mars Twix Екстра",
+    "id": "3299",
+    "name": "Шоколадний Батончик 70г Mars *2 з нугою і карамеллю, вкритий молочним шоколадом",
     "category": "Батончики",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/67693/catalog_list_67693.jpg",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/67709/catalog_list_67709.jpg",
     "oldPrice": "47.90",
     "newPrice": "33.90",
     "cardPrice": "--.--",
@@ -690,26 +670,6 @@
     "quantity": 0
   },
   {
-    "id": "48089",
-    "name": "Морозиво 150 г Три Ведмеді \"love&cherries\" зі смаком вишні ваф.ріжок м/уп",
-    "category": "Морозиво",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/113465/catalog_list_113465.jpg",
-    "oldPrice": "79.90",
-    "newPrice": "39.90",
-    "cardPrice": "--.--",
-    "quantity": 0
-  },
-  {
-    "id": "41143",
-    "name": "Морозиво 150 г Три Ведмеді \"love&caramel\" двошарове ваф.ріжок п/ет",
-    "category": "Морозиво",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/114153/catalog_list_114153.jpg",
-    "oldPrice": "79.90",
-    "newPrice": "39.90",
-    "cardPrice": "--.--",
-    "quantity": 0
-  },
-  {
     "id": "47937",
     "name": "Морозиво 110 г Київський пломбір з печивом з какао ріжок карт/уп",
     "category": "Морозиво",
@@ -725,6 +685,26 @@
     "category": "Морозиво",
     "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/115177/catalog_list_115177.jpg",
     "oldPrice": "76.90",
+    "newPrice": "39.90",
+    "cardPrice": "--.--",
+    "quantity": 0
+  },
+  {
+    "id": "41143",
+    "name": "Морозиво 150 г Три Ведмеді \"love&caramel\" двошарове ваф.ріжок п/ет",
+    "category": "Морозиво",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/114153/catalog_list_114153.jpg",
+    "oldPrice": "79.90",
+    "newPrice": "39.90",
+    "cardPrice": "--.--",
+    "quantity": 0
+  },
+  {
+    "id": "48089",
+    "name": "Морозиво 150 г Три Ведмеді \"love&cherries\" зі смаком вишні ваф.ріжок м/уп",
+    "category": "Морозиво",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/113465/catalog_list_113465.jpg",
+    "oldPrice": "79.90",
     "newPrice": "39.90",
     "cardPrice": "--.--",
     "quantity": 0
@@ -860,10 +840,10 @@
     "quantity": 0
   },
   {
-    "id": "16089",
-    "name": "Шоколад 100 г Millennium молочний миндаль та карамель",
+    "id": "16091",
+    "name": "Шоколад 100 г Millennium чорний миндаль та журавлина",
     "category": "Шоколад",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/21243/catalog_list_21243.jpg",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/21245/catalog_list_21245.jpg",
     "oldPrice": "88.90",
     "newPrice": "50.50",
     "cardPrice": "--.--",
@@ -880,10 +860,10 @@
     "quantity": 0
   },
   {
-    "id": "16091",
-    "name": "Шоколад 100 г Millennium чорний миндаль та журавлина",
+    "id": "16089",
+    "name": "Шоколад 100 г Millennium молочний миндаль та карамель",
     "category": "Шоколад",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/21245/catalog_list_21245.jpg",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/21243/catalog_list_21243.jpg",
     "oldPrice": "88.90",
     "newPrice": "50.50",
     "cardPrice": "--.--",
@@ -920,10 +900,10 @@
     "quantity": 0
   },
   {
-    "id": "15",
-    "name": "Напій 2 л Coca-Cola безалкoгoльний сильнoгазoваний",
+    "id": "42437",
+    "name": "Напій 2л Coca-Cola CHERRY безалкогольний сильногазований ПЕТ",
     "category": "Напої",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/110269/catalog_list_110269.jpg",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/102963/catalog_list_102963.jpg",
     "oldPrice": "69.30",
     "newPrice": "53.50",
     "cardPrice": "--.--",
@@ -940,10 +920,10 @@
     "quantity": 0
   },
   {
-    "id": "42437",
-    "name": "Напій 2л Coca-Cola CHERRY безалкогольний сильногазований ПЕТ",
+    "id": "15",
+    "name": "Напій 2 л Coca-Cola безалкoгoльний сильнoгазoваний",
     "category": "Напої",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/102963/catalog_list_102963.jpg",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/110269/catalog_list_110269.jpg",
     "oldPrice": "69.30",
     "newPrice": "53.50",
     "cardPrice": "--.--",
@@ -1450,16 +1430,6 @@
     "quantity": 0
   },
   {
-    "id": "2746",
-    "name": "Папір туалетний 4 шт Zewa Deluxe pure white 3 шари",
-    "category": "Туалетний папір",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/68573/catalog_list_68573.jpg",
-    "oldPrice": "161.40",
-    "newPrice": "92.90",
-    "cardPrice": "--.--",
-    "quantity": 0
-  },
-  {
     "id": "128",
     "name": "Папір туалетний 4 шт Zewa Deluxe Peach ароматизований тришаровий",
     "category": "Туалетний папір",
@@ -1470,12 +1440,12 @@
     "quantity": 0
   },
   {
-    "id": "7747",
-    "name": "Шоколад 295г Lacmi молочний з арахісом та карамельно-арахісовою начинкою",
-    "category": "Шоколад",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/31465/catalog_list_31465.jpg",
-    "oldPrice": "196.70",
-    "newPrice": "94.30",
+    "id": "2746",
+    "name": "Папір туалетний 4 шт Zewa Deluxe pure white 3 шари",
+    "category": "Туалетний папір",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/68573/catalog_list_68573.jpg",
+    "oldPrice": "161.40",
+    "newPrice": "92.90",
     "cardPrice": "--.--",
     "quantity": 0
   },
@@ -1484,6 +1454,16 @@
     "name": "Шоколад 280 г Roshen Lacmi молочний з мигдалем, кокосовим кремом та рисовими кульками м/уп",
     "category": "Шоколад",
     "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/34225/catalog_list_34225.jpg",
+    "oldPrice": "196.70",
+    "newPrice": "94.30",
+    "cardPrice": "--.--",
+    "quantity": 0
+  },
+  {
+    "id": "7747",
+    "name": "Шоколад 295г Lacmi молочний з арахісом та карамельно-арахісовою начинкою",
+    "category": "Шоколад",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/31465/catalog_list_31465.jpg",
     "oldPrice": "196.70",
     "newPrice": "94.30",
     "cardPrice": "--.--",
@@ -1660,16 +1640,6 @@
     "quantity": 0
   },
   {
-    "id": "22243",
-    "name": "Гомілки курячі Наша Ряба Апетитна Делі зі спецією карі в маринаді охолоджені вакуумна упаковка",
-    "category": "М'ясні напівфабрикати",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/98943/catalog_list_98943.jpg",
-    "oldPrice": "156.99",
-    "newPrice": "114.89",
-    "cardPrice": "--.--",
-    "quantity": 0
-  },
-  {
     "id": "40467",
     "name": "Напій винний 0,75 л Fratelli Moscato Bianco газований напівсолодкий білий 6 - 6,9 % об ск/бут",
     "category": "Ігристе вино",
@@ -1756,26 +1726,6 @@
     "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/117791/catalog_list_117791.jpg",
     "oldPrice": "169.95",
     "newPrice": "134.89",
-    "cardPrice": "--.--",
-    "quantity": 0
-  },
-  {
-    "id": "35187",
-    "name": "Горілка 0,5л Nikita кукурудзяна 40% об ск/бут",
-    "category": "Горілка",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/72673/catalog_list_72673.jpg",
-    "oldPrice": "199.50",
-    "newPrice": "139.00",
-    "cardPrice": "--.--",
-    "quantity": 0
-  },
-  {
-    "id": "7433",
-    "name": "Вироби м'ясомісткі Ковбасний ряд/Розумний вибір Домашні з сиром",
-    "category": "Сосиски, сардельки",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/9444/catalog_list_9444.jpg",
-    "oldPrice": "215.79",
-    "newPrice": "139.89",
     "cardPrice": "--.--",
     "quantity": 0
   },
