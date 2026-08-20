@@ -10,16 +10,6 @@
     "quantity": 0
   },
   {
-    "id": "9028",
-    "name": "Морозиво 75г Розумний вибір Каштан ескімо з комб.складом сировини з какао в конд.глазурі",
-    "category": "Морозиво",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/95601/catalog_list_95601.jpg",
-    "oldPrice": "19.90",
-    "newPrice": "12.90",
-    "cardPrice": "--.--",
-    "quantity": 0
-  },
-  {
     "id": "9027",
     "name": "Морозиво 75г  Розумний вибір Каштан з комбінованим складом сировини в кондитерській глазур",
     "category": "Морозиво",
@@ -30,12 +20,12 @@
     "quantity": 0
   },
   {
-    "id": "29667",
-    "name": "Корм 80 г CLUB 4 PAWS Преміум Повнорац-й консер-й корм для дор-х стерил-х котів з крол-м в желе м/уп",
-    "category": "Корм",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/111383/catalog_list_111383.jpg",
-    "oldPrice": "20.20",
-    "newPrice": "13.10",
+    "id": "9028",
+    "name": "Морозиво 75г Розумний вибір Каштан ескімо з комб.складом сировини з какао в конд.глазурі",
+    "category": "Морозиво",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/95601/catalog_list_95601.jpg",
+    "oldPrice": "19.90",
+    "newPrice": "12.90",
     "cardPrice": "--.--",
     "quantity": 0
   },
@@ -50,12 +40,12 @@
     "quantity": 0
   },
   {
-    "id": "26907",
-    "name": "Вафлі 71 г Своя Лінія Молочні-клас! з ароматом молока м/уп",
-    "category": "Вафлі",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/93069/catalog_list_93069.jpg",
-    "oldPrice": "19.50",
-    "newPrice": "13.50",
+    "id": "29667",
+    "name": "Корм 80 г CLUB 4 PAWS Преміум Повнорац-й консер-й корм для дор-х стерил-х котів з крол-м в желе м/уп",
+    "category": "Корм",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/111383/catalog_list_111383.jpg",
+    "oldPrice": "20.20",
+    "newPrice": "13.10",
     "cardPrice": "--.--",
     "quantity": 0
   },
@@ -64,6 +54,16 @@
     "name": "Вафлі 71 г Своя Лінія Артек-клас! м/уп",
     "category": "Вафлі",
     "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/80357/catalog_list_80357.jpg",
+    "oldPrice": "19.50",
+    "newPrice": "13.50",
+    "cardPrice": "--.--",
+    "quantity": 0
+  },
+  {
+    "id": "26907",
+    "name": "Вафлі 71 г Своя Лінія Молочні-клас! з ароматом молока м/уп",
+    "category": "Вафлі",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/93069/catalog_list_93069.jpg",
     "oldPrice": "19.50",
     "newPrice": "13.50",
     "cardPrice": "--.--",
@@ -90,20 +90,10 @@
     "quantity": 0
   },
   {
-    "id": "49139",
-    "name": "Сир плавлений 70 г Золотий Резерв Копчений смак 35% фольга",
+    "id": "31947",
+    "name": "Сир плавлений 70 г Золотий Резерв Вершковий 38% фольга",
     "category": "Сири плавлені",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/116125/catalog_list_116125.jpg",
-    "oldPrice": "27.50",
-    "newPrice": "17.50",
-    "cardPrice": "--.--",
-    "quantity": 0
-  },
-  {
-    "id": "39933",
-    "name": "Сир плавлений 70 г Золотий резерв Чеддер 38% фольга",
-    "category": "Сири плавлені",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/87715/catalog_list_87715.jpg",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/59195/catalog_list_59195.png",
     "oldPrice": "27.50",
     "newPrice": "17.50",
     "cardPrice": "--.--",
@@ -120,10 +110,20 @@
     "quantity": 0
   },
   {
-    "id": "31947",
-    "name": "Сир плавлений 70 г Золотий Резерв Вершковий 38% фольга",
+    "id": "39933",
+    "name": "Сир плавлений 70 г Золотий резерв Чеддер 38% фольга",
     "category": "Сири плавлені",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/59195/catalog_list_59195.png",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/87715/catalog_list_87715.jpg",
+    "oldPrice": "27.50",
+    "newPrice": "17.50",
+    "cardPrice": "--.--",
+    "quantity": 0
+  },
+  {
+    "id": "49139",
+    "name": "Сир плавлений 70 г Золотий Резерв Копчений смак 35% фольга",
+    "category": "Сири плавлені",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/116125/catalog_list_116125.jpg",
     "oldPrice": "27.50",
     "newPrice": "17.50",
     "cardPrice": "--.--",
@@ -160,6 +160,16 @@
     "quantity": 0
   },
   {
+    "id": "3685",
+    "name": "Йогурт 300г Галичина Злаки 2,2%",
+    "category": "Йогурти",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/3536/catalog_list_3536.jpg",
+    "oldPrice": "38.00",
+    "newPrice": "23.90",
+    "cardPrice": "--.--",
+    "quantity": 0
+  },
+  {
     "id": "3686",
     "name": "Йогурт 300г Галичина Полуниця 2,2%",
     "category": "Йогурти",
@@ -170,12 +180,12 @@
     "quantity": 0
   },
   {
-    "id": "3685",
-    "name": "Йогурт 300г Галичина Злаки 2,2%",
-    "category": "Йогурти",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/3536/catalog_list_3536.jpg",
-    "oldPrice": "38.00",
-    "newPrice": "23.90",
+    "id": "47501",
+    "name": "Кетчуп 350 г Королівський смак Лагідний д/пак",
+    "category": "Соуси, кетчупи",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/112621/catalog_list_112621.jpg",
+    "oldPrice": "40.90",
+    "newPrice": "24.50",
     "cardPrice": "--.--",
     "quantity": 0
   },
@@ -195,16 +205,6 @@
     "category": "Чай",
     "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/35201/catalog_list_35201.jpg",
     "oldPrice": "37.90",
-    "newPrice": "24.50",
-    "cardPrice": "--.--",
-    "quantity": 0
-  },
-  {
-    "id": "47501",
-    "name": "Кетчуп 350 г Королівський смак Лагідний д/пак",
-    "category": "Соуси, кетчупи",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/112621/catalog_list_112621.jpg",
-    "oldPrice": "40.90",
     "newPrice": "24.50",
     "cardPrice": "--.--",
     "quantity": 0
@@ -236,6 +236,16 @@
     "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/76537/catalog_list_76537.jpg",
     "oldPrice": "39.90",
     "newPrice": "25.90",
+    "cardPrice": "--.--",
+    "quantity": 0
+  },
+  {
+    "id": "32641",
+    "name": "Морозиво 80г Київський пломбір без цукру ваф/стак п/ет",
+    "category": "Морозиво",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/95107/catalog_list_95107.jpg",
+    "oldPrice": "51.90",
+    "newPrice": "26.90",
     "cardPrice": "--.--",
     "quantity": 0
   },
@@ -280,21 +290,21 @@
     "quantity": 0
   },
   {
-    "id": "40641",
-    "name": "Напій 0,5 л NON STOP ZOOM безалкогольний енергетичний сильногазований ж/б",
-    "category": "Енергетичні",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/93569/catalog_list_93569.jpg",
-    "oldPrice": "39.90",
-    "newPrice": "27.90",
-    "cardPrice": "--.--",
-    "quantity": 0
-  },
-  {
     "id": "40709",
     "name": "Морозиво 80 г Лімо \"Пломбір 1965\" йогуртове зі см. черешні з кранчами в шокол. глазурі ескімо п/ет",
     "category": "Морозиво",
     "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/89775/catalog_list_89775.jpg",
     "oldPrice": "46.80",
+    "newPrice": "27.90",
+    "cardPrice": "--.--",
+    "quantity": 0
+  },
+  {
+    "id": "40641",
+    "name": "Напій 0,5 л NON STOP ZOOM безалкогольний енергетичний сильногазований ж/б",
+    "category": "Енергетичні",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/93569/catalog_list_93569.jpg",
+    "oldPrice": "39.90",
     "newPrice": "27.90",
     "cardPrice": "--.--",
     "quantity": 0
@@ -360,10 +370,10 @@
     "quantity": 0
   },
   {
-    "id": "49113",
-    "name": "Освіжувач повітря 300 мл ДЕНЬ У ДЕНЬ Крістал флауер/Мандарін танго",
+    "id": "49111",
+    "name": "Освіжувач повітря 300 мл ДЕНЬ У ДЕНЬ Оушн мелоді/Спрінг мідоу",
     "category": "Освіжувачі повітря",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/116181/catalog_list_116181.jpg",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/116179/catalog_list_116179.jpg",
     "oldPrice": "46.90",
     "newPrice": "32.50",
     "cardPrice": "--.--",
@@ -540,16 +550,6 @@
     "quantity": 0
   },
   {
-    "id": "18629",
-    "name": "Батончик 64 г Nestle Kit Kat Chunky King Size",
-    "category": "Батончики",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/71029/catalog_list_71029.jpg",
-    "oldPrice": "57.30",
-    "newPrice": "38.50",
-    "cardPrice": "--.--",
-    "quantity": 0
-  },
-  {
     "id": "7317",
     "name": "Чай (25 ф/п х 2г) Своя Лінія чорний асорті смаків",
     "category": "Чай",
@@ -565,6 +565,16 @@
     "category": "Чай",
     "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/6488/catalog_list_6488.jpg",
     "oldPrice": "59.60",
+    "newPrice": "38.50",
+    "cardPrice": "--.--",
+    "quantity": 0
+  },
+  {
+    "id": "18629",
+    "name": "Батончик 64 г Nestle Kit Kat Chunky King Size",
+    "category": "Батончики",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/71029/catalog_list_71029.jpg",
+    "oldPrice": "57.30",
     "newPrice": "38.50",
     "cardPrice": "--.--",
     "quantity": 0
@@ -640,10 +650,10 @@
     "quantity": 0
   },
   {
-    "id": "40645",
-    "name": "Напій 2,0 л Pepsi Вишня бeзaлкoгoльний сильнoгaзoвaний ПЕТ",
+    "id": "21165",
+    "name": "Нaпій 2 л Pepsi бeзaлкoгoльний сильнoгaзoвaний",
     "category": "Напої",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/90627/catalog_list_90627.jpg",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/90613/catalog_list_90613.jpg",
     "oldPrice": "63.90",
     "newPrice": "42.50",
     "cardPrice": "--.--",
@@ -660,10 +670,10 @@
     "quantity": 0
   },
   {
-    "id": "21165",
-    "name": "Нaпій 2 л Pepsi бeзaлкoгoльний сильнoгaзoвaний",
+    "id": "40645",
+    "name": "Напій 2,0 л Pepsi Вишня бeзaлкoгoльний сильнoгaзoвaний ПЕТ",
     "category": "Напої",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/90613/catalog_list_90613.jpg",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/90627/catalog_list_90627.jpg",
     "oldPrice": "63.90",
     "newPrice": "42.50",
     "cardPrice": "--.--",
@@ -1305,6 +1315,16 @@
     "category": "Шоколад",
     "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/67555/catalog_list_67555.jpg",
     "oldPrice": "196.70",
+    "newPrice": "89.90",
+    "cardPrice": "--.--",
+    "quantity": 0
+  },
+  {
+    "id": "40475",
+    "name": "Хачапурі 300 г День у День \"По-аджарськи\" заморожені пл/лоток",
+    "category": "Тісто, Випічка, Піца",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/90227/catalog_list_90227.jpg",
+    "oldPrice": "140.90",
     "newPrice": "89.90",
     "cardPrice": "--.--",
     "quantity": 0
