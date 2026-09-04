@@ -220,16 +220,6 @@
     "quantity": 0
   },
   {
-    "id": "23041",
-    "name": "Морозиво 155г Ласунка Гран-Прі Пломбір з підваркою манго ріжок м/уп",
-    "category": "Морозиво",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/89581/catalog_list_89581.jpg",
-    "oldPrice": "79.90",
-    "newPrice": "39.90",
-    "cardPrice": "--.--",
-    "quantity": 0
-  },
-  {
     "id": "23045",
     "name": "Морозиво 155 г Ласунка Пломбір Гран-Прі з малиновою підваркою ріжок м/уп",
     "category": "Морозиво",
@@ -240,12 +230,12 @@
     "quantity": 0
   },
   {
-    "id": "16089",
-    "name": "Шоколад 100 г Millennium молочний миндаль та карамель",
-    "category": "Шоколад",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/21243/catalog_list_21243.jpg",
-    "oldPrice": "88.90",
-    "newPrice": "45.90",
+    "id": "23041",
+    "name": "Морозиво 155г Ласунка Гран-Прі Пломбір з підваркою манго ріжок м/уп",
+    "category": "Морозиво",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/89581/catalog_list_89581.jpg",
+    "oldPrice": "79.90",
+    "newPrice": "39.90",
     "cardPrice": "--.--",
     "quantity": 0
   },
@@ -264,6 +254,16 @@
     "name": "Шоколад 100 г Millennium білий миндаль та кокос",
     "category": "Шоколад",
     "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/21241/catalog_list_21241.jpg",
+    "oldPrice": "88.90",
+    "newPrice": "45.90",
+    "cardPrice": "--.--",
+    "quantity": 0
+  },
+  {
+    "id": "16089",
+    "name": "Шоколад 100 г Millennium молочний миндаль та карамель",
+    "category": "Шоколад",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/21243/catalog_list_21243.jpg",
     "oldPrice": "88.90",
     "newPrice": "45.90",
     "cardPrice": "--.--",
@@ -310,10 +310,10 @@
     "quantity": 0
   },
   {
-    "id": "44977",
-    "name": "Йогурт 0,8 кг Галичина Персик-Абрикос 2,2% п/бут",
+    "id": "44979",
+    "name": "Йогурт 0,8 кг Галичина полуниця-суниця 2,2% п/бут",
     "category": "Йогурти",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/103435/catalog_list_103435.jpg",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/103437/catalog_list_103437.jpg",
     "oldPrice": "80.90",
     "newPrice": "54.90",
     "cardPrice": "--.--",
@@ -330,20 +330,20 @@
     "quantity": 0
   },
   {
-    "id": "44981",
-    "name": "Йогурт 0,8 кг Галичина ягідний мікс 2,2% п/бут",
+    "id": "44977",
+    "name": "Йогурт 0,8 кг Галичина Персик-Абрикос 2,2% п/бут",
     "category": "Йогурти",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/103483/catalog_list_103483.jpg",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/103435/catalog_list_103435.jpg",
     "oldPrice": "80.90",
     "newPrice": "54.90",
     "cardPrice": "--.--",
     "quantity": 0
   },
   {
-    "id": "44979",
-    "name": "Йогурт 0,8 кг Галичина полуниця-суниця 2,2% п/бут",
+    "id": "44981",
+    "name": "Йогурт 0,8 кг Галичина ягідний мікс 2,2% п/бут",
     "category": "Йогурти",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/103437/catalog_list_103437.jpg",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/103483/catalog_list_103483.jpg",
     "oldPrice": "80.90",
     "newPrice": "54.90",
     "cardPrice": "--.--",
@@ -360,10 +360,10 @@
     "quantity": 0
   },
   {
-    "id": "26151",
-    "name": "Сир твердий 160 г Свoя лінія Вершковий 50% флoу-пак",
+    "id": "46891",
+    "name": "Сир твердий 160 г Свoя лінія зі смаком пряженого молока 50% флoу-пак",
     "category": "Сири тверді",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/111373/catalog_list_111373.jpg",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/111475/catalog_list_111475.jpg",
     "oldPrice": "85.90",
     "newPrice": "59.90",
     "cardPrice": "--.--",
@@ -380,21 +380,11 @@
     "quantity": 0
   },
   {
-    "id": "2198",
-    "name": "Сир твердий 160г Свoя лінія Гoлландський 45%",
+    "id": "46889",
+    "name": "Сир твердий 160 г Свoя лінія Гауда 45% флoу-пак",
     "category": "Сири тверді",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/111321/catalog_list_111321.jpg",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/111473/catalog_list_111473.jpg",
     "oldPrice": "85.90",
-    "newPrice": "59.90",
-    "cardPrice": "--.--",
-    "quantity": 0
-  },
-  {
-    "id": "4185",
-    "name": "Сиp напiвтвepдий 135 г Ryki Едам пластини 45%",
-    "category": "Сири тверді",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/111303/catalog_list_111303.jpg",
-    "oldPrice": "88.90",
     "newPrice": "59.90",
     "cardPrice": "--.--",
     "quantity": 0
@@ -410,21 +400,11 @@
     "quantity": 0
   },
   {
-    "id": "46891",
-    "name": "Сир твердий 160 г Свoя лінія зі смаком пряженого молока 50% флoу-пак",
+    "id": "4185",
+    "name": "Сиp напiвтвepдий 135 г Ryki Едам пластини 45%",
     "category": "Сири тверді",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/111475/catalog_list_111475.jpg",
-    "oldPrice": "85.90",
-    "newPrice": "59.90",
-    "cardPrice": "--.--",
-    "quantity": 0
-  },
-  {
-    "id": "46889",
-    "name": "Сир твердий 160 г Свoя лінія Гауда 45% флoу-пак",
-    "category": "Сири тверді",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/111473/catalog_list_111473.jpg",
-    "oldPrice": "85.90",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/111303/catalog_list_111303.jpg",
+    "oldPrice": "88.90",
     "newPrice": "59.90",
     "cardPrice": "--.--",
     "quantity": 0
@@ -436,16 +416,6 @@
     "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/72879/catalog_list_72879.jpg",
     "oldPrice": "109.70",
     "newPrice": "65.00",
-    "cardPrice": "--.--",
-    "quantity": 0
-  },
-  {
-    "id": "6042",
-    "name": "Крем-гель для душу 250 мл Dove в асортименті",
-    "category": "Гелі для душу",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/93913/catalog_list_93913.jpg",
-    "oldPrice": "111.30",
-    "newPrice": "66.50",
     "cardPrice": "--.--",
     "quantity": 0
   },
@@ -476,6 +446,26 @@
     "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/1857/catalog_list_1857.jpg",
     "oldPrice": "98.95",
     "newPrice": "79.95",
+    "cardPrice": "--.--",
+    "quantity": 0
+  },
+  {
+    "id": "2198",
+    "name": "Сир твердий 160г Свoя лінія Гoлландський 45%",
+    "category": "Сири тверді",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/111321/catalog_list_111321.jpg",
+    "oldPrice": "--.--",
+    "newPrice": "90.50",
+    "cardPrice": "--.--",
+    "quantity": 0
+  },
+  {
+    "id": "26151",
+    "name": "Сир твердий 160 г Свoя лінія Вершковий 50% флoу-пак",
+    "category": "Сири тверді",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/111373/catalog_list_111373.jpg",
+    "oldPrice": "--.--",
+    "newPrice": "90.50",
     "cardPrice": "--.--",
     "quantity": 0
   },
@@ -580,20 +570,20 @@
     "quantity": 0
   },
   {
-    "id": "6208",
-    "name": "Шампунь 400 мл Dove hair therapy розкішний об'єм",
+    "id": "4613",
+    "name": "Шампунь 400 мл Dove hair therapy інтенсивне відновлення",
     "category": "Шампуні",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/95093/catalog_list_95093.jpg",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/95095/catalog_list_95095.jpg",
     "oldPrice": "206.90",
     "newPrice": "129.90",
     "cardPrice": "--.--",
     "quantity": 0
   },
   {
-    "id": "4613",
-    "name": "Шампунь 400 мл Dove hair therapy інтенсивне відновлення",
+    "id": "6208",
+    "name": "Шампунь 400 мл Dove hair therapy розкішний об'єм",
     "category": "Шампуні",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/95095/catalog_list_95095.jpg",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/95093/catalog_list_95093.jpg",
     "oldPrice": "206.90",
     "newPrice": "129.90",
     "cardPrice": "--.--",
@@ -660,16 +650,6 @@
     "quantity": 0
   },
   {
-    "id": "993",
-    "name": "Сардельки Своя лінія Австрійські",
-    "category": "Сосиски, сардельки",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/703/catalog_list_703.jpg",
-    "oldPrice": "333.99",
-    "newPrice": "219.89",
-    "cardPrice": "--.--",
-    "quantity": 0
-  },
-  {
     "id": "22333",
     "name": "Підгузки-трусики для дорослих 10шт Tena Pants Normal Large м/уп",
     "category": "Підгузки для дорослих",
@@ -680,20 +660,20 @@
     "quantity": 0
   },
   {
-    "id": "5201",
-    "name": "Сьомга 210г Norven слабосолена філе-шматок на шкірі",
+    "id": "49641",
+    "name": "Форель 210 г Norven філе-кусок на шкірі cл/c вак/упак",
     "category": "Риба",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/54353/catalog_list_54353.png",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/117303/catalog_list_117303.jpg",
     "oldPrice": "402.40",
     "newPrice": "279.90",
     "cardPrice": "--.--",
     "quantity": 0
   },
   {
-    "id": "49641",
-    "name": "Форель 210 г Norven філе-кусок на шкірі cл/c вак/упак",
+    "id": "5201",
+    "name": "Сьомга 210г Norven слабосолена філе-шматок на шкірі",
     "category": "Риба",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/117303/catalog_list_117303.jpg",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/54353/catalog_list_54353.png",
     "oldPrice": "402.40",
     "newPrice": "279.90",
     "cardPrice": "--.--",
@@ -746,6 +726,16 @@
     "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/72325/catalog_list_72325.jpg",
     "oldPrice": "945.00",
     "newPrice": "655.90",
+    "cardPrice": "--.--",
+    "quantity": 0
+  },
+  {
+    "id": "14955",
+    "name": "Підгузники 30 шт Tena Slip Plus Large Breathable 92-144 cм для дорослих",
+    "category": "Підгузки для дорослих",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/120045/catalog_list_120045.jpg",
+    "oldPrice": "1081.00",
+    "newPrice": "755.90",
     "cardPrice": "--.--",
     "quantity": 0
   }
