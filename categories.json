@@ -1,25 +1,5 @@
 [
   {
-    "id": "37997",
-    "name": "Сир плавлений 75 г Комо Вершковий тенеро 35% фольга",
-    "category": "Сири плавлені",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/80517/catalog_list_80517.jpg",
-    "oldPrice": "27.00",
-    "newPrice": "17.50",
-    "cardPrice": "--.--",
-    "quantity": 0
-  },
-  {
-    "id": "37995",
-    "name": "Сир плавлений 75 г Комо бекон 35% фольга",
-    "category": "Сири плавлені",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/80515/catalog_list_80515.jpg",
-    "oldPrice": "27.00",
-    "newPrice": "17.50",
-    "cardPrice": "--.--",
-    "quantity": 0
-  },
-  {
     "id": "11359",
     "name": "Морозиво 70 г Своя лінія Золотий Каштан пломбір  шоколадний  у вершковій глазурі",
     "category": "Морозиво",
@@ -50,10 +30,10 @@
     "quantity": 0
   },
   {
-    "id": "40433",
-    "name": "Морозиво 70 г Хрещатик пломбір фісташковий ваф. стак. п/ет",
+    "id": "39573",
+    "name": "Морозиво 70 г Хрещатик пломбір шоколадний у ваф.стак. п/ет",
     "category": "Морозиво",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/89071/catalog_list_89071.jpg",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/86823/catalog_list_86823.jpg",
     "oldPrice": "35.50",
     "newPrice": "19.50",
     "cardPrice": "--.--",
@@ -70,20 +50,20 @@
     "quantity": 0
   },
   {
-    "id": "39573",
-    "name": "Морозиво 70 г Хрещатик пломбір шоколадний у ваф.стак. п/ет",
+    "id": "40433",
+    "name": "Морозиво 70 г Хрещатик пломбір фісташковий ваф. стак. п/ет",
     "category": "Морозиво",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/86823/catalog_list_86823.jpg",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/89071/catalog_list_89071.jpg",
     "oldPrice": "35.50",
     "newPrice": "19.50",
     "cardPrice": "--.--",
     "quantity": 0
   },
   {
-    "id": "11410",
-    "name": "Морозиво 75 г  Хладик Каштан Полуничний в білій кондитерскій глазурі",
+    "id": "11409",
+    "name": "Морозиво 75 г  Хладик Каштан Солона карамель в  кондитерскій глазурі",
     "category": "Морозиво",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/47307/catalog_list_47307.jpg",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/47305/catalog_list_47305.jpg",
     "oldPrice": "41.90",
     "newPrice": "22.90",
     "cardPrice": "--.--",
@@ -100,22 +80,12 @@
     "quantity": 0
   },
   {
-    "id": "11409",
-    "name": "Морозиво 75 г  Хладик Каштан Солона карамель в  кондитерскій глазурі",
+    "id": "11410",
+    "name": "Морозиво 75 г  Хладик Каштан Полуничний в білій кондитерскій глазурі",
     "category": "Морозиво",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/47305/catalog_list_47305.jpg",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/47307/catalog_list_47307.jpg",
     "oldPrice": "41.90",
     "newPrice": "22.90",
-    "cardPrice": "--.--",
-    "quantity": 0
-  },
-  {
-    "id": "29295",
-    "name": "Морозиво 90 г Своя лінія Факел Полуниця ріжок м/уп",
-    "category": "Морозиво",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/52671/catalog_list_52671.jpg",
-    "oldPrice": "38.50",
-    "newPrice": "24.90",
     "cardPrice": "--.--",
     "quantity": 0
   },
@@ -130,11 +100,21 @@
     "quantity": 0
   },
   {
-    "id": "41489",
-    "name": "Йогурт 280 г Галичина Карпатський без цукру 1,6% п/стакан",
-    "category": "Йогурти",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/91461/catalog_list_91461.jpg",
-    "oldPrice": "39.00",
+    "id": "29295",
+    "name": "Морозиво 90 г Своя лінія Факел Полуниця ріжок м/уп",
+    "category": "Морозиво",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/52671/catalog_list_52671.jpg",
+    "oldPrice": "38.50",
+    "newPrice": "24.90",
+    "cardPrice": "--.--",
+    "quantity": 0
+  },
+  {
+    "id": "11334",
+    "name": "Морозиво 80 г Laska Grandi кокос ескімо",
+    "category": "Морозиво",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/88957/catalog_list_88957.jpg",
+    "oldPrice": "46.90",
     "newPrice": "25.50",
     "cardPrice": "--.--",
     "quantity": 0
@@ -150,11 +130,11 @@
     "quantity": 0
   },
   {
-    "id": "11334",
-    "name": "Морозиво 80 г Laska Grandi кокос ескімо",
-    "category": "Морозиво",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/88957/catalog_list_88957.jpg",
-    "oldPrice": "46.90",
+    "id": "41489",
+    "name": "Йогурт 280 г Галичина Карпатський без цукру 1,6% п/стакан",
+    "category": "Йогурти",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/91461/catalog_list_91461.jpg",
+    "oldPrice": "39.00",
     "newPrice": "25.50",
     "cardPrice": "--.--",
     "quantity": 0
@@ -200,6 +180,26 @@
     "quantity": 0
   },
   {
+    "id": "37997",
+    "name": "Сир плавлений 75 г Комо Вершковий тенеро 35% фольга",
+    "category": "Сири плавлені",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/80517/catalog_list_80517.jpg",
+    "oldPrice": "--.--",
+    "newPrice": "28.60",
+    "cardPrice": "--.--",
+    "quantity": 0
+  },
+  {
+    "id": "37995",
+    "name": "Сир плавлений 75 г Комо бекон 35% фольга",
+    "category": "Сири плавлені",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/80515/catalog_list_80515.jpg",
+    "oldPrice": "--.--",
+    "newPrice": "28.60",
+    "cardPrice": "--.--",
+    "quantity": 0
+  },
+  {
     "id": "33123",
     "name": "Морозиво 115 г Laska зі смаком \"груша-дорблю\" пл/стак",
     "category": "Морозиво",
@@ -220,16 +220,6 @@
     "quantity": 0
   },
   {
-    "id": "23043",
-    "name": "Морозиво 155 г Ласунка Гран-Прі з какао та соусом какао ріжок м/уп",
-    "category": "Морозиво",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/28075/catalog_list_28075.jpg",
-    "oldPrice": "79.90",
-    "newPrice": "39.90",
-    "cardPrice": "--.--",
-    "quantity": 0
-  },
-  {
     "id": "23041",
     "name": "Морозиво 155г Ласунка Гран-Прі Пломбір з підваркою манго ріжок м/уп",
     "category": "Морозиво",
@@ -240,10 +230,20 @@
     "quantity": 0
   },
   {
-    "id": "16087",
-    "name": "Шоколад 100 г Millennium білий миндаль та кокос",
+    "id": "23043",
+    "name": "Морозиво 155 г Ласунка Гран-Прі з какао та соусом какао ріжок м/уп",
+    "category": "Морозиво",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/28075/catalog_list_28075.jpg",
+    "oldPrice": "79.90",
+    "newPrice": "39.90",
+    "cardPrice": "--.--",
+    "quantity": 0
+  },
+  {
+    "id": "16091",
+    "name": "Шоколад 100 г Millennium чорний миндаль та журавлина",
     "category": "Шоколад",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/21241/catalog_list_21241.jpg",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/21245/catalog_list_21245.jpg",
     "oldPrice": "88.90",
     "newPrice": "45.90",
     "cardPrice": "--.--",
@@ -260,10 +260,10 @@
     "quantity": 0
   },
   {
-    "id": "16091",
-    "name": "Шоколад 100 г Millennium чорний миндаль та журавлина",
+    "id": "16087",
+    "name": "Шоколад 100 г Millennium білий миндаль та кокос",
     "category": "Шоколад",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/21245/catalog_list_21245.jpg",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/21241/catalog_list_21241.jpg",
     "oldPrice": "88.90",
     "newPrice": "45.90",
     "cardPrice": "--.--",
@@ -280,20 +280,20 @@
     "quantity": 0
   },
   {
-    "id": "30047",
-    "name": "Паста 180 г Своя Лінія з ікрою океанічної риби та копченою сьомгою ск/банка",
+    "id": "47429",
+    "name": "Паста 180 г Своя Лінія з ікрою океанічної риби та креветками ск/банка ( Аквафрост)",
     "category": "Ікра та рибна паста",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/53711/catalog_list_53711.jpg",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/111775/catalog_list_111775.jpg",
     "oldPrice": "72.90",
     "newPrice": "49.90",
     "cardPrice": "--.--",
     "quantity": 0
   },
   {
-    "id": "47429",
-    "name": "Паста 180 г Своя Лінія з ікрою океанічної риби та креветками ск/банка ( Аквафрост)",
+    "id": "30047",
+    "name": "Паста 180 г Своя Лінія з ікрою океанічної риби та копченою сьомгою ск/банка",
     "category": "Ікра та рибна паста",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/111775/catalog_list_111775.jpg",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/53711/catalog_list_53711.jpg",
     "oldPrice": "72.90",
     "newPrice": "49.90",
     "cardPrice": "--.--",
@@ -310,10 +310,10 @@
     "quantity": 0
   },
   {
-    "id": "44975",
-    "name": "Йогурт 0,8 кг Галичина лохина-чорниця 2,2% п/бут",
+    "id": "44981",
+    "name": "Йогурт 0,8 кг Галичина ягідний мікс 2,2% п/бут",
     "category": "Йогурти",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/103433/catalog_list_103433.jpg",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/103483/catalog_list_103483.jpg",
     "oldPrice": "80.90",
     "newPrice": "54.90",
     "cardPrice": "--.--",
@@ -330,10 +330,10 @@
     "quantity": 0
   },
   {
-    "id": "44981",
-    "name": "Йогурт 0,8 кг Галичина ягідний мікс 2,2% п/бут",
+    "id": "44975",
+    "name": "Йогурт 0,8 кг Галичина лохина-чорниця 2,2% п/бут",
     "category": "Йогурти",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/103483/catalog_list_103483.jpg",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/103433/catalog_list_103433.jpg",
     "oldPrice": "80.90",
     "newPrice": "54.90",
     "cardPrice": "--.--",
@@ -385,26 +385,6 @@
     "category": "Сири тверді",
     "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/111303/catalog_list_111303.jpg",
     "oldPrice": "88.90",
-    "newPrice": "59.90",
-    "cardPrice": "--.--",
-    "quantity": 0
-  },
-  {
-    "id": "46891",
-    "name": "Сир твердий 160 г Свoя лінія зі смаком пряженого молока 50% флoу-пак",
-    "category": "Сири тверді",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/111475/catalog_list_111475.jpg",
-    "oldPrice": "85.90",
-    "newPrice": "59.90",
-    "cardPrice": "--.--",
-    "quantity": 0
-  },
-  {
-    "id": "46889",
-    "name": "Сир твердий 160 г Свoя лінія Гауда 45% флoу-пак",
-    "category": "Сири тверді",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/111473/catalog_list_111473.jpg",
-    "oldPrice": "85.90",
     "newPrice": "59.90",
     "cardPrice": "--.--",
     "quantity": 0
@@ -470,6 +450,26 @@
     "quantity": 0
   },
   {
+    "id": "46891",
+    "name": "Сир твердий 160 г Свoя лінія зі смаком пряженого молока 50% флoу-пак",
+    "category": "Сири тверді",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/111475/catalog_list_111475.jpg",
+    "oldPrice": "--.--",
+    "newPrice": "90.50",
+    "cardPrice": "--.--",
+    "quantity": 0
+  },
+  {
+    "id": "46889",
+    "name": "Сир твердий 160 г Свoя лінія Гауда 45% флoу-пак",
+    "category": "Сири тверді",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/111473/catalog_list_111473.jpg",
+    "oldPrice": "--.--",
+    "newPrice": "90.50",
+    "cardPrice": "--.--",
+    "quantity": 0
+  },
+  {
     "id": "4440",
     "name": "Бальзам-ополіскувач 200 мл Dove hair therapy розкішний об'єм",
     "category": "Догляд за волоссям",
@@ -520,16 +520,6 @@
     "quantity": 0
   },
   {
-    "id": "48851",
-    "name": "Пресерви 500г Своя лінія Оселедець філе-шматочки в олії п/банка ( Крамар)",
-    "category": "Пресерви",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/115471/catalog_list_115471.jpg",
-    "oldPrice": "145.50",
-    "newPrice": "108.90",
-    "cardPrice": "--.--",
-    "quantity": 0
-  },
-  {
     "id": "33143",
     "name": "Морозиво 0,5 кг Мagnat Raspberry Cheesecake зі смаком \"малиновий чизкейк\" пл/лоток",
     "category": "Морозиво",
@@ -566,16 +556,6 @@
     "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/91567/catalog_list_91567.jpg",
     "oldPrice": "212.80",
     "newPrice": "115.90",
-    "cardPrice": "--.--",
-    "quantity": 0
-  },
-  {
-    "id": "6208",
-    "name": "Шампунь 400 мл Dove hair therapy розкішний об'єм",
-    "category": "Шампуні",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/95093/catalog_list_95093.jpg",
-    "oldPrice": "206.90",
-    "newPrice": "129.90",
     "cardPrice": "--.--",
     "quantity": 0
   },
@@ -650,20 +630,20 @@
     "quantity": 0
   },
   {
-    "id": "49641",
-    "name": "Форель 210 г Norven філе-кусок на шкірі cл/c вак/упак",
+    "id": "5201",
+    "name": "Сьомга 210г Norven слабосолена філе-шматок на шкірі",
     "category": "Риба",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/117303/catalog_list_117303.jpg",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/54353/catalog_list_54353.png",
     "oldPrice": "402.40",
     "newPrice": "279.90",
     "cardPrice": "--.--",
     "quantity": 0
   },
   {
-    "id": "5201",
-    "name": "Сьомга 210г Norven слабосолена філе-шматок на шкірі",
+    "id": "49641",
+    "name": "Форель 210 г Norven філе-кусок на шкірі cл/c вак/упак",
     "category": "Риба",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/54353/catalog_list_54353.png",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/117303/catalog_list_117303.jpg",
     "oldPrice": "402.40",
     "newPrice": "279.90",
     "cardPrice": "--.--",
@@ -686,36 +666,6 @@
     "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/88531/catalog_list_88531.jpg",
     "oldPrice": "549.00",
     "newPrice": "296.00",
-    "cardPrice": "--.--",
-    "quantity": 0
-  },
-  {
-    "id": "46489",
-    "name": "Рулет Своя лінія зі свинини к/в вак/упак",
-    "category": "Нарізки та делікатеси",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/108905/catalog_list_108905.jpg",
-    "oldPrice": "448.39",
-    "newPrice": "303.89",
-    "cardPrice": "--.--",
-    "quantity": 0
-  },
-  {
-    "id": "30017",
-    "name": "Ковбaсa М'яснa лaвкa/Своя лінія Сaлямі Ітaлійскa с/к вaк/yпaк",
-    "category": "Ковбаса",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/116629/catalog_list_116629.jpg",
-    "oldPrice": "665.59",
-    "newPrice": "395.89",
-    "cardPrice": "--.--",
-    "quantity": 0
-  },
-  {
-    "id": "132",
-    "name": "Підгузники 30 шт Tena Slip Plus Medium Breathable 73-122 cм для дорослих",
-    "category": "Підгузки для дорослих",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/72325/catalog_list_72325.jpg",
-    "oldPrice": "945.00",
-    "newPrice": "655.90",
     "cardPrice": "--.--",
     "quantity": 0
   },
