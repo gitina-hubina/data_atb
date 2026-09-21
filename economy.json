@@ -130,16 +130,6 @@
     "quantity": 0
   },
   {
-    "id": "29393",
-    "name": "Десерт сирковий аерований 170 г Дольче Вишневий ф'южн 3,4% п/стакан",
-    "category": "Молочні десерти",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/52691/catalog_list_52691.jpg",
-    "oldPrice": "40.90",
-    "newPrice": "28.50",
-    "cardPrice": "--.--",
-    "quantity": 0
-  },
-  {
     "id": "34471",
     "name": "Десерт сирковий аерований 170 г Дольче ананасовий ф'южн 3,4% п/стакан",
     "category": "Молочні десерти",
@@ -154,6 +144,16 @@
     "name": "Десерт сирковий аерований 170 г Дольче ягідний ф'южн 3,4% п/стакан",
     "category": "Молочні десерти",
     "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/68911/catalog_list_68911.jpg",
+    "oldPrice": "40.90",
+    "newPrice": "28.50",
+    "cardPrice": "--.--",
+    "quantity": 0
+  },
+  {
+    "id": "29393",
+    "name": "Десерт сирковий аерований 170 г Дольче Вишневий ф'южн 3,4% п/стакан",
+    "category": "Молочні десерти",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/52691/catalog_list_52691.jpg",
     "oldPrice": "40.90",
     "newPrice": "28.50",
     "cardPrice": "--.--",
@@ -350,32 +350,12 @@
     "quantity": 0
   },
   {
-    "id": "37747",
-    "name": "Виріб фаршевий 420 г Ковбасний ряд/Розумний вибір Баварський н/к вак/упак",
-    "category": "Ковбаса",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/79871/catalog_list_79871.jpg",
-    "oldPrice": "--.--",
-    "newPrice": "110.70",
-    "cardPrice": "--.--",
-    "quantity": 0
-  },
-  {
     "id": "33899",
     "name": "Морозиво 0,55 кг Три Ведмеді \"Monaco Dessert\" \"Panna Cotta\" пл/лоток",
     "category": "Морозиво",
     "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/101973/catalog_list_101973.jpg",
     "oldPrice": "269.90",
     "newPrice": "134.90",
-    "cardPrice": "--.--",
-    "quantity": 0
-  },
-  {
-    "id": "1753",
-    "name": "Ковбаса 0,5 кг М'ясна лавка До пюрешки вар",
-    "category": "Ковбаса",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/1186/catalog_list_1186.png",
-    "oldPrice": "--.--",
-    "newPrice": "140.90",
     "cardPrice": "--.--",
     "quantity": 0
   },
@@ -410,26 +390,6 @@
     "quantity": 0
   },
   {
-    "id": "26817",
-    "name": "Сосиски 0,82 кг Своя лiнiя Докторськi фiрмовi вaр гaз/упaк",
-    "category": "Сосиски, сардельки",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/39039/catalog_list_39039.jpg",
-    "oldPrice": "--.--",
-    "newPrice": "226.90",
-    "cardPrice": "--.--",
-    "quantity": 0
-  },
-  {
-    "id": "5194",
-    "name": "Ковбаса 0,5 кг М'ясна лавка/Своя лінія Шинкова н/к",
-    "category": "Ковбаса",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/3077/catalog_list_3077.jpg",
-    "oldPrice": "--.--",
-    "newPrice": "238.90",
-    "cardPrice": "--.--",
-    "quantity": 0
-  },
-  {
     "id": "45263",
     "name": "Скумбрія День у День атлантична с/м з/г п/ет (Айсберг)",
     "category": "Риба",
@@ -446,16 +406,6 @@
     "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/9404/catalog_list_9404.jpg",
     "oldPrice": "429.89",
     "newPrice": "317.89",
-    "cardPrice": "--.--",
-    "quantity": 0
-  },
-  {
-    "id": "5191",
-    "name": "Ковбаса М'ясна лавка/Своя лінія Салямі Баварська с/к",
-    "category": "Ковбаса",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/112999/catalog_list_112999.png",
-    "oldPrice": "--.--",
-    "newPrice": "651.49",
     "cardPrice": "--.--",
     "quantity": 0
   }
