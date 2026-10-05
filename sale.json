@@ -200,31 +200,11 @@
     "quantity": 0
   },
   {
-    "id": "1295",
-    "name": "Батончик-мюслі 40г Своя лінія Ве-Fit (з кокосом, з чорницею)",
+    "id": "2002",
+    "name": "Батончик 50г Своя Лінія з арахісом, нугою та карамеллю глазурований шоколадною глазур’ю",
     "category": "Батончики",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/35169/catalog_list_35169.jpg",
-    "oldPrice": "15.20",
-    "newPrice": "12.50",
-    "cardPrice": "--.--",
-    "quantity": 0
-  },
-  {
-    "id": "2127",
-    "name": "Батончик 50г Своя Лінія на основі кокосової стружки глазурований",
-    "category": "Батончики",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/1459/catalog_list_1459.jpg",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/1360/catalog_list_1360.jpg",
     "oldPrice": "15.70",
-    "newPrice": "12.50",
-    "cardPrice": "--.--",
-    "quantity": 0
-  },
-  {
-    "id": "5118",
-    "name": "Елемент живлення лужний Своя лінія LR06 AA 1 шт",
-    "category": "Батарейки",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/108933/catalog_list_108933.jpg",
-    "oldPrice": "15.60",
     "newPrice": "12.50",
     "cardPrice": "--.--",
     "quantity": 0
@@ -240,11 +220,31 @@
     "quantity": 0
   },
   {
-    "id": "2002",
-    "name": "Батончик 50г Своя Лінія з арахісом, нугою та карамеллю глазурований шоколадною глазур’ю",
+    "id": "5118",
+    "name": "Елемент живлення лужний Своя лінія LR06 AA 1 шт",
+    "category": "Батарейки",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/108933/catalog_list_108933.jpg",
+    "oldPrice": "15.60",
+    "newPrice": "12.50",
+    "cardPrice": "--.--",
+    "quantity": 0
+  },
+  {
+    "id": "2127",
+    "name": "Батончик 50г Своя Лінія на основі кокосової стружки глазурований",
     "category": "Батончики",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/1360/catalog_list_1360.jpg",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/1459/catalog_list_1459.jpg",
     "oldPrice": "15.70",
+    "newPrice": "12.50",
+    "cardPrice": "--.--",
+    "quantity": 0
+  },
+  {
+    "id": "1295",
+    "name": "Батончик-мюслі 40г Своя лінія Ве-Fit (з кокосом, з чорницею)",
+    "category": "Батончики",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/35169/catalog_list_35169.jpg",
+    "oldPrice": "15.20",
     "newPrice": "12.50",
     "cardPrice": "--.--",
     "quantity": 0
@@ -890,6 +890,16 @@
     "quantity": 0
   },
   {
+    "id": "47251",
+    "name": "Печиво 180 г Свoя лiнiя цукрове з начинкою какао м/уп",
+    "category": "Печиво, пряники",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/112679/catalog_list_112679.jpg",
+    "oldPrice": "32.50",
+    "newPrice": "26.60",
+    "cardPrice": "--.--",
+    "quantity": 0
+  },
+  {
     "id": "50467",
     "name": "Пюре 90 г Чудо-Чадо Гарбуз з фруктами, д/пак",
     "category": "Пюре",
@@ -1380,6 +1390,16 @@
     "quantity": 0
   },
   {
+    "id": "3195",
+    "name": "Ядро насіння соняшника 300г Розумний вибір не смажене",
+    "category": "Снеки",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/2274/catalog_list_2274.jpg",
+    "oldPrice": "41.90",
+    "newPrice": "35.60",
+    "cardPrice": "--.--",
+    "quantity": 0
+  },
+  {
     "id": "2268",
     "name": "Пиво 0,5 л Оболонь Світле",
     "category": "Пиво",
@@ -1460,21 +1480,21 @@
     "quantity": 0
   },
   {
-    "id": "3102",
-    "name": "Набір рукавичок робочих Розумний вибір 3 пари, арт.PDG1057 без/уп",
-    "category": "Товари для прибирання",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/2223/catalog_list_2223.jpg",
-    "oldPrice": "47.90",
-    "newPrice": "38.30",
-    "cardPrice": "--.--",
-    "quantity": 0
-  },
-  {
     "id": "9584",
     "name": "Чипси 100 г El Sabor Начо кукурудзяні зі смаком сиру",
     "category": "Чипси",
     "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/95079/catalog_list_95079.jpg",
     "oldPrice": "45.70",
+    "newPrice": "38.30",
+    "cardPrice": "--.--",
+    "quantity": 0
+  },
+  {
+    "id": "3102",
+    "name": "Набір рукавичок робочих Розумний вибір 3 пари, арт.PDG1057 без/уп",
+    "category": "Товари для прибирання",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/2223/catalog_list_2223.jpg",
+    "oldPrice": "47.90",
     "newPrice": "38.30",
     "cardPrice": "--.--",
     "quantity": 0
@@ -2420,20 +2440,20 @@
     "quantity": 0
   },
   {
-    "id": "5015",
-    "name": "Вино 1л Розумний вибір Мускат Вечірня Одеса напівсолодке біле 9-13%, Україна",
+    "id": "5016",
+    "name": "Вино 1л Розумний вибір Кадарка Вечірня Одеса напівсолодке червоне 9-13%, Україна",
     "category": "Вино",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/112239/catalog_list_112239.jpg",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/112237/catalog_list_112237.jpg",
     "oldPrice": "86.80",
     "newPrice": "78.20",
     "cardPrice": "--.--",
     "quantity": 0
   },
   {
-    "id": "5016",
-    "name": "Вино 1л Розумний вибір Кадарка Вечірня Одеса напівсолодке червоне 9-13%, Україна",
+    "id": "5015",
+    "name": "Вино 1л Розумний вибір Мускат Вечірня Одеса напівсолодке біле 9-13%, Україна",
     "category": "Вино",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/112237/catalog_list_112237.jpg",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/112239/catalog_list_112239.jpg",
     "oldPrice": "86.80",
     "newPrice": "78.20",
     "cardPrice": "--.--",
@@ -3526,6 +3546,16 @@
     "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/113619/catalog_list_113619.jpg",
     "oldPrice": "607.50",
     "newPrice": "470.80",
+    "cardPrice": "--.--",
+    "quantity": 0
+  },
+  {
+    "id": "3522",
+    "name": "Молочна суміш 0,6 кг Nutrilon 3",
+    "category": "Молочні суміші",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/113013/catalog_list_113013.jpg",
+    "oldPrice": "661.00",
+    "newPrice": "545.50",
     "cardPrice": "--.--",
     "quantity": 0
   },
