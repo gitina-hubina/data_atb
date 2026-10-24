@@ -1,15 +1,5 @@
 [
   {
-    "id": "11169",
-    "name": "Вафлі 34 г Рошен Roshetto dark глазуровані шоколадною глазур'ю",
-    "category": "Вафлі",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/11419/catalog_list_11419.jpg",
-    "oldPrice": "14.80",
-    "newPrice": "9.90",
-    "cardPrice": "--.--",
-    "quantity": 0
-  },
-  {
     "id": "18637",
     "name": "Вафля 26 г Nestle Nesquik DUO в молочному шоколаді",
     "category": "Вафлі",
@@ -80,20 +70,10 @@
     "quantity": 0
   },
   {
-    "id": "40617",
-    "name": "Йогурт 207 г Milupa банан-абрикос 2,1% п/пак",
+    "id": "34053",
+    "name": "Йогурт 207 г Milupa банан-суниця 2,1% п/пак",
     "category": "Дитяча молочна продукція",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/98157/catalog_list_98157.jpg",
-    "oldPrice": "24.30",
-    "newPrice": "17.90",
-    "cardPrice": "--.--",
-    "quantity": 0
-  },
-  {
-    "id": "34055",
-    "name": "Йогурт 207 г Milupa полуниця-банан 2,1% п/пак",
-    "category": "Дитяча молочна продукція",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/98139/catalog_list_98139.jpg",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/98137/catalog_list_98137.jpg",
     "oldPrice": "24.30",
     "newPrice": "17.90",
     "cardPrice": "--.--",
@@ -110,10 +90,20 @@
     "quantity": 0
   },
   {
-    "id": "34053",
-    "name": "Йогурт 207 г Milupa банан-суниця 2,1% п/пак",
+    "id": "34055",
+    "name": "Йогурт 207 г Milupa полуниця-банан 2,1% п/пак",
     "category": "Дитяча молочна продукція",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/98137/catalog_list_98137.jpg",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/98139/catalog_list_98139.jpg",
+    "oldPrice": "24.30",
+    "newPrice": "17.90",
+    "cardPrice": "--.--",
+    "quantity": 0
+  },
+  {
+    "id": "40617",
+    "name": "Йогурт 207 г Milupa банан-абрикос 2,1% п/пак",
+    "category": "Дитяча молочна продукція",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/98157/catalog_list_98157.jpg",
     "oldPrice": "24.30",
     "newPrice": "17.90",
     "cardPrice": "--.--",
@@ -160,16 +150,6 @@
     "quantity": 0
   },
   {
-    "id": "1630",
-    "name": "Вода 1,5л Своя Лінія Трускавецька мінеральна негазована",
-    "category": "Мінеральна і питна вода",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/1755/catalog_list_1755.jpg",
-    "oldPrice": "27.90",
-    "newPrice": "19.50",
-    "cardPrice": "--.--",
-    "quantity": 0
-  },
-  {
     "id": "1629",
     "name": "Вода 1,5л Своя Лінія Трускавецька мінеральна сильногазована",
     "category": "Мінеральна і питна вода",
@@ -180,20 +160,20 @@
     "quantity": 0
   },
   {
-    "id": "39571",
-    "name": "Морозиво 70 г Хрещатик пломбір у ваф.стак. п/ет",
-    "category": "Морозиво",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/86821/catalog_list_86821.jpg",
-    "oldPrice": "35.50",
-    "newPrice": "19.90",
+    "id": "1630",
+    "name": "Вода 1,5л Своя Лінія Трускавецька мінеральна негазована",
+    "category": "Мінеральна і питна вода",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/1755/catalog_list_1755.jpg",
+    "oldPrice": "27.90",
+    "newPrice": "19.50",
     "cardPrice": "--.--",
     "quantity": 0
   },
   {
-    "id": "39573",
-    "name": "Морозиво 70 г Хрещатик пломбір шоколадний у ваф.стак. п/ет",
+    "id": "40433",
+    "name": "Морозиво 70 г Хрещатик пломбір фісташковий ваф. стак. п/ет",
     "category": "Морозиво",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/86823/catalog_list_86823.jpg",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/89071/catalog_list_89071.jpg",
     "oldPrice": "35.50",
     "newPrice": "19.90",
     "cardPrice": "--.--",
@@ -210,22 +190,22 @@
     "quantity": 0
   },
   {
-    "id": "40433",
-    "name": "Морозиво 70 г Хрещатик пломбір фісташковий ваф. стак. п/ет",
+    "id": "39573",
+    "name": "Морозиво 70 г Хрещатик пломбір шоколадний у ваф.стак. п/ет",
     "category": "Морозиво",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/89071/catalog_list_89071.jpg",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/86823/catalog_list_86823.jpg",
     "oldPrice": "35.50",
     "newPrice": "19.90",
     "cardPrice": "--.--",
     "quantity": 0
   },
   {
-    "id": "3685",
-    "name": "Йогурт 300г Галичина Злаки 2,2%",
-    "category": "Йогурти",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/3536/catalog_list_3536.jpg",
-    "oldPrice": "37.60",
-    "newPrice": "24.40",
+    "id": "39571",
+    "name": "Морозиво 70 г Хрещатик пломбір у ваф.стак. п/ет",
+    "category": "Морозиво",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/86821/catalog_list_86821.jpg",
+    "oldPrice": "35.50",
+    "newPrice": "19.90",
     "cardPrice": "--.--",
     "quantity": 0
   },
@@ -250,21 +230,21 @@
     "quantity": 0
   },
   {
-    "id": "11342",
-    "name": "Морозиво 75 г  Хрещатик на печиві з какао сендвіч",
-    "category": "Морозиво",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/47283/catalog_list_47283.jpg",
-    "oldPrice": "45.50",
-    "newPrice": "25.90",
-    "cardPrice": "--.--",
-    "quantity": 0
-  },
-  {
     "id": "11709",
     "name": "Пиво 0,5 л Чернігівське світле",
     "category": "Пиво",
     "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/113587/catalog_list_113587.jpg",
     "oldPrice": "38.90",
+    "newPrice": "25.90",
+    "cardPrice": "--.--",
+    "quantity": 0
+  },
+  {
+    "id": "11342",
+    "name": "Морозиво 75 г  Хрещатик на печиві з какао сендвіч",
+    "category": "Морозиво",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/47283/catalog_list_47283.jpg",
+    "oldPrice": "45.50",
     "newPrice": "25.90",
     "cardPrice": "--.--",
     "quantity": 0
@@ -320,20 +300,20 @@
     "quantity": 0
   },
   {
-    "id": "35723",
-    "name": "Насіння соняшнику 150 г День у День солоне смажене м/уп",
+    "id": "35721",
+    "name": "Насіння соняшнику 150 г День у День несолоне смажене м/уп",
     "category": "Снеки",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/72705/catalog_list_72705.jpg",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/72703/catalog_list_72703.jpg",
     "oldPrice": "39.50",
     "newPrice": "27.50",
     "cardPrice": "--.--",
     "quantity": 0
   },
   {
-    "id": "35721",
-    "name": "Насіння соняшнику 150 г День у День несолоне смажене м/уп",
+    "id": "35723",
+    "name": "Насіння соняшнику 150 г День у День солоне смажене м/уп",
     "category": "Снеки",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/72703/catalog_list_72703.jpg",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/72705/catalog_list_72705.jpg",
     "oldPrice": "39.50",
     "newPrice": "27.50",
     "cardPrice": "--.--",
@@ -350,11 +330,11 @@
     "quantity": 0
   },
   {
-    "id": "7108",
-    "name": "Цукерка 42г Nestle Nuts",
-    "category": "Батончики",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/101097/catalog_list_101097.jpg",
-    "oldPrice": "39.90",
+    "id": "39559",
+    "name": "Крем-мило рідке 460 мл День у День Маракуя та Авокадо/Манго та Ананас дой-пак",
+    "category": "Мило",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/86807/catalog_list_86807.jpg",
+    "oldPrice": "40.80",
     "newPrice": "27.90",
     "cardPrice": "--.--",
     "quantity": 0
@@ -370,11 +350,11 @@
     "quantity": 0
   },
   {
-    "id": "29589",
-    "name": "Пивo 0,48 л Львівське М'яке світлe ж/б",
-    "category": "Пиво",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/114673/catalog_list_114673.jpg",
-    "oldPrice": "42.70",
+    "id": "6343",
+    "name": "Серветки паперові 200 шт Розумний вибір білі одношарові",
+    "category": "Серветки, рушники",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/98093/catalog_list_98093.jpg",
+    "oldPrice": "41.90",
     "newPrice": "28.50",
     "cardPrice": "--.--",
     "quantity": 0
@@ -396,16 +376,6 @@
     "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/118269/catalog_list_118269.jpg",
     "oldPrice": "40.90",
     "newPrice": "28.50",
-    "cardPrice": "--.--",
-    "quantity": 0
-  },
-  {
-    "id": "33059",
-    "name": "Печиво 127 г Roshen Lovita Soft Cream Peanut м/уп",
-    "category": "Печиво, пряники",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/64439/catalog_list_64439.jpg",
-    "oldPrice": "42.90",
-    "newPrice": "28.90",
     "cardPrice": "--.--",
     "quantity": 0
   },
@@ -980,16 +950,6 @@
     "quantity": 0
   },
   {
-    "id": "24577",
-    "name": "Молоко 0,95 кг Яготинське для дітей вітамінізоване 3,2% тетра-пак",
-    "category": "Молоко",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/83943/catalog_list_83943.jpg",
-    "oldPrice": "76.90",
-    "newPrice": "55.90",
-    "cardPrice": "--.--",
-    "quantity": 0
-  },
-  {
     "id": "45897",
     "name": "Крабові палички 240 г Своя Лiнiя охолоджені п/етилен ( Аквафрост)",
     "category": "Крабові палички",
@@ -1160,20 +1120,20 @@
     "quantity": 0
   },
   {
-    "id": "30915",
-    "name": "Паста зубна 75мл Blend-a-med 3DWhite З Дерев Вугіллям к/уп",
+    "id": "35307",
+    "name": "Паста зубна 75 мл Blend-a-med 3DWhite Арктична Свіжість к/уп",
     "category": "Гігієна ротової порожнини",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/56207/catalog_list_56207.jpg",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/71249/catalog_list_71249.jpg",
     "oldPrice": "89.00",
     "newPrice": "65.90",
     "cardPrice": "--.--",
     "quantity": 0
   },
   {
-    "id": "35307",
-    "name": "Паста зубна 75 мл Blend-a-med 3DWhite Арктична Свіжість к/уп",
+    "id": "30915",
+    "name": "Паста зубна 75мл Blend-a-med 3DWhite З Дерев Вугіллям к/уп",
     "category": "Гігієна ротової порожнини",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/71249/catalog_list_71249.jpg",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/56207/catalog_list_56207.jpg",
     "oldPrice": "89.00",
     "newPrice": "65.90",
     "cardPrice": "--.--",
@@ -1666,16 +1626,6 @@
     "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/56635/catalog_list_56635.png",
     "oldPrice": "224.90",
     "newPrice": "170.50",
-    "cardPrice": "--.--",
-    "quantity": 0
-  },
-  {
-    "id": "49505",
-    "name": "Гель для прання 2 л iGEL Universal п/флакон",
-    "category": "Пральні порошки та засоби для прання",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/117001/catalog_list_117001.jpg",
-    "oldPrice": "261.60",
-    "newPrice": "174.90",
     "cardPrice": "--.--",
     "quantity": 0
   },
