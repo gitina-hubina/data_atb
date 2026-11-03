@@ -3880,16 +3880,6 @@
     "quantity": 0
   },
   {
-    "id": "3004",
-    "name": "Крекер 100г Tuc зі смаком сметани та цибулі",
-    "category": "Крекери",
-    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/2166/catalog_list_2166.jpg",
-    "oldPrice": "--.--",
-    "newPrice": "56.60",
-    "cardPrice": "53.71",
-    "quantity": 0
-  },
-  {
     "id": "6567",
     "name": "Насіння 150г Своя лінія гарбузове смажене солоне",
     "category": "Снеки",
@@ -3897,6 +3887,16 @@
     "oldPrice": "66.90",
     "newPrice": "56.60",
     "cardPrice": "--.--",
+    "quantity": 0
+  },
+  {
+    "id": "3004",
+    "name": "Крекер 100г Tuc зі смаком сметани та цибулі",
+    "category": "Крекери",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/2166/catalog_list_2166.jpg",
+    "oldPrice": "--.--",
+    "newPrice": "56.60",
+    "cardPrice": "53.71",
     "quantity": 0
   },
   {
@@ -5666,6 +5666,16 @@
     "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/57317/catalog_list_57317.png",
     "oldPrice": "--.--",
     "newPrice": "108.90",
+    "cardPrice": "--.--",
+    "quantity": 0
+  },
+  {
+    "id": "68",
+    "name": "Тушка куряча Наша Ряба охолоджена вакумна упаковка",
+    "category": "М'ясо охолоджене",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/82195/catalog_list_82195.jpg",
+    "oldPrice": "135.59",
+    "newPrice": "109.79",
     "cardPrice": "--.--",
     "quantity": 0
   },
